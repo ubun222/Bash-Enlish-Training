@@ -33,7 +33,7 @@ if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo  "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
 echo -n "$pureanswer" 
-cat $1 | grep -A 5 "${answer1} |" | sort -k2n | uniq  
+cat $1 | grep -A 5 "${answer1} |" | sort -k2n | uniq  >/dev/null  2>&1 
 echo
 echo 还有$[$ii-$i]题
 fi
@@ -65,7 +65,7 @@ if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
 echo -n "$pureanswer" 
-cat $1 | grep -A 5 "${answer1} |" | sort -k2n | uniq 
+cat $1 | grep -A 5 "${answer1} |" | sort -k2n | uniq >/dev/null  2>&1 
 echo
 echo 还有$[$ii-$i]题
 fi
@@ -97,7 +97,7 @@ if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
 echo -n "$pureanswer" 
-cat $1 | grep -A 5 "${answer1} |" | sort -k2n | uniq 
+cat $1 | grep -A 5 "${answer1} |" | sort -k2n | uniq  >/dev/null  2>&1 
 echo
 echo 还有$[$ii-$i]题
 fi
