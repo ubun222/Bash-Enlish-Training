@@ -32,7 +32,6 @@ read -p  "是否查看答案y/n/v：" bool
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo  "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
-echo
 echo -n "$pureanswer" 
 cat $1 $2 | grep -A 5 "${answer1} |" | sort -k2n | uniq  
 echo
@@ -65,7 +64,6 @@ read -p  "是否查看答案y/n/v：" bool
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
-echo
 echo -n "$pureanswer" 
 cat $1 $2 | grep -A 5 "${answer1} |" | sort -k2n | uniq 
 echo
@@ -98,7 +96,6 @@ read -p  "是否查看答案y/n/v：" bool
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
-echo
 echo -n "$pureanswer" 
 cat $1 $2 | grep -A 5 "${answer1} |" | sort -k2n | uniq 
 echo
