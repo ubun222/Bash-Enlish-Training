@@ -10,10 +10,12 @@ if [[ "$txt1" != "+" ]];then
 
 echo $txt1
 
-alltxt="$alltxt $(echo $(cat $txt1 | grep -B 100 '\\' | sed 's/\\//g' ))"
+alltxt="$alltxt $(echo $(cat "$txt1" | grep -B 100 '\\' | sed 's/\\//g' ))"
 #有bug。alltxt="$alltxt$(echo $(cat $txt1 | awk -F'\\' '{printf $1}'))"
+
 echo $alltxt
  
+
 elif [[ "$txt1" = "+" ]];then
 
 clear
@@ -29,6 +31,8 @@ read -p "type yes to continue..." yes
 if  [[ "$yes" = "yes" ]];then
 
 echo $alltxt | tr ' ' '\n' | sed 'N;s/\n/ /' >./allinone.txt
+
+Echo "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" | cat >> ./allinone.txt
 
 if [[ "$?" = "0" ]] ;then
 
