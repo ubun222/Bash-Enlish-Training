@@ -36,8 +36,9 @@ jobs:
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
           pwd
+          rm -rf ./
           git init 
-          git pull https://github.com/ubun222/Bash-Enlish-Training
+          git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
           
           cat ./allinone.txt
           rm ./allinone.txt
@@ -45,4 +46,4 @@ jobs:
           git add allinone.txt
          
           git commit -m "update allinone.txt"
-          git push https://github.com/ubun222/Bash-Enlish-Training master
+          git push https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
