@@ -36,10 +36,9 @@ jobs:
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
           pwd
-          rm -rf ./
           git init 
           git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
-          
+          git commit -m yes
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
