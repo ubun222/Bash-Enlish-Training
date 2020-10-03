@@ -47,5 +47,5 @@ jobs:
           echo 0 > allinone.txt
           git add allinone.txt
           git commit -m "update allinone.txt"
-          git push origin HEAD:ubun222-patch-3
+          git push https://github.com/ubun222/Bash-Enlish-Training HEAD:ubun222-patch-3
           
