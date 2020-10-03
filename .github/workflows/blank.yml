@@ -37,7 +37,7 @@ jobs:
           git config --global user.email 925966086@qq.com
           pwd
           git init 
-          git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
+          git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3 --allow-unrelated-histories
           git commit -m yes
           cat ./allinone.txt
           rm ./allinone.txt
