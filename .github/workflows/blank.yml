@@ -33,12 +33,11 @@ jobs:
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
-          echo 123 > allinone.txt
-          #git add allinone.txt
-          #git add .
-          #git config --global credential.helper store
-          #git config --global user.name ubun222
-          #git config --global user.email 925966086@qq.com
-          #git commit -m "update allinone.txt"
-          #git push origin master
+          git add allinone.txt
+          git add .
+          git config --global credential.helper store
+          git config --global user.name ubun222
+          git config --global user.email 925966086@qq.com
+          git commit -m "update allinone.txt"
+          git push origin ubun222-patch-3
     
