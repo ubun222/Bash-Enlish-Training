@@ -59,4 +59,4 @@ jobs:
           git add date.txt
           git add allinone.txt
           git commit -m "update allinone.txt and date"
-          git push origin master
+          git push origin HEAD:master
