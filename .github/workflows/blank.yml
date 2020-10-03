@@ -40,11 +40,10 @@ jobs:
           pwd
           git init 
           git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
-          cat ./allinone.txt
+          #cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
           echo 0 > allinone.txt
           git add allinone.txt
-         
           git commit -m "update allinone.txt"
-          git push https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
+          git push https://github.com/ubun222/Bash-Enlish-Training HEAD:ubun222-patch-3
