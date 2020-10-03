@@ -30,8 +30,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
-          git clone https://github.com/ubun222/Bash-Enlish-Training
-          cd ./Bash-Enlish-Training
           ./txts.sh | ./allinone.sh
           git config --global credential.helper store
           git config --global user.name ubun222
