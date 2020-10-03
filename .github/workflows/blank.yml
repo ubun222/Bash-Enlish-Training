@@ -38,6 +38,7 @@ jobs:
           # git clone https://github.com/ubun222/Bash-Enlish-Training.git
           # cd ./Bash-Enlish-Training
           echo ${{ secrets.zhanghao }}
+          echo 0
           pwd
           git init 
           git config --global credential.helper store
