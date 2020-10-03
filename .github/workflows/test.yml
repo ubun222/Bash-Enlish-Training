@@ -9,9 +9,9 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    branches: [ ubun222-patch-1 ]
+    branches: [ factory ]
   pull_request:
-    branches: [ ubun222-patch-1 ]
+    branches: [ factory ]
   
   
   
