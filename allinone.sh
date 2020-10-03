@@ -22,7 +22,7 @@ clear
 
 #echo $alltxt | tr ' ' '\n' | sed 'N;s/\n/ /'
 
-read -t 3 -p "creating $(pwd)/allinone.txt..."
+echo  "creating $(pwd)/allinone.txt..."
 
 echo  
 
@@ -32,7 +32,7 @@ if  [[ "$yes" = "yes" ]];then
 
 echo $alltxt | tr ' ' '\n' | sed 'N;s/\n/ /' >./allinone.txt
 
-Echo "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" | cat >> ./allinone.txt
+echo "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" | cat >> ./allinone.txt
 
 if [[ "$?" = "0" ]] ;then
 

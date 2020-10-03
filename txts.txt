@@ -1,0 +1,6 @@
+/root/github/txt/9-3.txt
+/root/github/txt/9-4.txt
+/root/github/txt/9-9.txt
++
+
+yes
