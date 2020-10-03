@@ -30,6 +30,8 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
+          mkdir test
+          cd test
           #git clone https://github.com/ubun222/Bash-Enlish-Training.git
           #cd ./Bash-Enlish-Training
           git config --global credential.helper store
@@ -37,8 +39,7 @@ jobs:
           git config --global user.email 925966086@qq.com
           pwd
           git init 
-          git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3 --allow-unrelated-histories
-          git commit -m yes
+          git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
