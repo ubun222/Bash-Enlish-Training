@@ -30,6 +30,8 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
+          git clone https://github.con/ubun222/Bash-Enlish-Training.git
+          cd ./Bash-Enlish-Training
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
@@ -39,5 +41,4 @@ jobs:
           git config --global user.name ubun222
           git config --global user.email 925966086@qq.com
           git commit -m "update allinone.txt"
-          git push origin ubun222-patch-3
-    
+          git push origin master
