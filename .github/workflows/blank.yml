@@ -40,6 +40,7 @@ jobs:
           git config --global credential.helper store
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
+          git remote add origin https://github.com/ubun222/Bash-Enlish-Training.git
           git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
           #cat ./allinone.txt
           rm ./allinone.txt
@@ -47,5 +48,5 @@ jobs:
           echo 0 > allinone.txt
           git add allinone.txt
           git commit -m "update allinone.txt"
-          git push https://github.com/ubun222/Bash-Enlish-Training HEAD:ubun222-patch-3
+          git push origin HEAD:ubun222-patch-3
           
