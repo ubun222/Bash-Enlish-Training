@@ -36,6 +36,6 @@ jobs:
           ./txts.sh | ./allinone.sh
           git config --global user.name ubun222
           git config --global user.email 925966086@qq.com  
-          git push origin ubun222-patch-2
+          git push origin master
           
         
