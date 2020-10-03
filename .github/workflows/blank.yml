@@ -40,7 +40,7 @@ jobs:
           git config --global credential.helper store
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
-          git remote add origin https://github.com/ubun222/Bash-Enlish-Training.git
+          git remote add origin https://ubun222:Chenbo121212@github.com/ubun222/Bash-Enlish-Training.git
           git pull https://github.com/ubun222/Bash-Enlish-Training ubun222-patch-3
           #cat ./allinone.txt
           rm ./allinone.txt
