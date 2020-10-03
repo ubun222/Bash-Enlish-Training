@@ -39,6 +39,7 @@ jobs:
           ls
           mkdir test
           cd test
+          rm *
           # git clone https://github.com/ubun222/Bash-Enlish-Training.git
           # cd ./Bash-Enlish-Training
           echo ${{ secrets.zhanghao }}
