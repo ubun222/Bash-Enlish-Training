@@ -32,9 +32,8 @@ jobs:
           ls
           mkdir test
           cd test
-          #git clone https://github.com/ubun222/Bash-Enlish-Training.git
-          #cd ./Bash-Enlish-Training
-          git config --global credential.helper store
+          # git clone https://github.com/ubun222/Bash-Enlish-Training.git
+          # cd ./Bash-Enlish-Training
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
           pwd
@@ -47,3 +46,4 @@ jobs:
           git add allinone.txt
           git commit -m "update allinone.txt"
           git push https://github.com/ubun222/Bash-Enlish-Training HEAD:ubun222-patch-3
+          
