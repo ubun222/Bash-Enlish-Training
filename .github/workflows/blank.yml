@@ -30,14 +30,19 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
-          git clone https://github.com/ubun222/Bash-Enlish-Training.git
-          cd ./Bash-Enlish-Training
+          #git clone https://github.com/ubun222/Bash-Enlish-Training.git
+          #cd ./Bash-Enlish-Training
+          git config --global credential.helper store
+          git config --global user.name 'ubun222'
+          git config --global user.email 925966086@qq.com
+          pwd
+          git init 
+          git pull https://github.com/ubun222/Bash-Enlish-Training
+          
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
           git add allinone.txt
-          git config --global credential.helper store
-          git config --global user.name 'ubun222'
-          git config --global user.email 925966086@qq.com
+         
           git commit -m "update allinone.txt"
-          git push origin master
+          git push https://github.com/ubun222/Bash-Enlish-Training master
