@@ -37,7 +37,7 @@ jobs:
           cd test
           # git clone https://github.com/ubun222/Bash-Enlish-Training.git
           # cd ./Bash-Enlish-Training
-         
+          echo ${{ secrets.zhanghao }}
           pwd
           git init 
           git config --global credential.helper store
@@ -48,8 +48,10 @@ jobs:
           #cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
-          echo 0 > allinone.txt
+          echo $(date) > date.txt
+          git add date.txt
           git add allinone.txt
-          git commit -m "update allinone.txt"
+          git commit -m "update allinone.txt and date"
           git push origin HEAD:ubun222-patch-3
+          
           
