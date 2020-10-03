@@ -37,7 +37,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
-          rm -rf test
           mkdir test
           cd test
           # git clone https://github.com/ubun222/Bash-Enlish-Training.git
@@ -59,4 +58,4 @@ jobs:
           git add date.txt
           git add allinone.txt
           git commit -m "update allinone.txt and date"
-          git push origin HEAD:master
+          git push origin master
