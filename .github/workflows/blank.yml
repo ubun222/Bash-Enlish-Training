@@ -30,7 +30,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
-          git clone https://github.con/ubun222/Bash-Enlish-Training.git
+          git clone https://github.com/ubun222/Bash-Enlish-Training.git
           cd ./Bash-Enlish-Training
           cat ./allinone.txt
           rm ./allinone.txt
