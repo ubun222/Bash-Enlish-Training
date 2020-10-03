@@ -43,6 +43,7 @@ jobs:
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
+          echo 0 > allinone.txt
           git add allinone.txt
          
           git commit -m "update allinone.txt"
