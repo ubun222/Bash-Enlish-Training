@@ -43,7 +43,6 @@ jobs:
           echo ${{ secrets.zhanghao }}
           echo 0
           cat ./allinone.txt
-          pwd
           #git init 
           #git config pull.rebase false
           git config --global credential.helper store
