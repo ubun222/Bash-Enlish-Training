@@ -43,12 +43,12 @@ jobs:
           echo ${{ secrets.zhanghao }}
           echo 0
           git init 
-          git config pull.rebase false
+          #git config pull.rebase false
           git config --global credential.helper store
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
-          git remote add origin https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git
-          git pull https://github.com/ubun222/Bash-Enlish-Training master
+          #git remote add origin https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git
+          #git pull https://github.com/ubun222/Bash-Enlish-Training master
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
