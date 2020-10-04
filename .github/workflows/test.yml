@@ -47,7 +47,7 @@ jobs:
           git config --global credential.helper store
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
-          git remote add origin https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git
+          #git remote add origin https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git
           #git pull https://github.com/ubun222/Bash-Enlish-Training master
           cat ./allinone.txt
           rm ./allinone.txt
@@ -56,4 +56,13 @@ jobs:
           git add date.txt
           git add allinone.txt
           git commit -m "update allinone.txt and date"
-          git push https://github.com/ubun222/Bash-Enlish-Training master
+          #git push https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git
+          #git pull https://github.com/ubun222/Bash-Enlish-Training master
+          cat ./allinone.txt
+          rm ./allinone.txt
+          ./txts.sh | ./allinone.sh
+          echo $(date) > date.txt
+          git add date.txt
+          git add allinone.txt
+          git commit -m "update allinone.txt and date"
+          git push https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git master
