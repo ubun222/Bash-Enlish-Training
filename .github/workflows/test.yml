@@ -8,10 +8,8 @@ name: CI
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push:
-    branches: [ factory ]
   pull_request:
-    branches: [ factory ]
+    branches: [ master ]
   
   
   
@@ -37,20 +35,21 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
-          mkdir test
-          cd test
+          #mkdir test
+          #cd test
           # git clone https://github.com/ubun222/Bash-Enlish-Training.git
           # cd ./Bash-Enlish-Training
           echo ${{ secrets.zhanghao }}
           echo 0
+          cat ./allinone.txt
           pwd
-          git init 
-          git config pull.rebase false
+          #git init 
+          #git config pull.rebase false
           git config --global credential.helper store
           git config --global user.name 'ubun222'
           git config --global user.email 925966086@qq.com
           git remote add origin https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git
-          git pull https://github.com/ubun222/Bash-Enlish-Training master
+          #git pull https://github.com/ubun222/Bash-Enlish-Training master
           #cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
