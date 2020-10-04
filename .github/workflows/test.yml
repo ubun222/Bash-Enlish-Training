@@ -58,4 +58,4 @@ jobs:
           git commit -m "update allinone.txt and date"
           #git push https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git
           #git pull https://github.com/ubun222/Bash-Enlish-Training master
-          git push https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git master
+         # git push https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git master
