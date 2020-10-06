@@ -5,6 +5,8 @@ echo 检测到$[$n/2]组单词
 m=$(($n+0))
 #r=$(($RANDOM%$m+1))
 list=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| grep -n '')
+echo $list
+#echo $list
 clear
 echo "--------------------------------------------------"
 echo "-----------welcome to English Training------------"
@@ -15,12 +17,13 @@ if [[ $mode = 3 ]] ;then
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
 do
-question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| grep -n '' | grep $((RANDOM%m+1)) | head -n 1 | awk -F: '{printf $2}')
+m=$(($RANDOM%$n+1))
+question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| grep -n '' | grep $m | head -n 1 | awk -F: '{printf $2}')
 echo  -------------------------------------------------- 
 printf $question
-pureanswer=$(echo $list|tr ' ' '\n' | sed 'N;s/\n/ /' |grep $question |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
+No=$[$[m/2]+$[m%2]]
+pureanswer=$(echo $list|tr ' ' '\n' | sed 'N;s/\n/ /' |grep -w $question |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 read -p '————请输入答案:'  scanf
-
 answer1=$(echo $pureanswer | awk '{printf $1}')
 answer2=$(echo $pureanswer | awk '{printf $2}')
 #echo $answer1
@@ -32,7 +35,7 @@ read -p  "是否查看答案y/n/v：" bool
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo  "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
-echo -n "$pureanswer" 
+printf "$pureanswer" 
 (cat $1 $2 $3| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&errors
 echo @还有$[$ii-$i]题
 fi
@@ -100,5 +103,3 @@ echo @还有$[$ii-$i]题
 fi
 done
 fi
-
-

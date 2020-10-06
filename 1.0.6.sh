@@ -5,7 +5,6 @@ echo 检测到$[$n/2]组单词
 m=$(($n+0))
 #r=$(($RANDOM%$m+1))
 list=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| grep -n '')
-echo $list
 #echo $list
 clear
 echo "--------------------------------------------------"
