@@ -1,4 +1,4 @@
-((read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3) >/dev/tty) >&errors
+read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 txt=$( echo $txt1 && echo $txt2 && echo $txt3)
 n=$(echo $txt | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 echo 检测到$[$n/2]组单词
