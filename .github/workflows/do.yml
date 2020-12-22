@@ -19,9 +19,6 @@ jobs:
           cd ./Bash-Enlish-Training
           echo ${{ secrets.zhanghao }}
           git init 
-          git config --global credential.helper store
-          git config --global user.name 'ubun222'
-          git config --global user.email 925966086@qq.com
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
