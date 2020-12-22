@@ -79,7 +79,7 @@ read -p  "是否查看答案y/n/v：" bool
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
-echo -n "$pureanswer" 
+printf "$pureanswer"
 (cat $1 $2 $3| grep -A 5 "${answer1} |" | sort -k2n | uniq >/dev/tty)>&/dev/null
 echo @还有$[$ii-$i]题
 fi
@@ -104,14 +104,14 @@ answer1=$(echo $pureanswer | awk '{printf $1}')
 answer2=$(echo $pureanswer | awk '{printf $2}')
 #echo $answer1
 #echo $answer2 
-if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
+if [[ $scanf = $answer2 ]];then
 echo 正确
 fi 
 read -p  "是否查看答案y/n/v：" bool
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 echo "$pureanswer" 
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
-echo -n "$pureanswer" 
+printf "$pureanswer"
 (cat $1 $2 $3| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty)>&/dev/null
 echo @还有$[$ii-$i]题
 fi
