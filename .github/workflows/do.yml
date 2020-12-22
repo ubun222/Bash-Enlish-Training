@@ -18,7 +18,8 @@ jobs:
           git clone https://github.com/ubun222/Bash-Enlish-Training.git
           cd ./Bash-Enlish-Training
           echo ${{ secrets.zhanghao }}
-          git init 
+          git init
+          git config --global user.name 'ubun222'
           cat ./allinone.txt
           rm ./allinone.txt
           ./txts.sh | ./allinone.sh
