@@ -25,8 +25,11 @@ mainstays	支柱，主要部分
 sophisticated	复杂的
 landscape	形势
 investment	投资
-
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+#词汇栏不能存在空格
+
+
+
 
 nail | BrE neɪl, AmE neɪl |
 A.noun	钉子
@@ -38,3 +41,6 @@ Microsoft drivers another nail in the coffin of its most hated product.
 around | BrE əˈraʊnd, AmE əˈraʊnd |
 A.adverb	存在着的
 IE is miraculously still around after 25 years.
+
+
+
