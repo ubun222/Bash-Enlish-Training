@@ -1,5 +1,6 @@
 #read -r -d '\' -p "请拖入文件"  txt1 < $1
 alltxt=
+yes=
 for i in $(seq 100)
 do
 
@@ -23,6 +24,7 @@ echo  "creating $(pwd)/allinone.txt..."
 
 read -p "type yes to continue..." yes
 
+
 if  [[ "$yes" = "yes" ]];then
 
 echo $alltxt | tr ' ' '\n' | sed 'N;s/\n/ /' >./allinone.txt
@@ -34,7 +36,6 @@ echo 50%finished...
 
 fi
 
-fi
 
 
 echo "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" | cat >> ./allinone.txt
@@ -43,5 +44,6 @@ if [[ "$?" = "0" ]] ;then
 
 echo Success! 
 
+fi
 fi
 
