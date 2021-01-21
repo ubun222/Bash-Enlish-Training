@@ -9,8 +9,8 @@ export txt1=$(echo $(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-E
 clone
 chmod +x Bash-Enlish-Training/1.*.sh
 cd Bash-Enlish-Training
-./1.1.0.sh ./txt/1.txt ./txt/2.txt ./txt/3.txt       #or just...
-./1.1.0.sh
+./1.1.1.sh ./txt/1.txt ./txt/2.txt ./txt/3.txt       #or just...
+./1.1.1.sh
 ```
 the structure of .txt file is...
 1. 英文与中文必须要用TAB制表符隔开
