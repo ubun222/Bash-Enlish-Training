@@ -5,12 +5,13 @@
 export txt1=$(echo $(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-Enlish-Training/master/allinone.txt ) | tr -d '\\' ) && bash -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-Enlish-Training/master/1.1.0.sh)"  3 2 1
 
 ## Small Guide
+```
 clone
 chmod +x Bash-Enlish-Training/1.*.sh
 cd Bash-Enlish-Training
 ./1.1.0.sh ./txt/1.txt ./txt/2.txt ./txt/3.txt       #or just...
 ./1.1.0.sh
-
+```
 the structure of .txt file is...
 1. 英文与中文必须要用TAB制表符隔开
 2. 英文部分允许有空格（1.1.0才支持）
