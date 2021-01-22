@@ -22,5 +22,4 @@ surrendered	投降
 line_of_defense	防线
 abstinent		节制的
 coerced		强迫
-
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\	
