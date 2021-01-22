@@ -40,7 +40,7 @@ if [[ $mode = 3 ]] ;then
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
 do
-m=$n
+m=$[n-1]
 m=$(($RANDOM%$m+1))
 
 question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| grep -n '' | grep -w $m | head -n 1 | awk -F: '{printf $2}' | tr '/' ' ')
