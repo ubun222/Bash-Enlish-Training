@@ -25,6 +25,6 @@ exposure			接触
 conflict			冲突
 aggression			侵犯
 military			军事的
-pass_muster			被认为合格
+pass muster			被认为合格
 admittedly			诚然
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\			

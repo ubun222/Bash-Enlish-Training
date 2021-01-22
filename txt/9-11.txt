@@ -9,7 +9,7 @@ reflection		映像
 alienate		使某人感到被孤立
 imbibe		喝
 rituals		礼节
-at_the_expense	以...为代价
+at the expense	以...为代价
 mortality		死亡
 episode		事件
 alcohol		酒
@@ -19,7 +19,7 @@ vital			必不可少的
 lubricant 		润滑剂
 provoke		激怒
 surrendered	投降
-line_of_defense	防线
+line of defense	防线
 abstinent		节制的
 coerced		强迫
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\	
