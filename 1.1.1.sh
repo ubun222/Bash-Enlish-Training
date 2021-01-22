@@ -51,7 +51,10 @@ m=$(($RANDOM%$m+1))
 
 question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| grep -n '' | grep -w $m | head -n 1 | awk -F: '{printf $2}' | tr '/' ' ')
 echo  -------------------------------------------------- 
-printf  "$question"  && say  $question     #printf 命令需要套一个双引号才能输出空格
+printf  "$question" 
+if [[ $voice = 1 ]] ;then
+say  $question
+fi     #printf 命令需要套一个双引号才能输出空格
 No=$[$[m/2]+$[m%2]]
 pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 read -p '————请输入答案:'  scanf
@@ -98,7 +101,10 @@ do
 m2=$(($RANDOM%$m+1))
 question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk '{printf $2}')
 echo  -------------------------------------------------- 
-printf   "$question"  && say  $question
+printf   "$question" 
+if [[ $voice = 1 ]] ;then
+say  $question
+fi 
 pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 read -p '————请输入答案:'  scanf
 
@@ -135,7 +141,10 @@ do
 m2=$(($RANDOM%$m+1))
 question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk  '{RS=" "}{printf $1}' | tr -d '0-9' | tr -d ':' | tr '!' ' ')
 echo  -------------------------------------------------- 
-printf   "$question"  && say  $question
+printf   "$question" 
+if [[ $voice = 1 ]] ;then
+say  $question
+fi 
 pureanswer=$(echo  $txt| tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 read -p '————请输入答案:'  scanf
 
