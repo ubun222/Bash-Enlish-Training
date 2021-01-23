@@ -16,7 +16,7 @@ essentially	本质上
 cobweb		蜘蛛网
 frustrated	使...沮丧
 flee		逃跑
-greenerpastures	更好的事物或地方
+greener pastures	更好的事物或地方
 synonymous	同义的
 pave		铺地面
 surpass		超过
@@ -26,7 +26,7 @@ sophisticated	复杂的
 landscape	形势
 investment	投资
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-#词汇栏不能存在空格
+
 
 
 

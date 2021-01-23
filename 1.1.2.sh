@@ -54,9 +54,7 @@ m=$(($RANDOM%$m+1))
 question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| grep -n '' | grep -w $m | head -n 1 | awk -F: '{printf $2}' | tr '/' ' ')
 echo  -------------------------------------------------- 
 printf  "$question"         #printf 命令需要套一个双引号才能输出空格
-if [[ $voice = 0 ]] ;then
-say  $question
-fi 
+
 No=$[$[m/2]+$[m%2]]
 pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 read -p '————请输入答案:'  scanf
@@ -82,6 +80,9 @@ if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"  #加换行，否则界面不对称
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
+if [[ $voice = 0 ]] ;then
+say  "$answer1,$answer2"
+fi 
 if [[ $nv != 1 ]];then
 (cat $1 $2 $3| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 echo @还有$[$ii-$i]题
@@ -104,9 +105,6 @@ m2=$(($RANDOM%$m+1))
 question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk '{printf $2}')
 echo  -------------------------------------------------- 
 printf   "$question"
-if [[ $voice = 0 ]] ;then
-say  $question
-fi 
 pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 read -p '————请输入答案:'  scanf
 
@@ -122,6 +120,9 @@ if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
+if [[ $voice = 0 ]] ;then
+say  "$answer1,$answer2"
+fi 
 if [[ $nv != 1 ]];then
 (cat $1 $2 $3| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 echo @还有$[$ii-$i]题
@@ -144,9 +145,6 @@ m2=$(($RANDOM%$m+1))
 question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk  '{RS=" "}{printf $1}' | tr -d '0-9' | tr -d ':' | tr '!' ' ')
 echo  -------------------------------------------------- 
 printf   "$question"
-if [[ $voice = 0 ]] ;then
-say  $question
-fi 
 pureanswer=$(echo  $txt| tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 read -p '————请输入答案:'  scanf
 
@@ -162,6 +160,9 @@ if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
+if [[ $voice = 0 ]] ;then
+say  "$answer1,$answer2"
+fi 
 if [[ $nv != 1 ]];then
 (cat $1 $2 $3| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 echo @还有$[$ii-$i]题
