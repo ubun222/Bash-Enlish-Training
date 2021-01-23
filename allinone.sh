@@ -13,7 +13,7 @@ break
 
 fi
 
-alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\' |tr '\n' '@'  | sed 's/\\//g'  | tr ' '  '/' ))"
+alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\' |tr '\n' '@' | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g' ))"
 #有bug。alltxt="$alltxt$(echo $(cat $txt1 | awk -F'\\' '{printf $1}'))"
 
 done
@@ -27,7 +27,7 @@ read -p "type yes to continue..." yes
 
 if  [[ "$yes" = "yes" ]];then
 
-printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' ' | sort -k2n | uniq    >./allinone.txt
+printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '   >./allinone.txt
 
 
 if [[ "$?" = "0" ]] ;then
