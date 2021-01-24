@@ -1,27 +1,27 @@
-chips			    	芯片，薯条
+chips				芯片，薯条
 entrepreneur			企业家，创业者
-start-up	        	初创公司
-unveiled		    	展示，介绍
-implant 		    	移植物,植入
-electrodes		    	电极
-organ			    	器官
+start-up			初创公司
+unveiled			展示，介绍
+implant				移植物,植入
+electrodes			电极
+organ				器官
 neurological			神经的
-conditions  	    		疾病
+conditions			疾病
 spinal cord injuries		脊髓损伤
-appearing		    	呈现
-retreat			    	改变主意
-statement		    	说明，表态
+appearing			呈现
+retreat				改变主意
+statement			说明，表态
 trials				试验
-clinical		    	临床的
+clinical			临床的
 unaffiliated			非附属的
 presentation			报告，演讲
-indicated		    	表明
+indicated			表明
 made great strides		取得巨大进展
-cautioned		    	小心
-longevity		    	寿命
-stimulate		    	促进
-nerves			    	神经
-conducted		    	组织
+cautioned			小心
+longevity			寿命
+stimulate			促进
+nerves				神经
+conducted			组织
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 chips | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
 例句：Musk‘s Neuralink puts computer *chips in animal brains.

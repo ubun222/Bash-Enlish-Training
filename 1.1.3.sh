@@ -16,7 +16,7 @@ targets=$targets' '$target
 if [[ $key != 0 ]];then
 break
 elif [[ $key = 0 ]];then
-txt=$(cat ${target} |  tr ' ' '/'| tr '\n' '@' |awk  '{ printf $0 }' |  awk -F\\ '{ print $1 }' )"$txt"
+txt=$(cat ${target} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\ '{ print $1 }' )"$txt"
 #echo $txt
 
 n=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p') #最长的list的行数
