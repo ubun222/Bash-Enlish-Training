@@ -1,7 +1,7 @@
 addict				对...入迷的人
 conventional			传统的
 properties			特性
-toacertainextent		从某种程度来说
+to a certain extent		从某种程度来说
 praise				赞美
 stimulate			刺激
 neurotransmitter		神经递质
