@@ -13,12 +13,12 @@ break
 
 fi
 
-alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\' |tr '\n' '@' | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g' ))"
+alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\' | tr '	' '=' |tr '\n' '@' | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g' ))"
 #有bug。alltxt="$alltxt$(echo $(cat $txt1 | awk -F'\\' '{printf $1}'))"
 
 done
 
-echo $alltxt | tr '@' '\n' | tr '/' ' '
+echo $alltxt | tr '@' '\n' | tr '/' ' ' | tr '=' '	'
 
 echo  "creating $(pwd)/allinone.txt..."
 
@@ -27,7 +27,7 @@ read -p "type yes to continue..." yes
 
 if  [[ "$yes" = "yes" ]];then
 
-printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '   >./allinone.txt
+printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '  | tr '=' '	'  >./allinone.txt
 
 
 if [[ "$?" = "0" ]] ;then
