@@ -81,7 +81,7 @@ investment	投资
 addict				对...入迷的人
 conventional			传统的
 properties			特性
-toacertainextent		从某种程度来说
+to a certain extent		从某种程度来说
 praise				赞美
 stimulate			刺激
 neurotransmitter		神经递质
@@ -106,28 +106,28 @@ anxiety				焦虑
 elite				精英
 tyrannical			残暴的
 substitute			代替品
-chips			    芯片，薯条
-entrepreneur		企业家，创业者
-start-up	        初创公司
-unveiled		    展示，介绍
-implant 		    移植物,植入
-electrodes		    电极
-organ			    器官
-neurological		神经的
-conditions  	    疾病
-spinal cord injuries	脊髓损伤
-appearing		    呈现
-retreat			    改变主意
-statement		    说明，表态
-trials			    试验
-clinical		    临床的
-unaffiliated		非附属的
-presentation		报告，演讲
-indicated		    表明
-made great strides	取得巨大进展
-cautioned		    小心
-longevity		    寿命
-stimulate		    促进
-nerves			    神经
-conducted		    组织
+chips				芯片，薯条
+entrepreneur			企业家，创业者
+start-up			初创公司
+unveiled			展示，介绍
+implant				移植物,植入
+electrodes			电极
+organ				器官
+neurological			神经的
+conditions			疾病
+spinal cord injuries		脊髓损伤
+appearing			呈现
+retreat				改变主意
+statement			说明，表态
+trials				试验
+clinical			临床的
+unaffiliated			非附属的
+presentation			报告，演讲
+indicated			表明
+made great strides		取得巨大进展
+cautioned			小心
+longevity			寿命
+stimulate			促进
+nerves				神经
+conducted			组织
 \\\\\\\\\\
