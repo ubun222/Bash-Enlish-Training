@@ -27,7 +27,7 @@ read -p "type yes to continue..." yes
 
 if  [[ "$yes" = "yes" ]];then
 
-printf  "$alltxt" | sed 's/@@/@/g' | tr '@'  '\n' |  tr '/' ' '   >./allinone.txt
+printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '   >./allinone.txt
 
 
 if [[ "$?" = "0" ]] ;then
