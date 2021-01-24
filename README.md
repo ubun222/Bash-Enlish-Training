@@ -23,5 +23,5 @@ the structure of .txt file is...
 * allinone.sh等文件作用于./txt/*.txt，会拼接所有词表部分然后写进allinone.txt，可直接点击allinone.command一键生成allinone.txt。
 * 另一个分支do在被push后，会执行GitHub Action，在云服务器中运行allinone.sh，并上传。
 
-
+* 如遇到curl报错的问题，请参考[这里](https://cb9919.github.io/2021/01/19/修改hosts连接githubraw/)
 
