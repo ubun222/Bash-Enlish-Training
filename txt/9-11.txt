@@ -1,6 +1,6 @@
 slapped			拍，掌㧽
 demanded		强求
-allcoholic		含酒精的 
+alcoholic		含酒精的 
 beverage		饮料
 executive		经理
 prompting			促使
