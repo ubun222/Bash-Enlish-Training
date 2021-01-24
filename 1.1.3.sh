@@ -70,7 +70,7 @@ r2=$[n]
 fi
 
 elif [[  $random = 3 ]];then
-m=$[$[$n-$[n%2]]/2]*2]
+m=$[n-1]
 m=$(($RANDOM%$m+1))
 fi
 
