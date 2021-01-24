@@ -2,15 +2,15 @@
 
 
 ## Have a easy try:
-export txt1=$(echo $(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-Enlish-Training/master/example.txt ) | tr -d '\\' ) && bash -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-Enlish-Training/master/1.1.2.sh)"  3 2 1
+export txt1=$(echo $(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/example.txt ) | tr -d '\\' ) && bash -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/1.1.3.sh)"  3 2 1
 
 ## Small Guide
 ```
 clone
-chmod +x Bash-Enlish-Training/1.*.sh
-cd Bash-Enlish-Training
-./1.1.2.sh ./example.txt    #or ...
-./1.1.2.sh                  #然后一个一个将.txt文件拖入终端，或者输入文件路径
+chmod +x Bash-English-Training/1.*.sh
+cd Bash-English-Training
+./1.1.3.sh ./example.txt    #or ...
+./1.1.3.sh                  #然后一个一个将.txt文件拖入终端，或者输入文件路径
 ```
 the structure of .txt file is...
 1. 英文与中文必须要用TAB制表符隔开。
