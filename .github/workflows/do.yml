@@ -15,8 +15,8 @@ jobs:
         run: |
           mkdir test
           cd test
-          git clone https://github.com/ubun222/Bash-Enlish-Training.git
-          cd ./Bash-Enlish-Training
+          git clone https://github.com/ubun222/Bash-English-Training.git
+          cd ./Bash-English-Training
           echo ${{ secrets.zhanghao }}
           git init
           git config --global user.name 'ubun222'
@@ -27,4 +27,4 @@ jobs:
           git add date.txt
           git add allinone.txt
           git commit -m "update allinone.txt and date"
-          git push https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-Enlish-Training.git master
+          git push https://${{ secrets.zhanghao }}:${{ secrets.mima }}@github.com/ubun222/Bash-English-Training.git master
