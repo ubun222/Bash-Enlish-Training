@@ -7,18 +7,18 @@ do
 
 read -p "请拖入!一个!文件回车,完成后请输入+号"  txt1
 
-if [[ "$txt1" = "+" ]];then
+if [[ "$txt1" = "" ]];then
 
 break
 
 fi
 
-alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\' | tr '	' '=' |tr '\n' '@' | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g' ))"
+alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\'  | tr '	' '=' |tr '\n' '@' | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g' ))"
 #有bug。alltxt="$alltxt$(echo $(cat $txt1 | awk -F'\\' '{printf $1}'))"
 
 done
 
-echo $alltxt | tr '@' '\n' | tr '/' ' ' | tr '=' '	'
+echo $alltxt | tr '@' '\n' | tr '/' ' ' | tr '=' '	' | sort
 
 echo  "creating $(pwd)/allinone.txt..."
 
@@ -27,7 +27,7 @@ read -p "type yes to continue..." yes
 
 if  [[ "$yes" = "yes" ]];then
 
-printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '  | tr '=' '	'  >./allinone.txt
+printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '  | tr '=' '	' | sort >./allinone.txt
 
 
 if [[ "$?" = "0" ]] ;then
