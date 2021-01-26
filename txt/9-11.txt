@@ -16,7 +16,7 @@ alcohol		酒
 bond			建立友谊
 catalyst		促进因素
 vital			必不可少的
-lubricant 		润滑剂
+lubricant		润滑剂
 provoke		激怒
 surrendered	投降
 line of defense	防线
