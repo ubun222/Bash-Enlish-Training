@@ -5,7 +5,7 @@ for i in $(seq 100)
 do
 
 
-read -p "请拖入!一个!文件回车,完成后请输入+号"  txt1
+read -p "请拖入!一个!文件回车,完成后请按空格结束："  txt1
 
 if [[ "$txt1" = "" ]];then
 
