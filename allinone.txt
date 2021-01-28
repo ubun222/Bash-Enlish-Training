@@ -5,8 +5,8 @@ adolescence			青春期
 adulthood			成年
 aggression			侵犯
 agonizing			使人极度痛苦的
-alcoholic		含酒精的
 alcohol		酒
+alcoholic		含酒精的
 algorithm			算法
 alienate		使某人感到被孤立
 anxiety				焦虑
@@ -92,8 +92,8 @@ provoke		激怒
 psychologists			心理学家
 publication			出版
 quotidian			平常的
-reflection		映像
 reflect				反应
+reflection		映像
 repression			压抑
 resemblance			相似之处
 retreat				改变主意
@@ -129,5 +129,5 @@ veteran				老兵
 violent				暴力的
 virtual		几乎
 vital			必不可少的
-wearoff				感觉逐渐消失
+wear off				感觉逐渐消失
 \\\\\\\\\\\\\\\\\\\
