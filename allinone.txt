@@ -18,25 +18,25 @@ bond			建立友谊
 broad			广的
 brutal				残忍的
 catalyst		促进因素
-cautioned			小心
-chips				芯片，薯条
+caution			小心
+chip				芯片，薯条
 clinical			临床的
 cobweb		蜘蛛网
-coerced		强迫
+coerce		强迫
 coffin		棺材
-conditions			疾病
-conducted			组织
+condition			疾病
+conduct			组织
 conflict			冲突
 consolidation			巩固，加强
 conventional			传统的
 debuted		首次亮相，出道
-demanded		强求
+demand			强求
 depression			忧郁
 desire				渴望
 dopamine			多巴胺
 downward	向下的，朝下的
 dubbed				把...称为
-electrodes			电极
+electrode			电极
 elite				精英
 emphasis			重视
 entrepreneur			企业家，创业者
@@ -49,15 +49,14 @@ famously			著名的
 flee		逃跑
 frustrated	使...沮丧
 greener pastures	更好的事物或地方
-hedonic				享乐的
 hit		轰动一时的人物
 hook				勾住
 hypothesis			假设，学说
 imbibe		喝
 implant				移植物,植入
-implicated			被涉及，牵连
+implicate			被涉及，牵连
 indeed				确实
-indicated			表明
+indicate			表明
 individuals			个人，个体
 inherent			与身俱来的
 innovate	改革
@@ -69,14 +68,14 @@ line of defense	防线
 longevity			寿命
 lubricant		润滑剂
 made great strides		取得巨大进展
-mainstays	支柱，主要部分
+mainstay	支柱，主要部分
 mental				精神上的
 military			军事的
 miraculously	奇迹般的
 monopoly	垄断
 mortality		死亡
 nail		钉子
-nerves				神经
+nerve				神经
 neurological			神经的
 neurotransmitter		神经递质
 organ				器官
@@ -86,10 +85,10 @@ physically			肉体的
 praise				赞美
 premise				前提
 presentation			报告，演讲
-prompting			促使
-properties			特性
+prompt			促使
+property			特性
 provoke		激怒
-psychologists			心理学家
+psychologist			心理学家
 publication			出版
 quotidian			平常的
 reflect				反应
@@ -98,21 +97,21 @@ repression			压抑
 resemblance			相似之处
 retreat				改变主意
 reward				报偿
-rituals		礼节
+ritual		礼节
 sacrifice			牺牲
 scrutiny			仔细的审查
 slapped			拍，掌㧽
-sophisticated	复杂的
+sophisticate	复杂的
 spinal cord injuries		脊髓损伤
 start-up			初创公司
 statement			说明，表态
 steady		持续的
 stimulate			促进
 stimulate			刺激
-substances			物质
+substance			物质
 substitute			代替品
 surpass		超过
-surrendered	投降
+surrender	投降
 sync		同步
 synonymous	同义的
 threshold	门槛，关口
@@ -120,14 +119,768 @@ to a certain extent		从某种程度来说
 trajectory	轨道
 treadmill			跑步机
 treatise			专著
-trials				试验
+trial				试验
 tyrannical			残暴的
 unaffiliated			非附属的
-unveiled			展示，介绍
+unveil			展示，介绍
 urges				欲望
 veteran				老兵
 violent				暴力的
 virtual		几乎
 vital			必不可少的
 wear off				感觉逐渐消失
-\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\
+
+chip | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
+例句：Musk‘s Neuralink puts computer *chips in animal brains.
+短语： chip away/chip away at/chip in/chip off
+
+
+
+
+entrepreneur | BrE ˌɒntrəprəˈnəː, AmE ˌɑntrəprəˈnər,ˌɑntrəprəˈnʊ(ə)r |   名词:企业家，倡导者
+例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
+
+
+
+
+
+
+start-up |。不可数：启动：start-up money/expenses/time。可数：新公司：an Internet start-up
+例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
+
+
+
+
+
+
+
+unveil | BrE ʌnˈveɪl, AmE ˌənˈveɪl | 原型：unveil  动词/形容词:为...揭幕；推出，公布：(announce for the first time) 
+例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
+
+
+
+
+
+
+implant | BrE ɪmˈplɑːnt, AmE ɪmˈplænt | 动词/名词。动词:灌输，将...埋藏于心。名词:移植物：to have an implant;
+例句：to implant a sense of justice in students
+例句：...aims to implant wireless brain-computer interfaces that...
+
+
+
+
+
+electrode | BrE ɪˈlɛktrəʊd, AmE əˈlɛktroʊd | 原型：electrode
+例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
+
+
+
+
+
+
+organ | BrE ˈɔːɡ(ə)n, AmE ˈɔrɡən | 名词:管风琴，器官，机关，机关报刊
+例句：...include thousands of electrodes in the most complex human organ to help
+ cure neurological conditions...
+
+
+
+
+
+
+
+neurological | BrE ˌnjʊərəˈlɒdʒɪk(ə)l, AmE ˌn(j)ʊrəˈlɑdʒəkəl |  原型：nerve   形容词:神经病学的，神经系统的
+例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
+
+
+
+
+
+
+
+condition | BrE kənˈdɪʃ(ə)n, AmE kənˈdɪʃ(ə)n | 原型：condition  名词/动词。名词:状况，处境。条件，条款。健康状况。疾病。复数状态下：条件。动词：训练，使适应。决定。护理。处理。
+例句：...include thousands of electrodes in the most complex human organ to help
+ cure neurological conditions...
+
+
+
+
+
+
+
+appearing | BrE əˈpɪə, AmE əˈpɪr | 原型：appear   动词:出现。来到。显得。出版，发表。出庭。演出。到场。
+例句：Musk did not provide a timeline for those treatments, appearing to retreat from earlier statements that...
+
+
+
+
+
+
+
+retreat | BrE rɪˈtriːt, AmE rəˈtrit | 名词/动词:名词：撤退。隐居处。静修期。动词：撤退。隐居。后退。
+例句：...appearing to retreat from earlier statements that human trials would begin by the end of this year.
+
+
+
+
+
+
+
+statement | BrE ˈsteɪtm(ə)nt, AmE ˈsteɪtmənt | 名词:声明。口供。结算单。
+例句：...appearing to retreat from earlier statements that human trials would begin by the end of this year.
+
+
+
+
+
+
+
+trial | BrE ˈtrʌɪəl, AmE ˈtraɪ(ə)l | 名词/动词:名词：审判。试验，试用。困难，考验。竞赛。动词：适用
+例句：..appearing to retreat from earlier statements that human trials would begin by the end of this year.
+
+
+
+
+
+
+clinical | BrE ˈklɪnɪk(ə)l, AmE ˈklɪnək(ə)l | 形容词:临床的：（clinical medicine/training）。冷漠的，客观的（with clinical detachment）。简朴的<room,building>。准确有效的（with clinical accuracy）。
+例句：Neuralink's first clinical trials with a small number of human patients would be aimed at...
+
+
+
+
+
+
+
+unaffiliated | BrE ʌnəˈfɪlɪeɪtɪd, AmE ˌənəˈfɪliˌeɪdəd | 形容词:非附属的<club, group>;独立的‹college, union›
+短语：to be unaffiliated to sth：独立于某物
+例句：Neuroscientists unaffiliated with the company said the presentation indicated that...
+
+
+
+
+
+
+presentation | BrE prɛz(ə)nˈteɪʃ(ə)n, AmE ˌprɛzənˈteɪʃ(ə)n,ˌpriˌzɛnˈteɪʃ(ə)n |  名词 :赠送，授予。陈述。外观。表演。引见。
+例句：to make (sb) a presentation (of sth). 赠送（某人）（某物）。
+例句：the presentation indicated that Neuralink had made great strides but cautioned that longer studies were needed.
+
+
+
+
+
+indicate | BrE ˈɪndɪkeɪt, AmE ˈɪndəˌkeɪt | 动词:指示。暗示。标示。表明。打...转向信号。
+短语：to indicate to sb that … 向某人指示…
+例句：...the presentation indicated that Neuralink had made great strides but cautioned that longer studies were needed.
+
+
+
+
+
+caution | BrE ˈkɔːʃ(ə)n, AmE ˈkɔʃ(ə)n | 名词/动词。名词：小心。警告。法律权益告知。可笑的人。动词：警告。警诫。
+例句：...the presentation indicated that Neuralink had made great strides but cautioned that longer studies were needed.
+
+
+
+
+
+longevity | BrE lɒnˈdʒɛvɪti, AmE lɔnˈdʒɛvədi,lɑnˈdʒɛvədi | 名词:长寿，持久。
+例句：Some researchers said longer studies would be required to determine the longevity of the device.
+
+
+
+
+
+stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt | 动词:刺激，激励，激发。促进...的功能。
+短语：to stimulate sb to do sth;
+例句：Small devices that electronically stimulate nerves and brain areas to...
+
+
+
+
+
+
+nerve | BrE nəːv, AmE nərv | 原型：nerve 名词/动词/复数形式名词。名词：神经。勇气。厚脸皮。复数形式名词：神经质。动词：激励。
+例句：Small devices that electronically stimulate nerves and brain areas to...
+
+
+
+
+
+
+conduct | BrE ˈkɒndʌkt, AmE ˈkɑnˌdəkt | 原型 conduct 名词/动词。名词：行为。处理，实施，经营。动词：为...做向导。处理，安排，经营，进行。指挥。传导。
+例句：Brain implant trials have also been conducted with a small number of people...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+addict | BrE ˈadɪkt, AmE ˈædɪkt |   名词:有瘾的人，入迷的人
+有瘾的人:a coffee addict. 喝咖啡上瘾的人。
+入迷的人:a telly addict.informal 电视迷。
+
+
+
+
+conventional | BrE kənˈvɛnʃ(ə)n(ə)l, AmE kənˈvɛn(t)ʃ(ə)n(ə)l |   形容词:符合习俗的，墨守成规的；传统的；常规的
+符合习俗的，墨守成规的:to be conventional in sth. 在某方面守旧。
+常规的:conventional warfare/weapons. 常规战争/武器。
+
+
+
+
+property | BrE ˈprɒpəti, AmE ˈprɑpərdi |   名词:财产；房屋院落，房地产；住宅；所有物，所有权；特性
+财产:personal/public property. 私人/公共财产。
+财产:to be public or common property that … 众所周知…
+住宅:the farmer ordered the campers off his property. 那位农场主命令野营者离开他的地盘。
+特性:a herb with medicinal properties. 药用植物。
+
+
+
+to a certain extent | BrE ɪkˈstɛnt,ɛkˈstɛnt, AmE ɪkˈstɛnt |   extent，名词:大小，严重性，程度
+大小:over the whole extent of sth; 覆盖在某物上。
+程度:to a large/a certain/some extent; 在很大/一定/某种程度上。
+
+
+
+
+praise | BrE preɪz, AmE preɪz |   名词/及物动词:称赞；赞颂；称赞(v)；赞颂(v)
+称赞:beyond praise. 赞美不尽的。
+赞颂:a hymn/song of praise. 赞美诗/颂歌。
+称赞(v):to praise sb/sth to the skies. 把某人/某事物捧上天。
+
+
+
+
+stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt |   及物动词:刺激，激励，激发；促进...的功能(生理上)
+激励:to stimulate sb to do sth; 激励某人做某事。
+
+
+
+
+
+implicate | BrE ˈɪmplɪkeɪt, AmE ˈɪmpləˌkeɪt |   及物动词:牵连；与某坏事有牵连
+牵连:to implicate sb in a crime/in espionage. 使某人卷入犯罪/谍报活动。
+有牵连:viruses are implicated in certain cancers. 病毒与某些癌症有关。
+
+
+
+
+desire | BrE dɪˈzʌɪə, AmE dəˈzaɪ(ə)r |   名词/及物动词:渴望；情欲；渴望(v)
+渴望:her heart's desire.(literary书面) 她最心仪的东西。
+渴望(v):to desire to do sth.(formal正式) 想做某事。
+
+
+
+
+inherent | BrE ɪnˈhɪər(ə)nt,ɪnˈhɛr(ə)nt, AmE ɪnˈhɪrənt,ɪnˈhɛrənt |   形容词:内在的；固有的
+内在的:with its inherent risks. 由于其本身的危险。
+固有的:to be inherent in sth. 是某事物固有的。
+
+
+
+
+brutal | BrE ˈbruːt(ə)l, AmE ˈbrudl |   形容词:残酷的，野蛮的，残忍的；不留情面的；粗暴的
+
+
+
+
+
+sacrifice | BrE ˈsakrɪfʌɪs, AmE ˈsækrəˌfaɪs |   名词/及物动词:献祭；祭品。牺牲，以...作为祭品。
+献祭:getting rich isn't worth the sacrifice of your principles. 为致富牺牲原则是不值得的。
+牺牲自己:to sacrifice oneself
+
+
+
+
+famously | BrE ˈfeɪməsli, AmE ˈfeɪməsli |   副词:极好的；出名的。
+极好的:to get on or along famously. 相处极好。
+出名的:he once famously stated that … 他有句名言说…
+
+
+
+
+treadmill | BrE ˈtrɛdmɪl, AmE ˈtrɛdˌmɪl/, , treadwheel | ˈtredwiːl |   名词:踏车；单调乏味的工作；跑步机
+枯燥的工作:to be on a treadmill. 做枯燥的工作。
+
+
+
+wear off | BrE wɛː, AmE wɛr |   及物短语/不及物短语:逐渐消失；磨掉；抹去(油漆等材料)
+逐渐消失:the effect of the anaesthetic was beginning to wear off. 麻醉剂的药效开始逐渐减退。
+
+
+
+reward | BrE rɪˈwɔːd, AmE rəˈwɔrd |   名词/及物动词:报偿；酬金；回报；酬谢；值得
+报偿:as a reward for sth/for doing sth. 作为某事/做某事的奖励。
+回报:one reward of my job is foreign travel. 我工作的一个回报是可以去国外旅行。
+回报(动词):if you persist, your efforts will be rewarded. 如果你坚持不懈，你的努力是不会白费的。
+值得:it's a subject that rewards further investigation .这是一个值得进一步研究的课题。
+
+
+hook | BrE hʊk, AmE hʊk |   名词/及物动词/不及物动词:挂钩，鱼钩；用钩挂，钩住；使变成钩；钓；用钩固定；
+鱼钩:to fall for sth hook, line, and sinker(非正式). 完全被某事物欺骗。
+鱼钩:to get/let sb off the hook(抽象). 使/让某人摆脱责任。
+用钩挂:to hook sth to the back of the car. 把某物挂在汽车尾部。
+用钩固定:to hook at the back.«garment» 在背部用钩眼扣扣住。
+
+
+substance | BrE ˈsʌbst(ə)ns, AmE ˈsəbstəns |   名词:东西；药物；事实基础；实质；重要性；物质
+东西:this substance should not come into contact with food. 这种东西不可以和食物接触。
+事实基础:to lend substance to sth. 使某事有根有据。
+本质上:in substance
+重要性:talks/matters of substance. 重要的会谈/事务。
+
+
+agonize | BrE ˈaɡənʌɪz, AmE ˈæɡəˌnaɪz |   不及物动词:焦虑不已
+焦虑不已:to agonize over or about sth. 为某事物犯愁。
+
+
+
+
+physically | BrE ˈfɪzɪkli, AmE ˈfɪzɪk(ə)li |   副词:身体上
+身体上:I felt physically sick. 我感到身体不适。
+例句:he doesn't attract me physically. 我不觉得他长得帅。
+例句:it's physically impossible to get to the airport before 8 am. 上午8点之前赶到机场非人力所及。
+
+
+
+
+depression | BrE dɪˈprɛʃ(ə)n, AmE dəˈprɛʃ(ə)n |   名词:抑郁症；沮丧；萧条；坑
+抑郁症:to suffer from depression. 患抑郁症。
+萧条:the (Great) Depression. [二战前的] 大萧条。
+
+
+
+
+anxiety | BrE aŋˈzʌɪəti, AmE æŋˈzaɪədi |   名词:焦虑；令人焦虑的事；渴望
+焦虑:to feel great anxiety about sth. 对某事物感到焦虑不已。
+令人焦虑的事:the child's illness is a great anxiety to her. 孩子的病让她焦虑万分。
+渴望:a great anxiety to please. 急于讨好的心情。
+
+
+
+elite | BrE eɪˈliːt,ɪˈliːt, AmE əˈlit,eɪˈlit |   名词/形容词:社会精英；高层次的；精锐的，上等的；
+社会精英:the ruling elite. 统治精英。
+
+
+
+
+tyrannical | BrE tɪˈranɪk(ə)l,tʌɪˈranɪk(ə)l, AmE təˈrænək(ə)l |   形容词:专制的；残暴的
+
+
+
+
+
+substitute | BrE ˈsʌbstɪtjuːt, AmE ˈsəbstəˌt(j)ut |   名词/及物动词/不及物动词:代替者；替补队员；替身；用...代替；替换；代替
+代替者:a milk substitute. 代乳品。
+及物:butter can be substituted with margarine in this recipe. 做这道菜可以用人造黄油代替黄油。
+不及物:nothing can substitute for the advice your doctor is able to give you. 医生给你的忠告是无可替代的。
+
+
+
+
+nail | BrE neɪl, AmE neɪl |   多义名词/动词:钉子，指甲；钉住，揭穿；
+例句:Microsoft drivers another nail in the coffin of its most hated product.
+短语:to hit the nail on the head——一针见血
+钉住:to nail sth on sth.
+
+
+
+
+
+coffin | BrE ˈkɒfɪn, AmE ˈkɔfən,ˈkɑfən |   名词:棺材，灵柩
+
+
+
+
+
+miraculously | BrE mɪˈrakjʊləsli, AmE məˈrækjələsli |   副词:奇迹般的
+
+
+
+
+
+around | BrE əˈraʊnd, AmE əˈraʊnd |   副词/介词:大约，在附近，面世，环绕着，朝相反方向，至某地；围绕，在...各处，在...附近，在...前后；
+在附近:there's nobody around. 附近没有人。
+面世:I wish I'd been around 50 years ago.我希望自己50年前就在这世上了。
+环绕着:the villages around Dublin. 都柏林周围的村庄。
+短语:around the world. 世界各地。
+
+
+
+
+
+
+steady | BrE ˈstɛdi, AmE ˈstɛdi |   形容词/感叹词/动词:稳定的均匀的，稳的，镇定的，稳步的，关系稳定的，坚定的；小心；使平稳，变稳。
+例句:a steady job. 固定工作
+例句:my nerves aren't very steady today. 我今天有点儿心神不定。
+持续的:a steady decline in numbers. 数量的持续下降。
+变稳:his voice steadied as his confidence returned. 他恢复了信心，声音变得镇定自若。
+
+
+
+downward | BrE ˈdaʊnwəd, AmE ˈdaʊnwərd |   形容词/副词:向下的，下降的，恶化的；向下地，向低层次，以下，往后推移的。
+例句:to give a downward glance. 向下瞟一眼。
+例句:a downward trend. 下降趋势。
+例句:the long-term trend is downward. 从长远来看呈下降趋势。
+
+
+
+
+trajectory | BrE trəˈdʒɛkt(ə)ri,ˈtradʒɪkt(ə)ri, AmE trəˈdʒɛkt(ə)ri |   名词:轨迹，轨线
+例句:a low/flat trajectory. 低/平轨迹。
+
+
+
+
+
+threshold | BrE ˈθrɛʃəʊld,ˈθrɛʃˌhəʊld, AmE ˈθrɛʃˌ(h)oʊld |   名词:门槛，下限，开端
+例句:to have a low pain threshold. 忍痛力弱。
+
+
+
+
+
+debuted | BrE ˈdeɪbjuː,ˈdɛbjuː, AmE deɪˈbju |   名词:首次亮相
+首次亮相:a debut performance. 首次登台演出。
+
+
+
+
+
+instant | BrE ˈɪnst(ə)nt, AmE ˈɪnstənt |   形容词/名词:立即的，紧急的；片刻
+立即的:instant success/relief/hot water. 一举成功/即刻减轻/即开即热水。
+短语:at that (very) instant. （就）在那时。
+
+
+
+
+hit | BrE hɪt, AmE hɪt |   动词/名词:击，击中，攻击，到达；流行歌曲。
+击:to hit the ball out of the court. 把球打出场外。
+例句: to give the ball a tremendous hit. 大力击球。
+短语:hit back. 回击。
+
+
+
+
+virtual | BrE ˈvəːtʃʊ(ə)l,ˈvəːtjʊəl, AmE ˈvərtʃ(u)əl |   形容词:实质上的，虚拟的，虚的。
+几乎:traffic is at a virtual standstill. 交通几乎陷入停滞。
+
+
+
+
+
+monopoly | BrE məˈnɒp(ə)li, AmE məˈnɑpəli |   名词:垄断，独占
+垄断:to have a monopoly on （or of） sth; 垄断某事物。
+例句:a good education should not be the monopoly of the rich.良好的教育不应该成为富人的专利。
+
+
+
+
+
+innovate | BrE ˈɪnəveɪt, AmE ˈɪnəˌveɪt |   动词:革新
+
+
+
+
+
+
+essentially | BrE ɪˈsɛnʃ(ə)li, AmE əˈsɛn(t)ʃəli |   副词:本质上（basically），非常（really，very），大体上（more or less）
+
+
+
+
+
+cobweb | BrE ˈkɒbwɛb, AmE ˈkɑbˌwɛb |   名词:蜘蛛网
+
+
+
+
+
+
+frustrated | BrE frʌˈstreɪt,ˈfrʌstreɪt, AmE ˈfrəstreɪt |   及物动词:阻挠，挫败，使...心烦
+挫败:the storm frustrated us in our attempt to land.暴风雨使我们的降落意图落了空。
+阻挠:to frustrate sb's plans/hopes. 使某人的计划/希望落空。
+
+
+
+
+flee | BrE fliː, AmE fli | past tense, past participle fled   动词:逃离，逃跑
+短语:to flee in the face of danger. 遇到危险逃跑。
+
+
+
+
+
+
+greener pastures | BrE ˈpɑːstʃə, AmE ˈpæstʃər |   名词:牧场，牧草
+例句:to put the cattle out to pasture. 放牛群到牧场。
+
+
+
+
+
+synonymous | BrE sɪˈnɒnɪməs, AmE səˈnɑnəməs |   形容词:同义的
+例句:wealth is not necessarily synonymous with generosity. 富未必等同于慷慨
+
+
+
+
+
+pave | BrE peɪv, AmE peɪv |   动词:铺
+短语:to pave the way for sb/sth. 为某人/某事铺平道路。
+
+
+
+
+
+surpass | BrE səˈpɑːs, AmE sərˈpæs |   及物动词:胜过，超出
+例句:a performance that far surpasses all others. 远远优于其他人的表演。
+
+
+
+
+
+sync | BrE sɪŋk, AmE sɪŋk |   名词:= synchronization
+
+
+
+
+
+mainstay | BrE ˈmeɪnsteɪ, AmE ˈmeɪnˌsteɪ |   名词
+例句:the country's economic main. 该国的经济支柱
+
+
+
+
+
+sophisticate | BrE səˈfɪstɪkət, AmE səˈfɪstəˌkeɪt,səˈfɪstəkət |   名词/动词:老于世故的人；使...更精确，使...老于世故
+
+
+
+
+
+landscape | BrE ˈlan(d)skeɪp, AmE ˈlæn(d)ˌskeɪp |   名词:陆上风景，风景画，园林的
+风景:to admire the landscape. 欣赏风景。
+例句:landscape painting/art/photography. 风景画/风景画艺术/风景摄影。
+
+
+
+
+investment | BrE ɪnˈvɛs(t)m(ə)nt, AmE ɪnˈvɛs(t)mənt |   名词:投资，投资额，投资物，投入
+投资:he called for more government investment in industry. 他呼吁政府对工业增加投资。
+投入:a huge emotional investment. 大量的情感投入。
+
+
+slap | BrE slap, AmE slæp |   及物动词/不及物动词/名词。动词:拍打；摔地上。名词:拍打。
+打耳光:to slap sb across the face, to slap sb's face. 打某人耳光。
+拍打:a slap on sth. 拍打某物。
+短语:slap down:把…啪地一放
+
+
+
+
+demand | BrE dɪˈmɑːnd, AmE dəˈmænd |   及物动词/名词。强烈要求；盘查；需要。要求。
+要求:to demand one's money back. 坚决要求还钱。
+要求:to make a demand for sth. 要求得到某物。
+
+
+
+
+
+alcoholic | BrE alkəˈhɒlɪk, AmE ˌælkəˈhɔlɪk |   名词/形容词。嗜酒者。含酒精的。
+喝酒引起的:be in an alcoholic stupor. 醉得不省人事。
+
+
+
+
+
+
+beverage | BrE ˈbɛv(ə)rɪdʒ, AmE ˈbɛv(ə)rɪdʒ |   名词。饮料。
+
+
+
+
+
+
+
+exercutive | BrE ɪɡˈzɛkjʊtɪv,ɛɡˈzɛkjʊtɪv, AmE ɪɡˈzɛkjədɪv |   形容词/名词。经营管理的；有执行权的。经理。
+决策的:executive authority. 决策当局。
+有执行权的:an executive officer. 行政长官。
+经理:a top executive. 高层主管。
+
+
+
+
+
+prompt | BrE prɒm(p)t, AmE prɑm(p)t |   形容词/副词/及物动词/名词。及时的。准时地。导致。提词。
+及时的:we would appreciate a prompt reply. 如能及时回复，我们将不胜感激。
+准时的:at six o'clock prompt. 在6点整。
+导致:the strike was prompted by the sacking of a worker. 罢工是由一名工人被解雇引起的。
+
+
+
+
+broad | BrE brɔːd, AmE brɔd |   形容词/名词。宽阔的；辽阔的；广泛的；宽泛的；直白的；乡音重的。
+勇挑重担: to have a broad back.
+两种选择都一样: it's as broad as it's long.(英)
+广泛的:in the broadest sense (of the term/word). 从（这个术语/词）最广义的角度讲。
+概括的:to reach broad agreement. 大体达成一致。
+
+
+
+reflection | BrE rɪˈflɛkʃ(ə)n, AmE rəˈflɛkʃ(ə)n |   名词:反射；映像；反映；深思；想法意见；非议
+反射(不可数):the laws of the reflection of light. 光的反射定律。
+映像(可数):to see one's reflection in a window. 在窗户上看到自己的影子。
+反映(可数):the time taken is a reflection of the degree of difficulty involved. 花多少时间要看有多大的难度。
+深思:on reflection. 经深思熟虑。
+想法:the reflection that …; …的想法。
+
+
+
+alienate | BrE ˈeɪlɪəneɪt, AmE ˈeɪljəˌneɪt |   及物动词:使疏远；使脱离
+使脱离:to be alienated from society. 与社会脱节。
+
+
+
+
+
+
+imbibe | BrE ɪmˈbʌɪb, AmE ɪmˈbaɪb |   及物动词/不及物动词:喝；吸收接受。酗酒。
+
+
+
+
+
+
+
+ritual | BrE ˈrɪtʃʊəl, AmE ˈrɪtʃ(u)əl |   名词/形容词:仪式；程式；惯例。仪式的。
+仪式:the ritual of the law. 法律程序。
+程式:a solemn ritual. 庄严的庆典。
+惯例:to make a ritual of sth. 使某事成为习惯。
+仪式的:ritual phrases of greeting. 惯常的招呼语。
+
+
+
+
+mortality | BrE mɔːˈtalɪti, AmE mɔrˈtælədi |   名词:生命的有限；死亡；死亡率
+有限生命:to face one's own mortality. 面对自己的有限生命。
+死亡:the cause/rate of mortality. 死因/死亡率。
+
+
+
+
+
+episode | BrE ˈɛpɪsəʊd, AmE ˈɛpəˌsoʊd |   名词：一个事件，一组事件；一节一集；发作期；
+
+
+
+
+
+
+
+alcohol | BrE ˈalkəhɒl, AmE ˈælkəˌhɔl,ˈælkəˌhɑl |   名词:酒精；酒
+酒:he never touches alcohol. 他滴酒不沾。
+
+
+
+
+
+
+bond | BrE bɒnd, AmE bɑnd |   名词:纽带；镣铐枷锁；债券；契约。及物动词:粘合。不及物动词:建立密切关系。
+纽带:to feel a strong bond with sb. 感到和某人关系密切。
+束缚:to break the bonds of routine. 打破常规的束缚。
+契约:my word is my bond. 我一定会履行诺言。
+建立密切关系:the mother and baby bonded quickly. 母亲和婴儿很快建立了感情。
+
+
+
+
+catalyst | BrE ˈkat(ə)lɪst, AmE ˈkæd(ə)ləst |   名词:催化剂；促进因素
+促进因素:to be/act as a catalyst (for sth); 是/作为（某事物的）促进因素。
+
+
+
+
+
+
+vital | BrE ˈvʌɪt(ə)l, AmE ˈvaɪdl |   形容词:必不可少的，决定性的，必要的，极其重要的；生气勃勃的；
+极其重要的:it is vital that …, it is of vital importance that … …是极其重要的。
+极其重要的:to play a vital role or part .起着至关重要的作用。
+重要的:the vital organs. 重要器官。
+
+
+
+
+
+lubricant | BrE ˈluːbrɪk(ə)nt, AmE ˈlubrəkənt |   名词:润滑剂
+可数或不可数
+
+
+
+
+
+
+provoke | BrE prəˈvəʊk, AmE prəˈvoʊk |   及物动词:激怒；挑衅；引起激起；
+激怒: the snake is quite harmless, unless provoked. 这种蛇除非被激怒，否则不会伤人。
+挑衅:to provoke sb/sth to do sth or into doing sth. 刺激某人/某物做某事。
+引起:his new book has provoked a great deal of controversy. 他的新书引起了很大的争议。
+
+
+
+
+
+surrender | BrE səˈrɛndə, AmE səˈrɛndər |   不及物动词:投降，自首，屈服；听任；及物:放弃；名词:投降..
+屈服:to surrender to sb; 屈服于某人。
+放弃:he agreed to surrender all claims to the property. 他同意放弃所有的产权要求。
+投降；放任自己；听任摆布:to surrender oneself 
+
+
+
+
+
+abstinent | BrE ˈabstɪnənt, AmE ˈæbstənənt |   形容词:节制的
+节制的:to be totally abstinent from alcohol. 滴酒不沾。
+
+
+
+
+
+
+coerce | BrE kəʊˈəːs, AmE koʊˈərs |   及物动词:胁迫
+强迫: to coerce sb into doing sth. 强迫某人做某事。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
