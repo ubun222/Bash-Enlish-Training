@@ -4,7 +4,6 @@ yes=
 for i in $(seq 100)
 do
 
-
 read -p "请拖入!一个!文件回车,完成后请按空格结束："  txt1
 
 if [[ "$txt1" = "" ]];then
@@ -15,6 +14,10 @@ fi
 
 alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\'  | tr '	' '=' |tr '\n' '@' | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g' ))"
 #有bug。alltxt="$alltxt$(echo $(cat $txt1 | awk -F'\\' '{printf $1}'))"
+
+if [[ "$?" = "0" ]] ;then
+targets="$txt1#$targets"
+fi
 
 done
 
@@ -40,10 +43,24 @@ fi
 
 echo "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" | cat >> ./allinone.txt
 
-if [[ "$?" = "0" ]] ;then
+for ii in $(seq 100);do
 
-echo Success! 
+path=$(echo $targets | tr  '#'  '\n' | head -n$ii | tail -n1 )
 
+
+
+if [[ "$path" != "" ]] ;then
+
+delete=$(cat $path | grep  '\\' )
+
+cat $path | grep -A 2580 '\\' | tr -d "$delete" >>./allinone.txt
+
+if [[ "$?" != "0" ]] ;then
+break 
 fi
+
+echo success +1
+fi
+done
 fi
 
