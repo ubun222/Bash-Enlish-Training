@@ -29,8 +29,11 @@ chips | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
 
 
 
+
 entrepreneur | BrE ˌɒntrəprəˈnəː, AmE ˌɑntrəprəˈnər,ˌɑntrəprəˈnʊ(ə)r |   名词:企业家，倡导者
 例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
+
+
 
 
 
@@ -41,8 +44,13 @@ start-up |。不可数：启动：start-up money/expenses/time。可数：新公
 
 
 
+
+
+
 unveiled | BrE ʌnˈveɪl, AmE ˌənˈveɪl | 原型：unveil  动词/形容词:为...揭幕；推出，公布：(announce for the first time) 
 例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
+
+
 
 
 
@@ -53,8 +61,12 @@ implant | BrE ɪmˈplɑːnt, AmE ɪmˈplænt | 动词/名词。动词:灌输，�
 
 
 
+
+
 electrodes | BrE ɪˈlɛktrəʊd, AmE əˈlɛktroʊd | 原型：electrode
 例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
+
+
 
 
 
@@ -66,8 +78,14 @@ organ | BrE ˈɔːɡ(ə)n, AmE ˈɔrɡən | 名词:管风琴，器官，机关�
 
 
 
+
+
+
 neurological | BrE ˌnjʊərəˈlɒdʒɪk(ə)l, AmE ˌn(j)ʊrəˈlɑdʒəkəl |  原型：nerve   形容词:神经病学的，神经系统的
 例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
+
+
+
 
 
 
@@ -79,8 +97,14 @@ conditions | BrE kənˈdɪʃ(ə)n, AmE kənˈdɪʃ(ə)n | 原型：condition  �
 
 
 
+
+
+
 appearing | BrE əˈpɪə, AmE əˈpɪr | 原型：appear   动词:出现。来到。显得。出版，发表。出庭。演出。到场。
 例句：Musk did not provide a timeline for those treatments, appearing to retreat from earlier statements that...
+
+
+
 
 
 
@@ -91,8 +115,14 @@ retreat | BrE rɪˈtriːt, AmE rəˈtrit | 名词/动词:名词：撤退。隐�
 
 
 
+
+
+
 statement | BrE ˈsteɪtm(ə)nt, AmE ˈsteɪtmənt | 名词:声明。口供。结算单。
 例句：...appearing to retreat from earlier statements that human trials would begin by the end of this year.
+
+
+
 
 
 
@@ -102,8 +132,14 @@ trials | BrE ˈtrʌɪəl, AmE ˈtraɪ(ə)l | 名词/动词:名词：审判。试
 
 
 
+
+
+
 clinical | BrE ˈklɪnɪk(ə)l, AmE ˈklɪnək(ə)l | 形容词:临床的：（clinical medicine/training）。冷漠的，客观的（with clinical detachment）。简朴的<room,building>。准确有效的（with clinical accuracy）。
 例句：Neuralink's first clinical trials with a small number of human patients would be aimed at...
+
+
+
 
 
 
@@ -116,9 +152,11 @@ unaffiliated | BrE ʌnəˈfɪlɪeɪtɪd, AmE ˌənəˈfɪliˌeɪdəd | 形容词
 
 
 
+
 presentation | BrE prɛz(ə)nˈteɪʃ(ə)n, AmE ˌprɛzənˈteɪʃ(ə)n,ˌpriˌzɛnˈteɪʃ(ə)n |  名词 :赠送，授予。陈述。外观。表演。引见。
 例句：to make (sb) a presentation (of sth). 赠送（某人）（某物）。
 例句：the presentation indicated that Neuralink had made great strides but cautioned that longer studies were needed.
+
 
 
 
@@ -129,13 +167,19 @@ indicated | BrE ˈɪndɪkeɪt, AmE ˈɪndəˌkeɪt | 动词:指示。暗示。�
 
 
 
+
+
 cautioned | BrE ˈkɔːʃ(ə)n, AmE ˈkɔʃ(ə)n | 名词/动词。名词：小心。警告。法律权益告知。可笑的人。动词：警告。警诫。
 例句：...the presentation indicated that Neuralink had made great strides but cautioned that longer studies were needed.
 
 
 
+
+
 longevity | BrE lɒnˈdʒɛvɪti, AmE lɔnˈdʒɛvədi,lɑnˈdʒɛvədi | 名词:长寿，持久。
 例句：Some researchers said longer studies would be required to determine the longevity of the device.
+
+
 
 
 
@@ -145,8 +189,14 @@ stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt | 动词:刺激，激励�
 
 
 
+
+
+
 nerves | BrE nəːv, AmE nərv | 原型：nerve 名词/动词/复数形式名词。名词：神经。勇气。厚脸皮。复数形式名词：神经质。动词：激励。
 例句：Small devices that electronically stimulate nerves and brain areas to...
+
+
+
 
 
 
@@ -156,7 +206,8 @@ conducted | BrE ˈkɒndʌkt, AmE ˈkɑnˌdəkt | 原型 conduct 名词/动词。
 
 
 
-spinal_cord_injuries | 
+
+
 
 
 
