@@ -1,29 +1,29 @@
-chips				芯片，薯条
+chip				芯片，薯条
 entrepreneur			企业家，创业者
 start-up			初创公司
-unveiled			展示，介绍
+unveil			展示，介绍
 implant				移植物,植入
-electrodes			电极
+electrode			电极
 organ				器官
 neurological			神经的
-conditions			疾病
+condition			疾病
 spinal cord injuries		脊髓损伤
 appearing			呈现
 retreat				改变主意
 statement			说明，表态
-trials				试验
+trial				试验
 clinical			临床的
 unaffiliated			非附属的
 presentation			报告，演讲
-indicated			表明
+indicate			表明
 made great strides		取得巨大进展
-cautioned			小心
+caution			小心
 longevity			寿命
 stimulate			促进
-nerves				神经
-conducted			组织
+nerve				神经
+conduct			组织
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-chips | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
+chip | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
 例句：Musk‘s Neuralink puts computer *chips in animal brains.
 短语： chip away/chip away at/chip in/chip off
 
@@ -47,7 +47,7 @@ start-up |。不可数：启动：start-up money/expenses/time。可数：新公
 
 
 
-unveiled | BrE ʌnˈveɪl, AmE ˌənˈveɪl | 原型：unveil  动词/形容词:为...揭幕；推出，公布：(announce for the first time) 
+unveil | BrE ʌnˈveɪl, AmE ˌənˈveɪl | 原型：unveil  动词/形容词:为...揭幕；推出，公布：(announce for the first time) 
 例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
 
 
@@ -63,7 +63,7 @@ implant | BrE ɪmˈplɑːnt, AmE ɪmˈplænt | 动词/名词。动词:灌输，�
 
 
 
-electrodes | BrE ɪˈlɛktrəʊd, AmE əˈlɛktroʊd | 原型：electrode
+electrode | BrE ɪˈlɛktrəʊd, AmE əˈlɛktroʊd | 原型：electrode
 例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
 
 
@@ -90,7 +90,7 @@ neurological | BrE ˌnjʊərəˈlɒdʒɪk(ə)l, AmE ˌn(j)ʊrəˈlɑdʒəkəl | 
 
 
 
-conditions | BrE kənˈdɪʃ(ə)n, AmE kənˈdɪʃ(ə)n | 原型：condition  名词/动词。名词:状况，处境。条件，条款。健康状况。疾病。复数状态下：条件。动词：训练，使适应。决定。护理。处理。
+condition | BrE kənˈdɪʃ(ə)n, AmE kənˈdɪʃ(ə)n | 原型：condition  名词/动词。名词:状况，处境。条件，条款。健康状况。疾病。复数状态下：条件。动词：训练，使适应。决定。护理。处理。
 例句：...include thousands of electrodes in the most complex human organ to help
  cure neurological conditions...
 
@@ -127,7 +127,7 @@ statement | BrE ˈsteɪtm(ə)nt, AmE ˈsteɪtmənt | 名词:声明。口供。�
 
 
 
-trials | BrE ˈtrʌɪəl, AmE ˈtraɪ(ə)l | 名词/动词:名词：审判。试验，试用。困难，考验。竞赛。动词：适用
+trial | BrE ˈtrʌɪəl, AmE ˈtraɪ(ə)l | 名词/动词:名词：审判。试验，试用。困难，考验。竞赛。动词：适用
 例句：..appearing to retreat from earlier statements that human trials would begin by the end of this year.
 
 
@@ -161,7 +161,7 @@ presentation | BrE prɛz(ə)nˈteɪʃ(ə)n, AmE ˌprɛzənˈteɪʃ(ə)n,ˌpriˌz
 
 
 
-indicated | BrE ˈɪndɪkeɪt, AmE ˈɪndəˌkeɪt | 动词:指示。暗示。标示。表明。打...转向信号。
+indicate | BrE ˈɪndɪkeɪt, AmE ˈɪndəˌkeɪt | 动词:指示。暗示。标示。表明。打...转向信号。
 短语：to indicate to sb that … 向某人指示…
 例句：...the presentation indicated that Neuralink had made great strides but cautioned that longer studies were needed.
 
@@ -169,7 +169,7 @@ indicated | BrE ˈɪndɪkeɪt, AmE ˈɪndəˌkeɪt | 动词:指示。暗示。�
 
 
 
-cautioned | BrE ˈkɔːʃ(ə)n, AmE ˈkɔʃ(ə)n | 名词/动词。名词：小心。警告。法律权益告知。可笑的人。动词：警告。警诫。
+caution | BrE ˈkɔːʃ(ə)n, AmE ˈkɔʃ(ə)n | 名词/动词。名词：小心。警告。法律权益告知。可笑的人。动词：警告。警诫。
 例句：...the presentation indicated that Neuralink had made great strides but cautioned that longer studies were needed.
 
 
@@ -192,7 +192,7 @@ stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt | 动词:刺激，激励�
 
 
 
-nerves | BrE nəːv, AmE nərv | 原型：nerve 名词/动词/复数形式名词。名词：神经。勇气。厚脸皮。复数形式名词：神经质。动词：激励。
+nerve | BrE nəːv, AmE nərv | 原型：nerve 名词/动词/复数形式名词。名词：神经。勇气。厚脸皮。复数形式名词：神经质。动词：激励。
 例句：Small devices that electronically stimulate nerves and brain areas to...
 
 
@@ -200,7 +200,7 @@ nerves | BrE nəːv, AmE nərv | 原型：nerve 名词/动词/复数形式名词
 
 
 
-conducted | BrE ˈkɒndʌkt, AmE ˈkɑnˌdəkt | 原型 conduct 名词/动词。名词：行为。处理，实施，经营。动词：为...做向导。处理，安排，经营，进行。指挥。传导。
+conduct | BrE ˈkɒndʌkt, AmE ˈkɑnˌdəkt | 原型 conduct 名词/动词。名词：行为。处理，实施，经营。动词：为...做向导。处理，安排，经营，进行。指挥。传导。
 例句：Brain implant trials have also been conducted with a small number of people...
 
 
