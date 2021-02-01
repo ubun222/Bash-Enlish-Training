@@ -35,7 +35,7 @@ depression			忧郁
 desire				渴望
 dopamine			多巴胺
 downward	向下的，朝下的
-dubbed				把...称为
+dub				把...称为
 electrode			电极
 elite				精英
 emphasis			重视
@@ -57,7 +57,7 @@ implant				移植物,植入
 implicate			被涉及，牵连
 indeed				确实
 indicate			表明
-individuals			个人，个体
+individual			个人，个体
 inherent			与身俱来的
 innovate	改革
 instant		即刻的
@@ -123,7 +123,7 @@ trial				试验
 tyrannical			残暴的
 unaffiliated			非附属的
 unveil			展示，介绍
-urges				欲望
+urge				欲望
 veteran				老兵
 violent				暴力的
 virtual		几乎
@@ -318,18 +318,6 @@ conduct | BrE ˈkɒndʌkt, AmE ˈkɑnˌdəkt | 原型 conduct 名词/动词。�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 addict | BrE ˈadɪkt, AmE ˈædɪkt |   名词:有瘾的人，入迷的人
 有瘾的人:a coffee addict. 喝咖啡上瘾的人。
 入迷的人:a telly addict.informal 电视迷。
@@ -512,6 +500,9 @@ substitute | BrE ˈsʌbstɪtjuːt, AmE ˈsəbstəˌt(j)ut |   名词/及物动�
 代替者:a milk substitute. 代乳品。
 及物:butter can be substituted with margarine in this recipe. 做这道菜可以用人造黄油代替黄油。
 不及物:nothing can substitute for the advice your doctor is able to give you. 医生给你的忠告是无可替代的。
+
+
+
 
 
 
@@ -709,6 +700,243 @@ investment | BrE ɪnˈvɛs(t)m(ə)nt, AmE ɪnˈvɛs(t)mənt |   名词:投资，
 投入:a huge emotional investment. 大量的情感投入。
 
 
+
+
+
+
+publication | BrE ˌpʌblɪˈkeɪʃ(ə)n, AmE ˌpəbləˈkeɪʃ(ə)n | 名词:出版；出版物；公布
+出版:the date of publication. 出版日期。
+
+
+
+
+
+
+
+treatise | BrE ˈtriːtɪs,ˈtriːtɪz, AmE ˈtridɪs | 名词:论文
+论文: a treatise on sth; 关于某研究课题的论文。
+论文: a scholarly or an academic treatise. 学术论文。
+
+
+
+
+
+
+scrutiny | BrE ˈskruːtɪni, AmE ˈskrutni | 名词:仔细观察；仔细检查
+例句:to be under scrutiny;(observation)受到密切注意/(investigation)受到检查
+
+
+
+
+
+
+emphasis | BrE ˈɛmfəsɪs, AmE ˈɛmfəsəs | 名词:重要性；重音；加重语气
+重要性:to lay or place or put the emphasis on sth. 重视某事物。
+重要性:to shift the emphasis from sth to sth. 将重点从某事物转移到某事物上。
+加重语气:to speak with emphasis. 加重语气说话。
+
+
+
+
+violent | BrE ˈvʌɪəl(ə)nt, AmE ˈvaɪ(ə)lənt | 形容词:残暴的；猛烈的；突然的；刺眼的
+暴力的:violent film/clash/attack/protest/behaviour. 暴力电影/冲突/袭击/抗议/行为。
+
+
+
+
+
+
+urge | BrE ˈəːdʒ, AmE ərdʒ | 名词:强烈欲望/及物动词:力劝；竭力主张；驱赶
+短语:urge on:鼓励:to urge on the troops.
+强烈欲望:I had a sudden urge to hit him. 我突然很想揍他。
+竭力主张:he urged patience on the crowd. 他呼吁那群人保持耐心。
+驱赶:he urged the sheep through the gate. 他赶着羊群穿过大门。
+
+
+
+
+repression | BrE rɪˈprɛʃən, AmE rəˈprɛʃ(ə)n | 名词:压制;压抑
+压制:the minister advocated the repression of dissent. 这位部长主张压制持不同政见者。
+
+
+
+
+
+
+premise | BrE ˈprɛmɪs, AmE ˈprɛməs | 名词:假定；前提
+假定:on the premise that … 根据…的假设。
+
+
+
+
+
+
+
+reflect | BrE rɪˈflɛkt, AmE rəˈflɛkt | 及物动词:映出；反射；显示；认真思考。不及物动词:深思
+反射:to bask in reflected glory. [figurative(比喻)] 沾别人的光。
+显示:his music reflects his feelings. 他的音乐表达了他的感情。
+认真思考:to reflect that …; 琢磨着…
+深思:to reflect on or upon sth; 思考某事。
+短语:reflect on, reflect upon :导致，给...带来影响。
+
+
+
+
+consolidation | BrE kənˌsɒlɪˈdeɪʃ(ə)n, AmE kənˌsɑləˈdeɪʃ(ə)n | 名词:巩固；合并
+巩固:the consolidation of power/skills. 权力/技能的巩固。
+合并:a consolidation of Japanese banks/two political parties. 几家日本银行/两个政党的合并。
+
+
+
+
+
+mental | BrE ˈmɛnt(ə)l, AmE ˈmɛn(t)l | 形容词:智力的；内心的；精神健康的；疯的
+智力:mental faculties or powers.
+内心的:a mental picture of sth. 某物在脑海里的形象。
+精神健康的:a mental illness/disorder/case/hospital.精神病/精神紊乱/精神病患者/精神病院。
+疯的:to go mental (about sth); （因某事）发疯。
+
+
+
+resemblance | BrE rɪˈzɛmbl(ə)ns, AmE rəˈzɛmbləns | 名词:相似；相像
+相似:to bear no/some resemblance to sb/sth. 与某人/某事物没有/有一些相似之处。
+相似:degree of resemblance. 相似程度。
+相像:a family resemblance. 家族相似性。
+
+
+
+dub | BrE dʌb, AmE dəb | 及物动词:为...配音，混录；把...称为
+过去式:dubbed
+为...配音:the film had been dubbed into German. 这部电影已经用德语配了音。
+
+
+
+
+
+hypothesis | BrE hʌɪˈpɒθɪsɪs, AmE haɪˈpɑθəsəs | 名词:假设；假说
+(supposition) 假设
+Philosophy 假说 
+
+
+
+
+
+
+
+individual | BrE ɪndɪˈvɪdʒʊ(ə)l,ɪndɪˈvɪdjʊ(ə)l, AmE ˌɪndəˈvɪdʒ(u)əl | 形容词:单独的；个人的；独特的/名词:个人；一类人；有个性的人
+单独的:each individual person/article. 每个人/每件物品。
+个人: each individual.每个人。
+个人:donations from private individuals. 私人捐助。
+一类人:she's a lazy individual. 她是个懒鬼。
+
+
+
+
+
+
+indeed | BrE ɪnˈdiːd, AmE ɪnˈdid | 副词:确实；实际上；[表示惊讶或轻蔑]
+确实:it is indeed likely that … 的确有可能…
+确实:that's very good news indeed. 那可真是个好消息。
+对话:are you going? — I am indeed!, yes indeed! 你去吗？──当然！
+实际上:she is polite, indeed charming. 她彬彬有礼，更确切地说，是很迷人。
+真的:if indeed I did forget… 如果我真的忘了…
+
+
+
+
+adolescence | BrE adəˈlɛs(ə)ns, AmE ˌædəˈlɛsəns | 名词:青春期
+不可数
+
+
+
+
+
+
+adulthood | BrE ˈadʌlthʊd, AmE əˈdəlthʊd,ˈædəlthʊd | 名词:成年
+成年:to survive into/reach adulthood. 活到/到了成年。
+
+
+
+
+
+
+algorithm | BrE ˈalɡərɪð(ə)m, AmE ˈælɡəˌrɪðəm | 名词:算法
+
+
+
+
+
+
+veteran | BrE ˈvɛt(ə)r(ə)n, AmE ˈvɛdərən,ˈvɛtrən | 名词:老手；老战士
+老手: a veteran of sth. 某方面的老手。
+老手:a veteran actor/politician/journalist. 资深演员/政治家/记者。
+
+
+
+
+
+
+intense | BrE ɪnˈtɛns, AmE ɪnˈtɛns | 形容词:强烈的；紧张的，激烈的；热切的
+强烈的:intense heat/cold/darkness/light/pain. 酷热/严寒/漆黑/强光/剧痛。
+强烈的:intense pleasure/anger/anguish. 十分快乐/极端愤怒/极为苦恼。
+浓厚的:intense interest. 浓厚的兴趣。
+
+
+
+
+exposure | BrE ɪkˈspəʊʒə,ɛkˈspəʊʒə, AmE ɪkˈspoʊʒər | 名词:揭发；暴露；受寒；亮相，报道；承担金融风险；曝光时间，底片
+揭发:to threaten with exposure. 威胁要揭发。
+暴露:exposure to the wind and sun. 经受风吹日晒。
+受冻:to suffer from exposure; 受冻。
+亮相:to receive or get exposure in the media; 被媒体报道。
+
+
+
+
+
+
+conflict | BrE ˈkɒnflɪkt, AmE ˈkɑnˌflɪkt | 可数或不可数名词:战斗；争端；冲突/不及物动词:与某事物矛盾冲突
+争端:his views brought him into conflict with the establishment. 他的观点使他与当权派发生争执。
+冲突:a conflict of interests/loyalties. 利益/效忠冲突。
+与某事物矛盾: to conflict with sth(contradict)
+冲突(动词):to conflict with sth;
+
+
+
+aggression | BrE əˈɡrɛʃ(ə)n, AmE əˈɡrɛʃən | 名词:敌对情绪；侵犯；军事侵略
+
+
+
+
+
+
+
+military | BrE ˈmɪlɪt(ə)ri, AmE ˈmɪləˌtɛri | 形容词:军事的；军用的
+军事的:military manoeuvres/insurrection. 军事演习/武装起义。
+军事的:with military precision. 如军人般一丝不苟地。
+军事的:to do military service; 服兵役。
+军队，军人:the military
+
+
+
+
+pass muster |
+I could not pass muster in his language. 我说不好他的语言。
+
+
+
+
+
+
+admittedly | BrE ədˈmɪtɪdli, AmE ədˈmɪdɪdli | 副词:诚然
+的确:admittedly, he did lie, but … 他的确撒谎了，但是…
+
+
+
+
+
+
+
 slap | BrE slap, AmE slæp |   及物动词/不及物动词/名词。动词:拍打；摔地上。名词:拍打。
 打耳光:to slap sb across the face, to slap sb's face. 打某人耳光。
 拍打:a slap on sth. 拍打某物。
@@ -886,16 +1114,6 @@ abstinent | BrE ˈabstɪnənt, AmE ˈæbstənənt |   形容词:节制的
 
 coerce | BrE kəʊˈəːs, AmE koʊˈərs |   及物动词:胁迫
 强迫: to coerce sb into doing sth. 强迫某人做某事。
-
-
-
-
-
-
-
-
-
-
 
 
 
