@@ -30,6 +30,7 @@ chip | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
 
 
 
+
 entrepreneur | BrE ˌɒntrəprəˈnəː, AmE ˌɑntrəprəˈnər,ˌɑntrəprəˈnʊ(ə)r |   名词:企业家，倡导者
 例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
 
@@ -72,8 +73,7 @@ electrode | BrE ɪˈlɛktrəʊd, AmE əˈlɛktroʊd | 原型：electrode
 
 
 organ | BrE ˈɔːɡ(ə)n, AmE ˈɔrɡən | 名词:管风琴，器官，机关，机关报刊
-例句：...include thousands of electrodes in the most complex human organ to help
- cure neurological conditions...
+例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
 
 
 
@@ -91,8 +91,7 @@ neurological | BrE ˌnjʊərəˈlɒdʒɪk(ə)l, AmE ˌn(j)ʊrəˈlɑdʒəkəl | 
 
 
 condition | BrE kənˈdɪʃ(ə)n, AmE kənˈdɪʃ(ə)n | 原型：condition  名词/动词。名词:状况，处境。条件，条款。健康状况。疾病。复数状态下：条件。动词：训练，使适应。决定。护理。处理。
-例句：...include thousands of electrodes in the most complex human organ to help
- cure neurological conditions...
+例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
 
 
 
