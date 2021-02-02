@@ -26,21 +26,21 @@ elite				精英
 tyrannical			残暴的
 substitute			代替品
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-addict | BrE ˈadɪkt, AmE ˈædɪkt |   名词:有瘾的人，入迷的人
+addict | BrE ˈadɪkt, AmE ˈædɪkt | 名词:有瘾的人，入迷的人
 有瘾的人:a coffee addict. 喝咖啡上瘾的人。
 入迷的人:a telly addict.informal 电视迷。
 
 
 
 
-conventional | BrE kənˈvɛnʃ(ə)n(ə)l, AmE kənˈvɛn(t)ʃ(ə)n(ə)l |   形容词:符合习俗的，墨守成规的；传统的；常规的
+conventional | BrE kənˈvɛnʃ(ə)n(ə)l, AmE kənˈvɛn(t)ʃ(ə)n(ə)l | 形容词:符合习俗的，墨守成规的；传统的；常规的
 符合习俗的，墨守成规的:to be conventional in sth. 在某方面守旧。
 常规的:conventional warfare/weapons. 常规战争/武器。
 
 
 
 
-property | BrE ˈprɒpəti, AmE ˈprɑpərdi |   名词:财产；房屋院落，房地产；住宅；所有物，所有权；特性
+property | BrE ˈprɒpəti, AmE ˈprɑpərdi | 名词:财产；房屋院落，房地产；住宅；所有物，所有权；特性
 财产:personal/public property. 私人/公共财产。
 财产:to be public or common property that … 众所周知…
 住宅:the farmer ordered the campers off his property. 那位农场主命令野营者离开他的地盘。
@@ -48,7 +48,7 @@ property | BrE ˈprɒpəti, AmE ˈprɑpərdi |   名词:财产；房屋院落，
 
 
 
-to a certain extent | BrE ɪkˈstɛnt,ɛkˈstɛnt, AmE ɪkˈstɛnt |   extent，名词:大小，严重性，程度
+to a certain extent | BrE ɪkˈstɛnt,ɛkˈstɛnt, AmE ɪkˈstɛnt | extent，名词:大小，严重性，程度
 大小:over the whole extent of sth; 覆盖在某物上。
 程度:to a large/a certain/some extent; 在很大/一定/某种程度上。
 
@@ -56,7 +56,7 @@ to a certain extent | BrE ɪkˈstɛnt,ɛkˈstɛnt, AmE ɪkˈstɛnt |   extent，
 
 
 
-praise | BrE preɪz, AmE preɪz |   名词/及物动词:称赞；赞颂；称赞(v)；赞颂(v)
+praise | BrE preɪz, AmE preɪz | 名词/及物动词:称赞；赞颂；称赞(v)；赞颂(v)
 称赞:beyond praise. 赞美不尽的。
 赞颂:a hymn/song of praise. 赞美诗/颂歌。
 称赞(v):to praise sb/sth to the skies. 把某人/某事物捧上天。
@@ -65,7 +65,7 @@ praise | BrE preɪz, AmE preɪz |   名词/及物动词:称赞；赞颂；称赞
 
 
 
-stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt |   及物动词:刺激，激励，激发；促进...的功能(生理上)
+stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt | 及物动词:刺激，激励，激发；促进...的功能(生理上)
 激励:to stimulate sb to do sth; 激励某人做某事。
 
 
@@ -73,7 +73,7 @@ stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt |   及物动词:刺激�
 
 
 
-implicate | BrE ˈɪmplɪkeɪt, AmE ˈɪmpləˌkeɪt |   及物动词:牵连；与某坏事有牵连
+implicate | BrE ˈɪmplɪkeɪt, AmE ˈɪmpləˌkeɪt | 及物动词:牵连；与某坏事有牵连
 牵连:to implicate sb in a crime/in espionage. 使某人卷入犯罪/谍报活动。
 有牵连:viruses are implicated in certain cancers. 病毒与某些癌症有关。
 
@@ -81,7 +81,7 @@ implicate | BrE ˈɪmplɪkeɪt, AmE ˈɪmpləˌkeɪt |   及物动词:牵连；�
 
 
 
-desire | BrE dɪˈzʌɪə, AmE dəˈzaɪ(ə)r |   名词/及物动词:渴望；情欲；渴望(v)
+desire | BrE dɪˈzʌɪə, AmE dəˈzaɪ(ə)r | 名词/及物动词:渴望；情欲；渴望(v)
 渴望:her heart's desire.(literary书面) 她最心仪的东西。
 渴望(v):to desire to do sth.(formal正式) 想做某事。
 
@@ -89,7 +89,7 @@ desire | BrE dɪˈzʌɪə, AmE dəˈzaɪ(ə)r |   名词/及物动词:渴望；�
 
 
 
-inherent | BrE ɪnˈhɪər(ə)nt,ɪnˈhɛr(ə)nt, AmE ɪnˈhɪrənt,ɪnˈhɛrənt |   形容词:内在的；固有的
+inherent | BrE ɪnˈhɪər(ə)nt,ɪnˈhɛr(ə)nt, AmE ɪnˈhɪrənt,ɪnˈhɛrənt | 形容词:内在的；固有的
 内在的:with its inherent risks. 由于其本身的危险。
 固有的:to be inherent in sth. 是某事物固有的。
 
@@ -97,14 +97,14 @@ inherent | BrE ɪnˈhɪər(ə)nt,ɪnˈhɛr(ə)nt, AmE ɪnˈhɪrənt,ɪnˈhɛrən
 
 
 
-brutal | BrE ˈbruːt(ə)l, AmE ˈbrudl |   形容词:残酷的，野蛮的，残忍的；不留情面的；粗暴的
+brutal | BrE ˈbruːt(ə)l, AmE ˈbrudl | 形容词:残酷的，野蛮的，残忍的；不留情面的；粗暴的
 
 
 
 
 
 
-sacrifice | BrE ˈsakrɪfʌɪs, AmE ˈsækrəˌfaɪs |   名词/及物动词:献祭；祭品。牺牲，以...作为祭品。
+sacrifice | BrE ˈsakrɪfʌɪs, AmE ˈsækrəˌfaɪs | 名词/及物动词:献祭；祭品。牺牲，以...作为祭品。
 献祭:getting rich isn't worth the sacrifice of your principles. 为致富牺牲原则是不值得的。
 牺牲自己:to sacrifice oneself
 
@@ -112,7 +112,7 @@ sacrifice | BrE ˈsakrɪfʌɪs, AmE ˈsækrəˌfaɪs |   名词/及物动词:献
 
 
 
-famously | BrE ˈfeɪməsli, AmE ˈfeɪməsli |   副词:极好的；出名的。
+famously | BrE ˈfeɪməsli, AmE ˈfeɪməsli | 副词:极好的；出名的。
 极好的:to get on or along famously. 相处极好。
 出名的:he once famously stated that … 他有句名言说…
 
@@ -120,19 +120,19 @@ famously | BrE ˈfeɪməsli, AmE ˈfeɪməsli |   副词:极好的；出名的�
 
 
 
-treadmill | BrE ˈtrɛdmɪl, AmE ˈtrɛdˌmɪl/, , treadwheel | ˈtredwiːl |   名词:踏车；单调乏味的工作；跑步机
+treadmill | BrE ˈtrɛdmɪl, AmE ˈtrɛdˌmɪl/, , treadwheel | ˈtredwiːl | 名词:踏车；单调乏味的工作；跑步机
 枯燥的工作:to be on a treadmill. 做枯燥的工作。
 
 
 
 
-wear off | BrE wɛː, AmE wɛr |   及物短语/不及物短语:逐渐消失；磨掉；抹去(油漆等材料)
+wear off | BrE wɛː, AmE wɛr | 及物短语/不及物短语:逐渐消失；磨掉；抹去(油漆等材料)
 逐渐消失:the effect of the anaesthetic was beginning to wear off. 麻醉剂的药效开始逐渐减退。
 
 
 
 
-reward | BrE rɪˈwɔːd, AmE rəˈwɔrd |   名词/及物动词:报偿；酬金；回报；酬谢；值得
+reward | BrE rɪˈwɔːd, AmE rəˈwɔrd | 名词/及物动词:报偿；酬金；回报；酬谢；值得
 报偿:as a reward for sth/for doing sth. 作为某事/做某事的奖励。
 回报:one reward of my job is foreign travel. 我工作的一个回报是可以去国外旅行。
 回报(动词):if you persist, your efforts will be rewarded. 如果你坚持不懈，你的努力是不会白费的。
@@ -140,7 +140,7 @@ reward | BrE rɪˈwɔːd, AmE rəˈwɔrd |   名词/及物动词:报偿；酬金
 
 
 
-hook | BrE hʊk, AmE hʊk |   名词/及物动词/不及物动词:挂钩，鱼钩；用钩挂，钩住；使变成钩；钓；用钩固定；
+hook | BrE hʊk, AmE hʊk | 名词/及物动词/不及物动词:挂钩，鱼钩；用钩挂，钩住；使变成钩；钓；用钩固定；
 鱼钩:to fall for sth hook, line, and sinker(非正式). 完全被某事物欺骗。
 鱼钩:to get/let sb off the hook(抽象). 使/让某人摆脱责任。
 用钩挂:to hook sth to the back of the car. 把某物挂在汽车尾部。
@@ -148,7 +148,7 @@ hook | BrE hʊk, AmE hʊk |   名词/及物动词/不及物动词:挂钩，鱼�
 
 
 
-substance | BrE ˈsʌbst(ə)ns, AmE ˈsəbstəns |   名词:东西；药物；事实基础；实质；重要性；物质
+substance | BrE ˈsʌbst(ə)ns, AmE ˈsəbstəns | 名词:东西；药物；事实基础；实质；重要性；物质
 东西:this substance should not come into contact with food. 这种东西不可以和食物接触。
 事实基础:to lend substance to sth. 使某事有根有据。
 本质上:in substance
@@ -156,14 +156,14 @@ substance | BrE ˈsʌbst(ə)ns, AmE ˈsəbstəns |   名词:东西；药物；�
 
 
 
-agonize | BrE ˈaɡənʌɪz, AmE ˈæɡəˌnaɪz |   不及物动词:焦虑不已
+agonize | BrE ˈaɡənʌɪz, AmE ˈæɡəˌnaɪz | 不及物动词:焦虑不已
 焦虑不已:to agonize over or about sth. 为某事物犯愁。
 
 
 
 
 
-physically | BrE ˈfɪzɪkli, AmE ˈfɪzɪk(ə)li |   副词:身体上
+physically | BrE ˈfɪzɪkli, AmE ˈfɪzɪk(ə)li | 副词:身体上
 身体上:I felt physically sick. 我感到身体不适。
 例句:he doesn't attract me physically. 我不觉得他长得帅。
 例句:it's physically impossible to get to the airport before 8 am. 上午8点之前赶到机场非人力所及。
@@ -173,7 +173,7 @@ physically | BrE ˈfɪzɪkli, AmE ˈfɪzɪk(ə)li |   副词:身体上
 
 
 
-depression | BrE dɪˈprɛʃ(ə)n, AmE dəˈprɛʃ(ə)n |   名词:抑郁症；沮丧；萧条；坑
+depression | BrE dɪˈprɛʃ(ə)n, AmE dəˈprɛʃ(ə)n | 名词:抑郁症；沮丧；萧条；坑
 抑郁症:to suffer from depression. 患抑郁症。
 萧条:the (Great) Depression. [二战前的] 大萧条。
 
@@ -181,7 +181,7 @@ depression | BrE dɪˈprɛʃ(ə)n, AmE dəˈprɛʃ(ə)n |   名词:抑郁症；�
 
 
 
-anxiety | BrE aŋˈzʌɪəti, AmE æŋˈzaɪədi |   名词:焦虑；令人焦虑的事；渴望
+anxiety | BrE aŋˈzʌɪəti, AmE æŋˈzaɪədi | 名词:焦虑；令人焦虑的事；渴望
 焦虑:to feel great anxiety about sth. 对某事物感到焦虑不已。
 令人焦虑的事:the child's illness is a great anxiety to her. 孩子的病让她焦虑万分。
 渴望:a great anxiety to please. 急于讨好的心情。
@@ -189,7 +189,7 @@ anxiety | BrE aŋˈzʌɪəti, AmE æŋˈzaɪədi |   名词:焦虑；令人焦�
 
 
 
-elite | BrE eɪˈliːt,ɪˈliːt, AmE əˈlit,eɪˈlit |   名词/形容词:社会精英；高层次的；精锐的，上等的；
+elite | BrE eɪˈliːt,ɪˈliːt, AmE əˈlit,eɪˈlit | 名词/形容词:社会精英；高层次的；精锐的，上等的；
 社会精英:the ruling elite. 统治精英。
 
 
@@ -197,14 +197,14 @@ elite | BrE eɪˈliːt,ɪˈliːt, AmE əˈlit,eɪˈlit |   名词/形容词:社�
 
 
 
-tyrannical | BrE tɪˈranɪk(ə)l,tʌɪˈranɪk(ə)l, AmE təˈrænək(ə)l |   形容词:专制的；残暴的
+tyrannical | BrE tɪˈranɪk(ə)l,tʌɪˈranɪk(ə)l, AmE təˈrænək(ə)l | 形容词:专制的；残暴的
 
 
 
 
 
 
-substitute | BrE ˈsʌbstɪtjuːt, AmE ˈsəbstəˌt(j)ut |   名词/及物动词/不及物动词:代替者；替补队员；替身；用...代替；替换；代替
+substitute | BrE ˈsʌbstɪtjuːt, AmE ˈsəbstəˌt(j)ut | 名词/及物动词/不及物动词:代替者；替补队员；替身；用...代替；替换；代替
 代替者:a milk substitute. 代乳品。
 及物:butter can be substituted with margarine in this recipe. 做这道菜可以用人造黄油代替黄油。
 不及物:nothing can substitute for the advice your doctor is able to give you. 医生给你的忠告是无可替代的。

@@ -139,7 +139,7 @@ chip | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
 
 
 
-entrepreneur | BrE ˌɒntrəprəˈnəː, AmE ˌɑntrəprəˈnər,ˌɑntrəprəˈnʊ(ə)r |   名词:企业家，倡导者
+entrepreneur | BrE ˌɒntrəprəˈnəː, AmE ˌɑntrəprəˈnər,ˌɑntrəprəˈnʊ(ə)r | 名词:企业家，倡导者
 例句：Billionaire *entrepreneur Elon Musk's neuroscience startup Neuralink on Friday unveiled a pig...
 
 
@@ -189,7 +189,7 @@ organ | BrE ˈɔːɡ(ə)n, AmE ˈɔrɡən | 名词:管风琴，器官，机关�
 
 
 
-neurological | BrE ˌnjʊərəˈlɒdʒɪk(ə)l, AmE ˌn(j)ʊrəˈlɑdʒəkəl |  原型：nerve   形容词:神经病学的，神经系统的
+neurological | BrE ˌnjʊərəˈlɒdʒɪk(ə)l, AmE ˌn(j)ʊrəˈlɑdʒəkəl |  原型：nerve 形容词:神经病学的，神经系统的
 例句：...include thousands of electrodes in the most complex human organ to help cure neurological conditions...
 
 
@@ -207,7 +207,7 @@ condition | BrE kənˈdɪʃ(ə)n, AmE kənˈdɪʃ(ə)n | 原型：condition  名
 
 
 
-appearing | BrE əˈpɪə, AmE əˈpɪr | 原型：appear   动词:出现。来到。显得。出版，发表。出庭。演出。到场。
+appearing | BrE əˈpɪə, AmE əˈpɪr | 原型：appear 动词:出现。来到。显得。出版，发表。出庭。演出。到场。
 例句：Musk did not provide a timeline for those treatments, appearing to retreat from earlier statements that...
 
 
@@ -318,21 +318,21 @@ conduct | BrE ˈkɒndʌkt, AmE ˈkɑnˌdəkt | 原型 conduct 名词/动词。�
 
 
 
-addict | BrE ˈadɪkt, AmE ˈædɪkt |   名词:有瘾的人，入迷的人
+addict | BrE ˈadɪkt, AmE ˈædɪkt | 名词:有瘾的人，入迷的人
 有瘾的人:a coffee addict. 喝咖啡上瘾的人。
 入迷的人:a telly addict.informal 电视迷。
 
 
 
 
-conventional | BrE kənˈvɛnʃ(ə)n(ə)l, AmE kənˈvɛn(t)ʃ(ə)n(ə)l |   形容词:符合习俗的，墨守成规的；传统的；常规的
+conventional | BrE kənˈvɛnʃ(ə)n(ə)l, AmE kənˈvɛn(t)ʃ(ə)n(ə)l | 形容词:符合习俗的，墨守成规的；传统的；常规的
 符合习俗的，墨守成规的:to be conventional in sth. 在某方面守旧。
 常规的:conventional warfare/weapons. 常规战争/武器。
 
 
 
 
-property | BrE ˈprɒpəti, AmE ˈprɑpərdi |   名词:财产；房屋院落，房地产；住宅；所有物，所有权；特性
+property | BrE ˈprɒpəti, AmE ˈprɑpərdi | 名词:财产；房屋院落，房地产；住宅；所有物，所有权；特性
 财产:personal/public property. 私人/公共财产。
 财产:to be public or common property that … 众所周知…
 住宅:the farmer ordered the campers off his property. 那位农场主命令野营者离开他的地盘。
@@ -340,7 +340,7 @@ property | BrE ˈprɒpəti, AmE ˈprɑpərdi |   名词:财产；房屋院落，
 
 
 
-to a certain extent | BrE ɪkˈstɛnt,ɛkˈstɛnt, AmE ɪkˈstɛnt |   extent，名词:大小，严重性，程度
+to a certain extent | BrE ɪkˈstɛnt,ɛkˈstɛnt, AmE ɪkˈstɛnt | extent，名词:大小，严重性，程度
 大小:over the whole extent of sth; 覆盖在某物上。
 程度:to a large/a certain/some extent; 在很大/一定/某种程度上。
 
@@ -348,7 +348,7 @@ to a certain extent | BrE ɪkˈstɛnt,ɛkˈstɛnt, AmE ɪkˈstɛnt |   extent，
 
 
 
-praise | BrE preɪz, AmE preɪz |   名词/及物动词:称赞；赞颂；称赞(v)；赞颂(v)
+praise | BrE preɪz, AmE preɪz | 名词/及物动词:称赞；赞颂；称赞(v)；赞颂(v)
 称赞:beyond praise. 赞美不尽的。
 赞颂:a hymn/song of praise. 赞美诗/颂歌。
 称赞(v):to praise sb/sth to the skies. 把某人/某事物捧上天。
@@ -357,7 +357,7 @@ praise | BrE preɪz, AmE preɪz |   名词/及物动词:称赞；赞颂；称赞
 
 
 
-stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt |   及物动词:刺激，激励，激发；促进...的功能(生理上)
+stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt | 及物动词:刺激，激励，激发；促进...的功能(生理上)
 激励:to stimulate sb to do sth; 激励某人做某事。
 
 
@@ -365,7 +365,7 @@ stimulate | BrE ˈstɪmjʊleɪt, AmE ˈstɪmjəˌleɪt |   及物动词:刺激�
 
 
 
-implicate | BrE ˈɪmplɪkeɪt, AmE ˈɪmpləˌkeɪt |   及物动词:牵连；与某坏事有牵连
+implicate | BrE ˈɪmplɪkeɪt, AmE ˈɪmpləˌkeɪt | 及物动词:牵连；与某坏事有牵连
 牵连:to implicate sb in a crime/in espionage. 使某人卷入犯罪/谍报活动。
 有牵连:viruses are implicated in certain cancers. 病毒与某些癌症有关。
 
@@ -373,7 +373,7 @@ implicate | BrE ˈɪmplɪkeɪt, AmE ˈɪmpləˌkeɪt |   及物动词:牵连；�
 
 
 
-desire | BrE dɪˈzʌɪə, AmE dəˈzaɪ(ə)r |   名词/及物动词:渴望；情欲；渴望(v)
+desire | BrE dɪˈzʌɪə, AmE dəˈzaɪ(ə)r | 名词/及物动词:渴望；情欲；渴望(v)
 渴望:her heart's desire.(literary书面) 她最心仪的东西。
 渴望(v):to desire to do sth.(formal正式) 想做某事。
 
@@ -381,7 +381,7 @@ desire | BrE dɪˈzʌɪə, AmE dəˈzaɪ(ə)r |   名词/及物动词:渴望；�
 
 
 
-inherent | BrE ɪnˈhɪər(ə)nt,ɪnˈhɛr(ə)nt, AmE ɪnˈhɪrənt,ɪnˈhɛrənt |   形容词:内在的；固有的
+inherent | BrE ɪnˈhɪər(ə)nt,ɪnˈhɛr(ə)nt, AmE ɪnˈhɪrənt,ɪnˈhɛrənt | 形容词:内在的；固有的
 内在的:with its inherent risks. 由于其本身的危险。
 固有的:to be inherent in sth. 是某事物固有的。
 
@@ -389,14 +389,14 @@ inherent | BrE ɪnˈhɪər(ə)nt,ɪnˈhɛr(ə)nt, AmE ɪnˈhɪrənt,ɪnˈhɛrən
 
 
 
-brutal | BrE ˈbruːt(ə)l, AmE ˈbrudl |   形容词:残酷的，野蛮的，残忍的；不留情面的；粗暴的
+brutal | BrE ˈbruːt(ə)l, AmE ˈbrudl | 形容词:残酷的，野蛮的，残忍的；不留情面的；粗暴的
 
 
 
 
 
 
-sacrifice | BrE ˈsakrɪfʌɪs, AmE ˈsækrəˌfaɪs |   名词/及物动词:献祭；祭品。牺牲，以...作为祭品。
+sacrifice | BrE ˈsakrɪfʌɪs, AmE ˈsækrəˌfaɪs | 名词/及物动词:献祭；祭品。牺牲，以...作为祭品。
 献祭:getting rich isn't worth the sacrifice of your principles. 为致富牺牲原则是不值得的。
 牺牲自己:to sacrifice oneself
 
@@ -404,7 +404,7 @@ sacrifice | BrE ˈsakrɪfʌɪs, AmE ˈsækrəˌfaɪs |   名词/及物动词:献
 
 
 
-famously | BrE ˈfeɪməsli, AmE ˈfeɪməsli |   副词:极好的；出名的。
+famously | BrE ˈfeɪməsli, AmE ˈfeɪməsli | 副词:极好的；出名的。
 极好的:to get on or along famously. 相处极好。
 出名的:he once famously stated that … 他有句名言说…
 
@@ -412,19 +412,19 @@ famously | BrE ˈfeɪməsli, AmE ˈfeɪməsli |   副词:极好的；出名的�
 
 
 
-treadmill | BrE ˈtrɛdmɪl, AmE ˈtrɛdˌmɪl/, , treadwheel | ˈtredwiːl |   名词:踏车；单调乏味的工作；跑步机
+treadmill | BrE ˈtrɛdmɪl, AmE ˈtrɛdˌmɪl/, , treadwheel | ˈtredwiːl | 名词:踏车；单调乏味的工作；跑步机
 枯燥的工作:to be on a treadmill. 做枯燥的工作。
 
 
 
 
-wear off | BrE wɛː, AmE wɛr |   及物短语/不及物短语:逐渐消失；磨掉；抹去(油漆等材料)
+wear off | BrE wɛː, AmE wɛr | 及物短语/不及物短语:逐渐消失；磨掉；抹去(油漆等材料)
 逐渐消失:the effect of the anaesthetic was beginning to wear off. 麻醉剂的药效开始逐渐减退。
 
 
 
 
-reward | BrE rɪˈwɔːd, AmE rəˈwɔrd |   名词/及物动词:报偿；酬金；回报；酬谢；值得
+reward | BrE rɪˈwɔːd, AmE rəˈwɔrd | 名词/及物动词:报偿；酬金；回报；酬谢；值得
 报偿:as a reward for sth/for doing sth. 作为某事/做某事的奖励。
 回报:one reward of my job is foreign travel. 我工作的一个回报是可以去国外旅行。
 回报(动词):if you persist, your efforts will be rewarded. 如果你坚持不懈，你的努力是不会白费的。
@@ -432,7 +432,7 @@ reward | BrE rɪˈwɔːd, AmE rəˈwɔrd |   名词/及物动词:报偿；酬金
 
 
 
-hook | BrE hʊk, AmE hʊk |   名词/及物动词/不及物动词:挂钩，鱼钩；用钩挂，钩住；使变成钩；钓；用钩固定；
+hook | BrE hʊk, AmE hʊk | 名词/及物动词/不及物动词:挂钩，鱼钩；用钩挂，钩住；使变成钩；钓；用钩固定；
 鱼钩:to fall for sth hook, line, and sinker(非正式). 完全被某事物欺骗。
 鱼钩:to get/let sb off the hook(抽象). 使/让某人摆脱责任。
 用钩挂:to hook sth to the back of the car. 把某物挂在汽车尾部。
@@ -440,7 +440,7 @@ hook | BrE hʊk, AmE hʊk |   名词/及物动词/不及物动词:挂钩，鱼�
 
 
 
-substance | BrE ˈsʌbst(ə)ns, AmE ˈsəbstəns |   名词:东西；药物；事实基础；实质；重要性；物质
+substance | BrE ˈsʌbst(ə)ns, AmE ˈsəbstəns | 名词:东西；药物；事实基础；实质；重要性；物质
 东西:this substance should not come into contact with food. 这种东西不可以和食物接触。
 事实基础:to lend substance to sth. 使某事有根有据。
 本质上:in substance
@@ -448,14 +448,14 @@ substance | BrE ˈsʌbst(ə)ns, AmE ˈsəbstəns |   名词:东西；药物；�
 
 
 
-agonize | BrE ˈaɡənʌɪz, AmE ˈæɡəˌnaɪz |   不及物动词:焦虑不已
+agonize | BrE ˈaɡənʌɪz, AmE ˈæɡəˌnaɪz | 不及物动词:焦虑不已
 焦虑不已:to agonize over or about sth. 为某事物犯愁。
 
 
 
 
 
-physically | BrE ˈfɪzɪkli, AmE ˈfɪzɪk(ə)li |   副词:身体上
+physically | BrE ˈfɪzɪkli, AmE ˈfɪzɪk(ə)li | 副词:身体上
 身体上:I felt physically sick. 我感到身体不适。
 例句:he doesn't attract me physically. 我不觉得他长得帅。
 例句:it's physically impossible to get to the airport before 8 am. 上午8点之前赶到机场非人力所及。
@@ -465,7 +465,7 @@ physically | BrE ˈfɪzɪkli, AmE ˈfɪzɪk(ə)li |   副词:身体上
 
 
 
-depression | BrE dɪˈprɛʃ(ə)n, AmE dəˈprɛʃ(ə)n |   名词:抑郁症；沮丧；萧条；坑
+depression | BrE dɪˈprɛʃ(ə)n, AmE dəˈprɛʃ(ə)n | 名词:抑郁症；沮丧；萧条；坑
 抑郁症:to suffer from depression. 患抑郁症。
 萧条:the (Great) Depression. [二战前的] 大萧条。
 
@@ -473,7 +473,7 @@ depression | BrE dɪˈprɛʃ(ə)n, AmE dəˈprɛʃ(ə)n |   名词:抑郁症；�
 
 
 
-anxiety | BrE aŋˈzʌɪəti, AmE æŋˈzaɪədi |   名词:焦虑；令人焦虑的事；渴望
+anxiety | BrE aŋˈzʌɪəti, AmE æŋˈzaɪədi | 名词:焦虑；令人焦虑的事；渴望
 焦虑:to feel great anxiety about sth. 对某事物感到焦虑不已。
 令人焦虑的事:the child's illness is a great anxiety to her. 孩子的病让她焦虑万分。
 渴望:a great anxiety to please. 急于讨好的心情。
@@ -481,7 +481,7 @@ anxiety | BrE aŋˈzʌɪəti, AmE æŋˈzaɪədi |   名词:焦虑；令人焦�
 
 
 
-elite | BrE eɪˈliːt,ɪˈliːt, AmE əˈlit,eɪˈlit |   名词/形容词:社会精英；高层次的；精锐的，上等的；
+elite | BrE eɪˈliːt,ɪˈliːt, AmE əˈlit,eɪˈlit | 名词/形容词:社会精英；高层次的；精锐的，上等的；
 社会精英:the ruling elite. 统治精英。
 
 
@@ -489,14 +489,14 @@ elite | BrE eɪˈliːt,ɪˈliːt, AmE əˈlit,eɪˈlit |   名词/形容词:社�
 
 
 
-tyrannical | BrE tɪˈranɪk(ə)l,tʌɪˈranɪk(ə)l, AmE təˈrænək(ə)l |   形容词:专制的；残暴的
+tyrannical | BrE tɪˈranɪk(ə)l,tʌɪˈranɪk(ə)l, AmE təˈrænək(ə)l | 形容词:专制的；残暴的
 
 
 
 
 
 
-substitute | BrE ˈsʌbstɪtjuːt, AmE ˈsəbstəˌt(j)ut |   名词/及物动词/不及物动词:代替者；替补队员；替身；用...代替；替换；代替
+substitute | BrE ˈsʌbstɪtjuːt, AmE ˈsəbstəˌt(j)ut | 名词/及物动词/不及物动词:代替者；替补队员；替身；用...代替；替换；代替
 代替者:a milk substitute. 代乳品。
 及物:butter can be substituted with margarine in this recipe. 做这道菜可以用人造黄油代替黄油。
 不及物:nothing can substitute for the advice your doctor is able to give you. 医生给你的忠告是无可替代的。
@@ -507,7 +507,7 @@ substitute | BrE ˈsʌbstɪtjuːt, AmE ˈsəbstəˌt(j)ut |   名词/及物动�
 
 
 
-nail | BrE neɪl, AmE neɪl |   多义名词/动词:钉子，指甲；钉住，揭穿；
+nail | BrE neɪl, AmE neɪl | 多义名词/动词:钉子，指甲；钉住，揭穿；
 例句:Microsoft drivers another nail in the coffin of its most hated product.
 短语:to hit the nail on the head——一针见血
 钉住:to nail sth on sth.
@@ -516,19 +516,19 @@ nail | BrE neɪl, AmE neɪl |   多义名词/动词:钉子，指甲；钉住，�
 
 
 
-coffin | BrE ˈkɒfɪn, AmE ˈkɔfən,ˈkɑfən |   名词:棺材，灵柩
+coffin | BrE ˈkɒfɪn, AmE ˈkɔfən,ˈkɑfən | 名词:棺材，灵柩
 
 
 
 
 
-miraculously | BrE mɪˈrakjʊləsli, AmE məˈrækjələsli |   副词:奇迹般的
+miraculously | BrE mɪˈrakjʊləsli, AmE məˈrækjələsli | 副词:奇迹般的
 
 
 
 
 
-around | BrE əˈraʊnd, AmE əˈraʊnd |   副词/介词:大约，在附近，面世，环绕着，朝相反方向，至某地；围绕，在...各处，在...附近，在...前后；
+around | BrE əˈraʊnd, AmE əˈraʊnd | 副词/介词:大约，在附近，面世，环绕着，朝相反方向，至某地；围绕，在...各处，在...附近，在...前后；
 在附近:there's nobody around. 附近没有人。
 面世:I wish I'd been around 50 years ago.我希望自己50年前就在这世上了。
 环绕着:the villages around Dublin. 都柏林周围的村庄。
@@ -539,7 +539,7 @@ around | BrE əˈraʊnd, AmE əˈraʊnd |   副词/介词:大约，在附近，�
 
 
 
-steady | BrE ˈstɛdi, AmE ˈstɛdi |   形容词/感叹词/动词:稳定的均匀的，稳的，镇定的，稳步的，关系稳定的，坚定的；小心；使平稳，变稳。
+steady | BrE ˈstɛdi, AmE ˈstɛdi | 形容词/感叹词/动词:稳定的均匀的，稳的，镇定的，稳步的，关系稳定的，坚定的；小心；使平稳，变稳。
 例句:a steady job. 固定工作
 例句:my nerves aren't very steady today. 我今天有点儿心神不定。
 持续的:a steady decline in numbers. 数量的持续下降。
@@ -547,7 +547,7 @@ steady | BrE ˈstɛdi, AmE ˈstɛdi |   形容词/感叹词/动词:稳定的均�
 
 
 
-downward | BrE ˈdaʊnwəd, AmE ˈdaʊnwərd |   形容词/副词:向下的，下降的，恶化的；向下地，向低层次，以下，往后推移的。
+downward | BrE ˈdaʊnwəd, AmE ˈdaʊnwərd | 形容词/副词:向下的，下降的，恶化的；向下地，向低层次，以下，往后推移的。
 例句:to give a downward glance. 向下瞟一眼。
 例句:a downward trend. 下降趋势。
 例句:the long-term trend is downward. 从长远来看呈下降趋势。
@@ -555,35 +555,35 @@ downward | BrE ˈdaʊnwəd, AmE ˈdaʊnwərd |   形容词/副词:向下的，�
 
 
 
-trajectory | BrE trəˈdʒɛkt(ə)ri,ˈtradʒɪkt(ə)ri, AmE trəˈdʒɛkt(ə)ri |   名词:轨迹，轨线
+trajectory | BrE trəˈdʒɛkt(ə)ri,ˈtradʒɪkt(ə)ri, AmE trəˈdʒɛkt(ə)ri | 名词:轨迹，轨线
 例句:a low/flat trajectory. 低/平轨迹。
 
 
 
 
 
-threshold | BrE ˈθrɛʃəʊld,ˈθrɛʃˌhəʊld, AmE ˈθrɛʃˌ(h)oʊld |   名词:门槛，下限，开端
+threshold | BrE ˈθrɛʃəʊld,ˈθrɛʃˌhəʊld, AmE ˈθrɛʃˌ(h)oʊld | 名词:门槛，下限，开端
 例句:to have a low pain threshold. 忍痛力弱。
 
 
 
 
 
-debuted | BrE ˈdeɪbjuː,ˈdɛbjuː, AmE deɪˈbju |   名词:首次亮相
+debuted | BrE ˈdeɪbjuː,ˈdɛbjuː, AmE deɪˈbju | 名词:首次亮相
 首次亮相:a debut performance. 首次登台演出。
 
 
 
 
 
-instant | BrE ˈɪnst(ə)nt, AmE ˈɪnstənt |   形容词/名词:立即的，紧急的；片刻
+instant | BrE ˈɪnst(ə)nt, AmE ˈɪnstənt | 形容词/名词:立即的，紧急的；片刻
 立即的:instant success/relief/hot water. 一举成功/即刻减轻/即开即热水。
 短语:at that (very) instant. （就）在那时。
 
 
 
 
-hit | BrE hɪt, AmE hɪt |   动词/名词:击，击中，攻击，到达；流行歌曲。
+hit | BrE hɪt, AmE hɪt | 动词/名词:击，击中，攻击，到达；流行歌曲。
 击:to hit the ball out of the court. 把球打出场外。
 例句: to give the ball a tremendous hit. 大力击球。
 短语:hit back. 回击。
@@ -591,14 +591,14 @@ hit | BrE hɪt, AmE hɪt |   动词/名词:击，击中，攻击，到达；流�
 
 
 
-virtual | BrE ˈvəːtʃʊ(ə)l,ˈvəːtjʊəl, AmE ˈvərtʃ(u)əl |   形容词:实质上的，虚拟的，虚的。
+virtual | BrE ˈvəːtʃʊ(ə)l,ˈvəːtjʊəl, AmE ˈvərtʃ(u)əl | 形容词:实质上的，虚拟的，虚的。
 几乎:traffic is at a virtual standstill. 交通几乎陷入停滞。
 
 
 
 
 
-monopoly | BrE məˈnɒp(ə)li, AmE məˈnɑpəli |   名词:垄断，独占
+monopoly | BrE məˈnɒp(ə)li, AmE məˈnɑpəli | 名词:垄断，独占
 垄断:to have a monopoly on （or of） sth; 垄断某事物。
 例句:a good education should not be the monopoly of the rich.良好的教育不应该成为富人的专利。
 
@@ -606,34 +606,34 @@ monopoly | BrE məˈnɒp(ə)li, AmE məˈnɑpəli |   名词:垄断，独占
 
 
 
-innovate | BrE ˈɪnəveɪt, AmE ˈɪnəˌveɪt |   动词:革新
+innovate | BrE ˈɪnəveɪt, AmE ˈɪnəˌveɪt | 动词:革新
 
 
 
 
 
 
-essentially | BrE ɪˈsɛnʃ(ə)li, AmE əˈsɛn(t)ʃəli |   副词:本质上（basically），非常（really，very），大体上（more or less）
+essentially | BrE ɪˈsɛnʃ(ə)li, AmE əˈsɛn(t)ʃəli | 副词:本质上（basically），非常（really，very），大体上（more or less）
 
 
 
 
 
-cobweb | BrE ˈkɒbwɛb, AmE ˈkɑbˌwɛb |   名词:蜘蛛网
+cobweb | BrE ˈkɒbwɛb, AmE ˈkɑbˌwɛb | 名词:蜘蛛网
 
 
 
 
 
 
-frustrated | BrE frʌˈstreɪt,ˈfrʌstreɪt, AmE ˈfrəstreɪt |   及物动词:阻挠，挫败，使...心烦
+frustrated | BrE frʌˈstreɪt,ˈfrʌstreɪt, AmE ˈfrəstreɪt | 及物动词:阻挠，挫败，使...心烦
 挫败:the storm frustrated us in our attempt to land.暴风雨使我们的降落意图落了空。
 阻挠:to frustrate sb's plans/hopes. 使某人的计划/希望落空。
 
 
 
 
-flee | BrE fliː, AmE fli | past tense, past participle fled   动词:逃离，逃跑
+flee | BrE fliː, AmE fli | past tense, past participle fled 动词:逃离，逃跑
 短语:to flee in the face of danger. 遇到危险逃跑。
 
 
@@ -641,21 +641,21 @@ flee | BrE fliː, AmE fli | past tense, past participle fled   动词:逃离，�
 
 
 
-greener pastures | BrE ˈpɑːstʃə, AmE ˈpæstʃər |   名词:牧场，牧草
+greener pastures | BrE ˈpɑːstʃə, AmE ˈpæstʃər | 名词:牧场，牧草
 例句:to put the cattle out to pasture. 放牛群到牧场。
 
 
 
 
 
-synonymous | BrE sɪˈnɒnɪməs, AmE səˈnɑnəməs |   形容词:同义的
+synonymous | BrE sɪˈnɒnɪməs, AmE səˈnɑnəməs | 形容词:同义的
 例句:wealth is not necessarily synonymous with generosity. 富未必等同于慷慨
 
 
 
 
 
-pave | BrE peɪv, AmE peɪv |   动词:铺
+pave | BrE peɪv, AmE peɪv | 动词:铺
 短语:to pave the way for sb/sth. 为某人/某事铺平道路。
 
 
@@ -937,7 +937,7 @@ admittedly | BrE ədˈmɪtɪdli, AmE ədˈmɪdɪdli | 副词:诚然
 
 
 
-slap | BrE slap, AmE slæp |   及物动词/不及物动词/名词。动词:拍打；摔地上。名词:拍打。
+slap | BrE slap, AmE slæp | 及物动词/不及物动词/名词。动词:拍打；摔地上。名词:拍打。
 打耳光:to slap sb across the face, to slap sb's face. 打某人耳光。
 拍打:a slap on sth. 拍打某物。
 短语:slap down:把…啪地一放
@@ -945,7 +945,7 @@ slap | BrE slap, AmE slæp |   及物动词/不及物动词/名词。动词:拍�
 
 
 
-demand | BrE dɪˈmɑːnd, AmE dəˈmænd |   及物动词/名词。强烈要求；盘查；需要。要求。
+demand | BrE dɪˈmɑːnd, AmE dəˈmænd | 及物动词/名词。强烈要求；盘查；需要。要求。
 要求:to demand one's money back. 坚决要求还钱。
 要求:to make a demand for sth. 要求得到某物。
 
@@ -953,7 +953,7 @@ demand | BrE dɪˈmɑːnd, AmE dəˈmænd |   及物动词/名词。强烈要求
 
 
 
-alcoholic | BrE alkəˈhɒlɪk, AmE ˌælkəˈhɔlɪk |   名词/形容词。嗜酒者。含酒精的。
+alcoholic | BrE alkəˈhɒlɪk, AmE ˌælkəˈhɔlɪk | 名词/形容词。嗜酒者。含酒精的。
 喝酒引起的:be in an alcoholic stupor. 醉得不省人事。
 
 
@@ -961,7 +961,7 @@ alcoholic | BrE alkəˈhɒlɪk, AmE ˌælkəˈhɔlɪk |   名词/形容词。嗜
 
 
 
-beverage | BrE ˈbɛv(ə)rɪdʒ, AmE ˈbɛv(ə)rɪdʒ |   名词。饮料。
+beverage | BrE ˈbɛv(ə)rɪdʒ, AmE ˈbɛv(ə)rɪdʒ | 名词。饮料。
 
 
 
@@ -969,7 +969,7 @@ beverage | BrE ˈbɛv(ə)rɪdʒ, AmE ˈbɛv(ə)rɪdʒ |   名词。饮料。
 
 
 
-exercutive | BrE ɪɡˈzɛkjʊtɪv,ɛɡˈzɛkjʊtɪv, AmE ɪɡˈzɛkjədɪv |   形容词/名词。经营管理的；有执行权的。经理。
+exercutive | BrE ɪɡˈzɛkjʊtɪv,ɛɡˈzɛkjʊtɪv, AmE ɪɡˈzɛkjədɪv | 形容词/名词。经营管理的；有执行权的。经理。
 决策的:executive authority. 决策当局。
 有执行权的:an executive officer. 行政长官。
 经理:a top executive. 高层主管。
@@ -978,7 +978,7 @@ exercutive | BrE ɪɡˈzɛkjʊtɪv,ɛɡˈzɛkjʊtɪv, AmE ɪɡˈzɛkjədɪv |   
 
 
 
-prompt | BrE prɒm(p)t, AmE prɑm(p)t |   形容词/副词/及物动词/名词。及时的。准时地。导致。提词。
+prompt | BrE prɒm(p)t, AmE prɑm(p)t | 形容词/副词/及物动词/名词。及时的。准时地。导致。提词。
 及时的:we would appreciate a prompt reply. 如能及时回复，我们将不胜感激。
 准时的:at six o'clock prompt. 在6点整。
 导致:the strike was prompted by the sacking of a worker. 罢工是由一名工人被解雇引起的。
@@ -986,7 +986,7 @@ prompt | BrE prɒm(p)t, AmE prɑm(p)t |   形容词/副词/及物动词/名词�
 
 
 
-broad | BrE brɔːd, AmE brɔd |   形容词/名词。宽阔的；辽阔的；广泛的；宽泛的；直白的；乡音重的。
+broad | BrE brɔːd, AmE brɔd | 形容词/名词。宽阔的；辽阔的；广泛的；宽泛的；直白的；乡音重的。
 勇挑重担: to have a broad back.
 两种选择都一样: it's as broad as it's long.(英)
 广泛的:in the broadest sense (of the term/word). 从（这个术语/词）最广义的角度讲。
@@ -994,7 +994,7 @@ broad | BrE brɔːd, AmE brɔd |   形容词/名词。宽阔的；辽阔的；�
 
 
 
-reflection | BrE rɪˈflɛkʃ(ə)n, AmE rəˈflɛkʃ(ə)n |   名词:反射；映像；反映；深思；想法意见；非议
+reflection | BrE rɪˈflɛkʃ(ə)n, AmE rəˈflɛkʃ(ə)n | 名词:反射；映像；反映；深思；想法意见；非议
 反射(不可数):the laws of the reflection of light. 光的反射定律。
 映像(可数):to see one's reflection in a window. 在窗户上看到自己的影子。
 反映(可数):the time taken is a reflection of the degree of difficulty involved. 花多少时间要看有多大的难度。
@@ -1003,7 +1003,7 @@ reflection | BrE rɪˈflɛkʃ(ə)n, AmE rəˈflɛkʃ(ə)n |   名词:反射；�
 
 
 
-alienate | BrE ˈeɪlɪəneɪt, AmE ˈeɪljəˌneɪt |   及物动词:使疏远；使脱离
+alienate | BrE ˈeɪlɪəneɪt, AmE ˈeɪljəˌneɪt | 及物动词:使疏远；使脱离
 使脱离:to be alienated from society. 与社会脱节。
 
 
@@ -1011,7 +1011,7 @@ alienate | BrE ˈeɪlɪəneɪt, AmE ˈeɪljəˌneɪt |   及物动词:使疏远�
 
 
 
-imbibe | BrE ɪmˈbʌɪb, AmE ɪmˈbaɪb |   及物动词/不及物动词:喝；吸收接受。酗酒。
+imbibe | BrE ɪmˈbʌɪb, AmE ɪmˈbaɪb | 及物动词/不及物动词:喝；吸收接受。酗酒。
 
 
 
@@ -1019,7 +1019,7 @@ imbibe | BrE ɪmˈbʌɪb, AmE ɪmˈbaɪb |   及物动词/不及物动词:喝；
 
 
 
-ritual | BrE ˈrɪtʃʊəl, AmE ˈrɪtʃ(u)əl |   名词/形容词:仪式；程式；惯例。仪式的。
+ritual | BrE ˈrɪtʃʊəl, AmE ˈrɪtʃ(u)əl | 名词/形容词:仪式；程式；惯例。仪式的。
 仪式:the ritual of the law. 法律程序。
 程式:a solemn ritual. 庄严的庆典。
 惯例:to make a ritual of sth. 使某事成为习惯。
@@ -1028,7 +1028,7 @@ ritual | BrE ˈrɪtʃʊəl, AmE ˈrɪtʃ(u)əl |   名词/形容词:仪式；程
 
 
 
-mortality | BrE mɔːˈtalɪti, AmE mɔrˈtælədi |   名词:生命的有限；死亡；死亡率
+mortality | BrE mɔːˈtalɪti, AmE mɔrˈtælədi | 名词:生命的有限；死亡；死亡率
 有限生命:to face one's own mortality. 面对自己的有限生命。
 死亡:the cause/rate of mortality. 死因/死亡率。
 
@@ -1036,7 +1036,7 @@ mortality | BrE mɔːˈtalɪti, AmE mɔrˈtælədi |   名词:生命的有限；
 
 
 
-episode | BrE ˈɛpɪsəʊd, AmE ˈɛpəˌsoʊd |   名词：一个事件，一组事件；一节一集；发作期；
+episode | BrE ˈɛpɪsəʊd, AmE ˈɛpəˌsoʊd | 名词：一个事件，一组事件；一节一集；发作期；
 
 
 
@@ -1044,7 +1044,7 @@ episode | BrE ˈɛpɪsəʊd, AmE ˈɛpəˌsoʊd |   名词：一个事件，一�
 
 
 
-alcohol | BrE ˈalkəhɒl, AmE ˈælkəˌhɔl,ˈælkəˌhɑl |   名词:酒精；酒
+alcohol | BrE ˈalkəhɒl, AmE ˈælkəˌhɔl,ˈælkəˌhɑl | 名词:酒精；酒
 酒:he never touches alcohol. 他滴酒不沾。
 
 
@@ -1052,7 +1052,7 @@ alcohol | BrE ˈalkəhɒl, AmE ˈælkəˌhɔl,ˈælkəˌhɑl |   名词:酒精�
 
 
 
-bond | BrE bɒnd, AmE bɑnd |   名词:纽带；镣铐枷锁；债券；契约。及物动词:粘合。不及物动词:建立密切关系。
+bond | BrE bɒnd, AmE bɑnd | 名词:纽带；镣铐枷锁；债券；契约。及物动词:粘合。不及物动词:建立密切关系。
 纽带:to feel a strong bond with sb. 感到和某人关系密切。
 束缚:to break the bonds of routine. 打破常规的束缚。
 契约:my word is my bond. 我一定会履行诺言。
@@ -1061,7 +1061,7 @@ bond | BrE bɒnd, AmE bɑnd |   名词:纽带；镣铐枷锁；债券；契约�
 
 
 
-catalyst | BrE ˈkat(ə)lɪst, AmE ˈkæd(ə)ləst |   名词:催化剂；促进因素
+catalyst | BrE ˈkat(ə)lɪst, AmE ˈkæd(ə)ləst | 名词:催化剂；促进因素
 促进因素:to be/act as a catalyst (for sth); 是/作为（某事物的）促进因素。
 
 
@@ -1069,7 +1069,7 @@ catalyst | BrE ˈkat(ə)lɪst, AmE ˈkæd(ə)ləst |   名词:催化剂；促进
 
 
 
-vital | BrE ˈvʌɪt(ə)l, AmE ˈvaɪdl |   形容词:必不可少的，决定性的，必要的，极其重要的；生气勃勃的；
+vital | BrE ˈvʌɪt(ə)l, AmE ˈvaɪdl | 形容词:必不可少的，决定性的，必要的，极其重要的；生气勃勃的；
 极其重要的:it is vital that …, it is of vital importance that … …是极其重要的。
 极其重要的:to play a vital role or part .起着至关重要的作用。
 重要的:the vital organs. 重要器官。
@@ -1078,7 +1078,7 @@ vital | BrE ˈvʌɪt(ə)l, AmE ˈvaɪdl |   形容词:必不可少的，决定�
 
 
 
-lubricant | BrE ˈluːbrɪk(ə)nt, AmE ˈlubrəkənt |   名词:润滑剂
+lubricant | BrE ˈluːbrɪk(ə)nt, AmE ˈlubrəkənt | 名词:润滑剂
 可数或不可数
 
 
@@ -1086,7 +1086,7 @@ lubricant | BrE ˈluːbrɪk(ə)nt, AmE ˈlubrəkənt |   名词:润滑剂
 
 
 
-provoke | BrE prəˈvəʊk, AmE prəˈvoʊk |   及物动词:激怒；挑衅；引起激起；
+provoke | BrE prəˈvəʊk, AmE prəˈvoʊk | 及物动词:激怒；挑衅；引起激起；
 激怒: the snake is quite harmless, unless provoked. 这种蛇除非被激怒，否则不会伤人。
 挑衅:to provoke sb/sth to do sth or into doing sth. 刺激某人/某物做某事。
 引起:his new book has provoked a great deal of controversy. 他的新书引起了很大的争议。
@@ -1095,7 +1095,7 @@ provoke | BrE prəˈvəʊk, AmE prəˈvoʊk |   及物动词:激怒；挑衅；�
 
 
 
-surrender | BrE səˈrɛndə, AmE səˈrɛndər |   不及物动词:投降，自首，屈服；听任；及物:放弃；名词:投降..
+surrender | BrE səˈrɛndə, AmE səˈrɛndər | 不及物动词:投降，自首，屈服；听任；及物:放弃；名词:投降..
 屈服:to surrender to sb; 屈服于某人。
 放弃:he agreed to surrender all claims to the property. 他同意放弃所有的产权要求。
 投降；放任自己；听任摆布:to surrender oneself 
@@ -1104,7 +1104,7 @@ surrender | BrE səˈrɛndə, AmE səˈrɛndər |   不及物动词:投降，自
 
 
 
-abstinent | BrE ˈabstɪnənt, AmE ˈæbstənənt |   形容词:节制的
+abstinent | BrE ˈabstɪnənt, AmE ˈæbstənənt | 形容词:节制的
 节制的:to be totally abstinent from alcohol. 滴酒不沾。
 
 
@@ -1112,7 +1112,7 @@ abstinent | BrE ˈabstɪnənt, AmE ˈæbstənənt |   形容词:节制的
 
 
 
-coerce | BrE kəʊˈəːs, AmE koʊˈərs |   及物动词:胁迫
+coerce | BrE kəʊˈəːs, AmE koʊˈərs | 及物动词:胁迫
 强迫: to coerce sb into doing sth. 强迫某人做某事。
 
 
