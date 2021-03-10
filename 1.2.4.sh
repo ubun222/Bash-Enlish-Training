@@ -117,7 +117,7 @@ echo ${sha1:-shasum命令不存在}  #$txt
 echo ${sha2:-shasum命令不存在}  #$alldata
 echo ${sha3:-sha1sum命令不存在}  #$txt
 echo ${sha4:-sha1sum命令不存在}
-if  [[ $sha1 = $sha2 && $sha3 = $sha4  ]];then
+if  [[ "$sha1" = "$sha2" && "$sha3" = "$sha4"  ]];then
 echo 验证通过！
 #elif [[ $sha1 != $sha2 ]];then
 else
