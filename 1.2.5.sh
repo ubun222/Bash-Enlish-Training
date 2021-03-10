@@ -19,7 +19,7 @@ n=$(echo ${txt%%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 # echo $n
 echo  --------------------------------------------------
 echo 检测到$(($n/2))组单词
-echo $n
+#echo $n
 nv=$n
 
 nn=$((n/2))
