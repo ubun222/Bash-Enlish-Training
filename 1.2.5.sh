@@ -53,9 +53,9 @@ eval lr$list="$ln' '$rn"  #eval的空格需要''才能赋值，否则被视为�
 #n1=$nn
 done
 
-
 # echo $n
 if [[  $n = 1 ]] ;then
+unset alldata
 for i in $(seq 100)
 do
 read   -p  请手动拖入txt文件，按回车键结束： target
