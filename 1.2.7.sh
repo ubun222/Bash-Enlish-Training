@@ -209,7 +209,8 @@ read -p '————请输入答案:'  scanf
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 answer1="${ln}"
 answer2="${rn}"
-
+answer1=$(echo $answer1 | tr '/' ' ' )
+answer2=$(echo $answer2 | tr '/' ' ' )
 #echo $answer1
 #echo $answer2
 
