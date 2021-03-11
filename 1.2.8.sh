@@ -27,8 +27,11 @@ for list in $(seq 1 ${nn});do
 eval l$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $list | head -n 1 | awk '{printf $1}' | tr -d $list:  )
 eval r$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $list | head -n 1 | awk '{printf $2}')
 
-
-
+#读取百分比
+list100=$(($((list*100))-$((n1*100))))                 
+output=$((list100/$((nn-n1))))                         
+ #echo $output                                         
+ echo -e "\033[k\r加载进度:$output%\c" 
     
 
 eval ln=\${l$list}  # alias
@@ -86,7 +89,7 @@ eval r$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\
 #nn100=$((nn*100))
 
 
-
+#读取百分比
 list100=$(($((list*100))-$((n1*100))))
 output=$((list100/$((nn-n1))))
  #echo $output
