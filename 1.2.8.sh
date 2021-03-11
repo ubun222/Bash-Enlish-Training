@@ -88,7 +88,7 @@ eval r$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\
 
 
 list100=$(($((list*100))-$((n1*100))))
-output=$((list100/$((nn-n11))))
+output=$((list100/$((nn-n1))))
  #echo $output
  echo -e "\033[k\r加载中:$output%\c"
 
