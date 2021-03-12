@@ -363,13 +363,13 @@ printf "$(echo $pureanswer | tr '/' ' ')"
 if [[ $voice = 0 ]] ;then
 say  "$answer1,$answer2"
 fi 
-if [[ $nv != 1 ]];then
+#if [[ $nv != 1 ]];then
 (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
-elif [[ $nv = 1 ]];then
-(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
-echo @还有$(($ii-$i))题
-fi
+#elif [[ $nv = 1 ]];then
+#(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
+#echo @还有$(($ii-$i))题
+#fi
 fi
 done
 fi
@@ -431,13 +431,13 @@ printf "$(echo $pureanswer | tr '/' ' ')"
 if [[ $voice = 0 ]] ;then
 say  "$answer1,$answer2"
 fi 
-if [[ $nv != 1 ]];then
+#if [[ $nv != 1 ]];then
 (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
-elif [[ $nv = 1 ]];then
-(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
-echo @还有$(($ii-$i))题
-fi
+#elif [[ $nv = 1 ]];then
+#(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
+#echo @还有$(($ii-$i))题
+#fi
 fi
 done
 fi
