@@ -3,7 +3,7 @@
 
 ## Have a easy try:
 ```
-export txt=$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allinone.txt  |  tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' ) |  && bash -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/1.3.5.sh)"  
+export txt=$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allinone.txt  |  tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )  && bash -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/1.3.5.sh)"  
 ```
 ## Small Guide
 ```
