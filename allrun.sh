@@ -9,19 +9,16 @@ for t in $(seq ${#*});do
 eval rp=\${$p:-/dev/null}    
  txt=$(cat ${rp} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )"$txt"
         txt=${txt%% }
-       # txt=${txt%%@}
+
 	p=$((p+1))
-   # elif ([ pb != 0 ]);then
+
 
 done
-      # txt=${txt%%@}  #加错地方了，导致验算失败
-     #  echo $txt
+
 n=$(echo ${txt%%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
-# echo $n
+
 echo  ----------------------------------------------------
 echo "$(($n/2)) group words detected"
-#echo $n
-#nv=$n
 
 nn=$((n/2))
 for list in $(seq 1 ${nn});do
@@ -29,15 +26,13 @@ for list in $(seq 1 ${nn});do
 eval l$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $1}' | tr -d $list:  )
 eval r$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $2}')
 
-#读取百分比
+
 cha=$((nn))
 if ([ $cha -gt 25 ]);then
 list100=$(($((list*100))-$((n1*100))))
 
 output=$((list100/$((nn-n1))))                         
- #echo $output
-#forstr=$((list100/4))
-#output25=$((forstr/$((nn-n1))))
+
 output25=$((output/4))
 trial=$((output25-outputed))
 ([ $trial -ne 0 ]) && str=$str#
@@ -51,53 +46,47 @@ trial=$((output5-outputed))
 ([ $trial -ne 0 ]) && str=$str#####
 outputed=${output5:-0}
 echo -e "\033[k\r                          ]$output%\r $str\r[\c"
-#echo -e "\033[k\r加载百分比:$output%\c"
+
 fi
-# shang=$((output/5));yu=$((output%5));
-#([ $yu = 0 || $((shang-last)) -ge 1 ]) && str+=#
 
-eval ln=\${l$list}  # alias
-eval rn=\${r$list}  # alias
-#eval lrn=\${lr$list}
 
-eval lr$list="$ln'	'$rn"  #eval的空格需要''才能赋值，否则被视为命令行中的空格
+eval ln=\${l$list}
+eval rn=\${r$list}
 
-#    for line in $(seq 2);do
+eval lr$list="$ln'	'$rn"
+
     list=$((list*2-1))
 
- #  (eval ll$list=$rn > /dev/tty) >&/dev/null
- eval ll${list#-}=$rn   # 从变量开头删除匹配'-'的字符，否则因为变量那有'-'字符识别为command
+ eval ll${list#-}=$rn
     list=$((list+1))
 
     eval ll$list=$ln
     
     
         alldata="$alldata$ln $rn@"
-      #  echo $alldata
- #   echo $ll1
-#n1=$nn
+
 done
 echo
 fi
-# echo $n
+
 if ([  $n = 1 ]) ;then
 unset alldata
 for i in $(seq 100)
 do
-read   -p  "Please drag in a single txt file and press enter to continue：" target
+echo 'Please drag in a single txt file and press enter to continue：'
+read   target
 (dirname $target ) >&/dev/null
 key=$?
 targets=$target' '$targets
-#echo $targets
+
 if ([ $key -ne 0 ]);then
 break
 elif ([ $key = 0 ]);then
 txt="$txt"$(cat ${target} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )
-#echo $txt
+
 
 n=$(echo ${txt%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
-#最长的list的行数
-# echo $n
+
 
 echo "A total of $(($(($n-$((n%2))))/2)) words are detected again"
 fi
@@ -109,24 +98,20 @@ for list in $(seq $n11 $nn);do
 eval l$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $1}' | tr -d $list:  )
 eval r$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $2}')
 
-#n100=$(($((n1+1))*100))
-#nn100=$((nn*100))
 
-
-#读取百分比
 
 cha=$((nn-n1))
-#outputed=$(($((list100/$((cha))))/4))
+
 if ([ $cha -gt 25 ]);then
 list100=$(($((list*100))-$((n1*100))))
 output=$((list100/$((cha))))
- #echo $output
+
  output25=$((output/4))
 trial=$((output25-outputed))
 ([ $trial = 1  ]) && str=$str#
 outputed=${output25:-0}
 echo -e "\033[k\r                          ]$output%\r $str\r[\c"
-#([ ${#str} = 25 ]) && str=
+
 elif ([ $cha -le 25 ]);then
 list100=$(($((list*100))-$((n1*100))))
 output=$((list100/$((cha))))
@@ -135,16 +120,15 @@ trial=$((output5-outputed))
 ([ $trial = 1 ]) && str=$str#####
 outputed=${output5:-0}                                 
 echo -e "\033[k\r                          ]$output%\r $str\r[\c"
-#echo -e "\033[k\r加载百分比:$output%\c"
+
 fi
 ([ ${#str} = 25 ]) && str=
 eval ln=\${l$list}  # alias
 eval rn=\${r$list}  # alias
-#eval lrn=\${lr$list}
 
-eval lr$list="$ln'	'$rn"  #eval的空格需要''才能赋值，否则被视为命令行中的空格
+eval lr$list="$ln'	'$rn"
 
-#    for line in $(seq 2);do
+
     list=$((list*2-1))
 
     eval ll$list=$rn
@@ -153,20 +137,20 @@ eval lr$list="$ln'	'$rn"  #eval的空格需要''才能赋值，否则被视为�
     eval ll$list=$ln
     
     alldata="$alldata$ln $rn@"
- #   echo $ll1
+
 
 done
 ([ $((nn-n1)) -ne 0  ]) &&  l=$((l+1))
 echo
-echo "$l" vocabulary has been loaded #需要""，否则输出为??
+echo "$l" vocabulary has been loaded
 n1=$nn
 echo ----------------------------------------------------
 done
 fi
-#m=$[$[$n-$[n%2])/2]*2]
-# for
-read  -p "Enter Y or y to verify the vocabulary:" verify
-#echo
+
+echo "Enter Y or y to verify the vocabulary:"
+read  verify
+
 if ([ "$verify" = y ]) || ([ "$verify" = Y  ]);then
 
 
@@ -184,9 +168,10 @@ unset sha1  sha2
 if  ([ "$sha1" = "$sha2" ]) && ([ "$sha3" = "$sha4"  ]);then
 
 echo Verified！
-#elif ([ $sha1 != $sha2 ]);then
+
 else
-read -p Verification failed!
+echo Verification failed!
+read
 
 exit
 fi
@@ -196,37 +181,33 @@ fi
 
 voice=1
 
-if ([ $(uname) = "Darwin" ]);then
+if ([ "$(uname)" = "Darwin" ]);then
 read  -p "Detect macOS, whether to turn on voice（y/n）:" vbool
 if ([  "$vbool" = y ]) || ([  "$vbool" = Y ]);then
 voice=0
 fi
 fi
 
-#r=$(($RANDOM%$m+1))
-#list=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| grep -n '')
-#echo $list
+
 clear
 echo "----------------------------------------------------"
 echo "------------welcome to English Training-------------"
 echo "----------------------------------------------------"
-read  -p "Please select practice mode: 1, En to Ch 2, Ch to En 3, mixed mode " mode
-#echo #-n1没找到替换方法
-read  -p "Please select practice mode: 1, order 2, reverse order 3, disorder " random
-#echo
-read -p 'Please enter the number of exercises:' ii
+echo "Please select practice mode: 1, En to Ch 2, Ch to En 3, mixed mode "
+read   mode
+echo "Please select practice mode: 1, order 2, reverse order 3, disorder "
+read  random
+echo 'Please enter the number of exercises:'
+read  ii
 
 number0=0;
-#raw=$[raw-1];
-#rdm1=raw;rdm2=raw;
+
 rdm1=${raw:-number0};rdm2=${raw:-n}
 if ([ "$mode" = 3 ]) ;then
 
-#echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
+
 for i in $(seq 1 $ii)
 do
-#m=$[n-1]
-#m=$(($RANDOM%$m+1))
 
 if ([  "$random" = 1 ]);then
 rdm1=$((rdm1+1))
@@ -236,7 +217,7 @@ rdm1=0
 fi
 
 elif ([  "$random" = 2 ]);then
-  #因为最长的行数n始终比算出来的+1，减一后刚好
+
 m=$rdm2
 if ([ "$rdm2" = 1 ]);then
 rdm2=$n
@@ -247,30 +228,29 @@ m=$(($RANDOM%$n+1))
 fi
 
 eval question=\${ll$m}
-# question=$(echo ${l})
+
 echo  ----------------------------------------------------
-question=$(echo $question | tr '/' ' ') #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
-printf  "$question"      #printf 命令需要套一个双引号才能输出空格
+question=$(echo $question | tr '/' ' ')
+printf  "$question"
 
 
 
 No=$(($((m/2))+$((m%2))))
 eval lr=\${lr$No}  # alias
-# pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
+
 pureanswer="$lr"
 eval ln=\${l$No}  # alias
 eval rn=\${r$No}  # alias
 #echo $ln
 #echo $rn
-read -p '————Please enter the answer:'  scanf
-#answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-#answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+
+echo  '————Please enter the answer:'
+read   scanf
+
 answer1="${ln}"
 answer2="${rn}"
 answer1=$(echo $answer1 | tr '/' ' ' )
 answer2=$(echo $answer2 | tr '/' ' ' )
-#echo $answer1
-#echo $answer2
 
 if ([ "$question" = "$answer1" ]) ;then
 answer="$answer2"
@@ -278,30 +258,25 @@ answer="$answer2"
 elif ([ "$question" = "$answer2" ]) ;then
 answer="$answer1"
 fi
-#echo $answer1
-#echo $answer2 
-#if ([ $scanf = $answer1 ]) || ([ $scanf = $answer2 ]);then
+
 if ([ "${scanf:-0}" = "$answer" ]) ;then
 echo bingo
 fi
 
-
-read -p  "See the answer?y/n/v：" bool
+echo  "See the answer?y/n/v："
+read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
-printf "$(echo $pureanswer | tr '/' ' ')\n"  #加换行，否则界面不对称
+printf "$(echo $pureanswer | tr '/' ' ')\n"
 elif ([ "$bool" = 'v' ]) || ([ "$bool" = 'V' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
-if ([ $voice = 0 ]) ;then
+if ([ "$voice" = 0 ]) ;then
 say  "$answer1,$answer2"
 fi 
-#if ([ $nv != 1 ]);then
-#(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
-#echo @还有$(($ii-$i))题
-#elif ([ $nv = 1 ]);then
-([ "$targets" != " " ]) && ([ "$targets" != "        " ]) && (cat  $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
+
+
 echo @$(($ii-$i)) questions left
-#fi
+
 fi
 done
 fi
@@ -311,7 +286,7 @@ fi
 if ([ "$mode" = 2 ]) ;then
 m=$(($(($n-$((n%2))))/2))
 rdm2=$((m+1))  #为了抵消下面的-1
-#echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
+
 for i in $(seq 1 $ii)
 do
 
@@ -334,25 +309,26 @@ elif ([  "$random" = 3 ]);then
 m2=$(($RANDOM%$m+1))
 fi
 
-#m2=$(($RANDOM%$m+1))
-#question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk '{printf $2}')
+
 eval question=\${r$m2}
 echo  ----------------------------------------------------
-question=$(echo $question | tr '/' ' ') #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
+question=$(echo $question | tr '/' ' ')
 printf   "$question"
-#pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
+
 eval lr=\${lr$m2}
 pureanswer=$lr
-read -p '————Please enter the answer:'  scanf
+
+echo  '————Please enter the answer:'
+read  scanf
 
 answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
-#echo $answer1
-#echo $answer2 
+
 if ([ "${scanf:-0}" = "$answer1" ]) ;then
 echo bingo
-fi 
-read -p  "See the answer?y/n/v：" bool
+fi
+echo  "See the answer?y/n/v："
+read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
@@ -361,13 +337,10 @@ printf "$(echo $pureanswer | tr '/' ' ')"
 if ([ "$voice" = 0 ]) ;then
 say  "$answer1,$answer2"
 fi 
-#if ([ $nv != 1 ]);then
-([ "$targets" != " " ]) && ([ "$targets" != "        " ]) && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
+
+
 echo @$(($ii-$i)) questions left
-#elif ([ $nv = 1 ]);then
-#(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
-#echo @还有$(($ii-$i))题
-#fi
+
 fi
 done
 fi
@@ -377,7 +350,7 @@ fi
 if ([ "$mode" = 1 ]) ;then
 m=$(($(($n-$((n%2))))/2))
 rdm2=$((m+1))   #为了抵消下面的-1
-#echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
+
 for i in $(seq 1 $ii)
 do
 
@@ -403,15 +376,15 @@ fi
 
 
 eval question=\${l$m2}
-#question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk  '{RS=" "}{printf $1}' | tr -d '0-9' | tr -d ':' | tr '/' ' ')
+
 echo  ----------------------------------------------------
-question=$(echo $question | tr '/' ' ') #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
+question=$(echo $question | tr '/' ' ')
 printf   "$question"
 
 eval lr=\${lr$m2}
 pureanswer=$lr
-#pureanswer=$(echo  $txt| tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-read -p '————Please enter the answer:'  scanf
+echo '————Please enter the answer:'
+read  scanf
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -419,23 +392,21 @@ answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer2 
 if ([ "${scanf:-0}" = "$answer2" ]);then
 echo bingo
-fi 
-read -p  "See the answer?y/n/v：" bool
+fi
+echo  "See the answer?y/n/v："
+read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
 elif ([ "$bool" = 'v' ]) || ([ "$bool" = 'V' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
-if ([ "$"voice" = 0 ]) ;then
+if ([ "$voice" = 0 ]) ;then
 say  "$answer1,$answer2"
 fi 
-#if ([ $nv != 1 ]);then
-([ "$targets" != " " ]) && ([ "$targets" != "        " ]) && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
+
+
 echo @$(($ii-$i)) questions left
-#elif ([ $nv = 1 ]);then
-#(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
-#echo @还有$(($ii-$i))题
-#fi
+
 fi
 done
 fi
