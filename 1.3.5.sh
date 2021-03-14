@@ -3,7 +3,7 @@
 
 p=1;n1=0;l=0;n=1;output25=0;outputed=0
 
-if [[ ${#*} != 0 || txt !=  ''  ]];then
+if [[ ${#*} != 0 ||  ${txt:-} !=  '' ]];then
 targets="${1:-} ${2:-} ${3:-} ${4:-} ${5:-} ${6:-} ${7:-} ${8:-} ${9:-}"
 
 
@@ -23,7 +23,7 @@ n=$(echo ${txt%%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 echo  ----------------------------------------------------
 echo 检测到$(($n/2))组单词
 #echo $n
-nv=$n
+#nv=$n
 
 nn=$((n/2))
 for list in $(seq 1 ${nn});do
@@ -441,8 +441,6 @@ echo @还有$(($ii-$i))题
 fi
 done
 fi
-题
-fi
-fi
-done
-fi
+
+
+#fi
