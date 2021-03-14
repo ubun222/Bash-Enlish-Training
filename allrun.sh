@@ -14,8 +14,9 @@ eval rp=\${$p:-/dev/null}
 
 
 done
+txt=$(echo $txt | tr '	' '\n' | grep '[^ ]'| tr '\n' '	' )
 
-n=$(echo ${txt%%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+n=$(echo "${txt%%@}"  | awk 'BEGIN{RS="	"}{print $1}' |  tr '@' '\n'  |  grep -c '[^ ]')
 
 echo  ----------------------------------------------------
 echo "$(($n/2)) group words detected"
@@ -23,8 +24,8 @@ echo "$(($n/2)) group words detected"
 nn=$((n/2))
 for list in $(seq 1 ${nn});do
 #([ $nn = 0 ]) && nn=1
-eval l$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $1}' | tr -d $list:  )
-eval r$list=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $2}')
+eval l$list=$(echo "$txt" | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $1}' | tr -d $list:  )
+eval r$list=$(echo "$txt" | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| grep -n '[^_^]' | grep -w $list | head -n 1 | awk '{printf $2}')
 
 
 cha=$((nn))
@@ -57,15 +58,16 @@ eval lr$list="$ln'	'$rn"
 
     list=$((list*2-1))
 
- eval ll${list#-}=$rn
+ eval ll${list#-}="$rn"
     list=$((list+1))
 
-    eval ll$list=$ln
+    eval ll$list="$ln"
     
     
-        alldata="$alldata$ln $rn@"
+        alldata="$alldata$ln	$rn@"
 
 done
+echo $alldata
 echo
 fi
 
@@ -148,35 +150,8 @@ echo ----------------------------------------------------
 done
 fi
 
-echo "Enter Y or y to verify the vocabulary:"
-read  verify
-
-if ([ "$verify" = y ]) || ([ "$verify" = Y  ]);then
 
 
-(echo | shasum ) >&/dev/null
-([ $? = 0 ]) && sha1=$(echo $txt | shasum) && sha2=$(echo $alldata | shasum) &&
-unset sha3  sha4
-
-(echo | sha1sum) >&/dev/null
-([ $? = 0 ]) && sha3=$(echo $txt | sha1sum) && sha4=$(echo $alldata | sha1sum) &&
-unset sha1  sha2
-([ "$sha1" ]) && echo Source variable‘s shasum:${sha1}  #$txt
-([ "$sha2" ]) && echo Synthetic variable‘s shasum:${sha2}  #$alldata
-([ "$sha3" ]) && echo Source variable‘s sha1sum:${sha3}  #$txt
-([ "$sha4" ]) && echo Synthetic variable‘s sha1sum:${sha4}
-if  ([ "$sha1" = "$sha2" ]) && ([ "$sha3" = "$sha4"  ]);then
-
-echo Verified！
-
-else
-echo Verification failed!
-read
-
-exit
-fi
-
-fi
 
 
 voice=1
@@ -244,7 +219,7 @@ eval rn=\${r$No}  # alias
 #echo $ln
 #echo $rn
 
-echo  '————Please enter the answer:'
+echo  -n '————Please enter the answer:'
 read   scanf
 
 answer1="${ln}"
@@ -260,10 +235,10 @@ answer="$answer1"
 fi
 
 if ([ "${scanf:-0}" = "$answer" ]) ;then
-echo bingo
+echo -n bingo
 fi
 
-echo  "See the answer?y/n/v："
+echo -n "See the answer?y/n/v："
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
@@ -318,16 +293,16 @@ printf   "$question"
 eval lr=\${lr$m2}
 pureanswer=$lr
 
-echo  '————Please enter the answer:'
+echo -n '————Please enter the answer:'
 read  scanf
 
 answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
 
 if ([ "${scanf:-0}" = "$answer1" ]) ;then
-echo bingo
+echo -n bingo
 fi
-echo  "See the answer?y/n/v："
+echo -n "See the answer?y/n/v："
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
@@ -383,7 +358,7 @@ printf   "$question"
 
 eval lr=\${lr$m2}
 pureanswer=$lr
-echo '————Please enter the answer:'
+echo -n '————Please enter the answer:'
 read  scanf
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
@@ -391,9 +366,9 @@ answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
 if ([ "${scanf:-0}" = "$answer2" ]);then
-echo bingo
+echo -n bingo
 fi
-echo  "See the answer?y/n/v："
+echo -n "See the answer?y/n/v："
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
