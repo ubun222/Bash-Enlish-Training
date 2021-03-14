@@ -1,5 +1,4 @@
-#read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
-#txt=$( echo $txt1 && echo $txt2 && echo $txt3)
+#!/bin/bash
 
 p=1;n1=0;l=0;n=1;output25=0;outputed=0
 
