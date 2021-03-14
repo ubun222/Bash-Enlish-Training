@@ -301,7 +301,7 @@ fi
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 #echo @还有$(($ii-$i))题
 #elif [[ $nv = 1 ]];then
-(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
+(cat  $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
 #fi
 fi
@@ -364,7 +364,7 @@ if [[ $voice = 0 ]] ;then
 say  "$answer1,$answer2"
 fi 
 #if [[ $nv != 1 ]];then
-(cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
+(cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
 #elif [[ $nv = 1 ]];then
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
@@ -432,7 +432,7 @@ if [[ $voice = 0 ]] ;then
 say  "$answer1,$answer2"
 fi 
 #if [[ $nv != 1 ]];then
-(cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
+(cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
 #elif [[ $nv = 1 ]];then
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
