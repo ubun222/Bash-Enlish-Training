@@ -90,9 +90,9 @@ txt="$txt"$(cat ${target} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  aw
 n=$(echo ${txt%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 
 
-echo "A total of $(($(($n-$((n%2))))/2)) words are detected again"
+echo "检测到$(($(($n-$((n%2))))/2))组单词"
 fi
-echo "Loading the vocabulary..."
+echo "加载词表中..."
 nn=$((n/2))
 n11=$((n1+1))
 
@@ -144,7 +144,7 @@ eval lr$list="$ln'	'$rn"
 done
 ([ $((nn-n1)) -ne 0  ]) &&  l=$((l+1))
 echo
-echo "$l" vocabulary has been loaded
+echo 加载了"$l"组单词
 n1=$nn
 echo ----------------------------------------------------
 done
@@ -157,7 +157,7 @@ fi
 voice=1
 
 if ([ "$(uname)" = "Darwin" ]);then
-read  -p "Detect macOS, whether to turn on voice（y/n）:" vbool
+read  -p "检测到Macos，是否开启语音(y/n):" vbool
 if ([  "$vbool" = y ]) || ([  "$vbool" = Y ]);then
 voice=0
 fi
@@ -168,11 +168,11 @@ clear
 echo "----------------------------------------------------"
 echo "------------welcome to English Training-------------"
 echo "----------------------------------------------------"
-echo "Please select practice mode: 1, En to Ch 2, Ch to En 3, mixed mode "
+echo "请选择练习模式: 1, 英译中 2, 中译英 3, 中英互译 "
 read   mode
-echo "Please select practice mode: 1, order 2, reverse order 3, disorder "
+echo "请选择练习模式: 1, 顺序 2, 倒序 3, 乱序 "
 read  random
-echo 'Please enter the number of exercises:'
+echo '请输入需要练习的次数:'
 read  ii
 
 number0=0;
@@ -219,7 +219,7 @@ eval rn=\${r$No}  # alias
 #echo $ln
 #echo $rn
 
-echo  -n '————Please enter the answer:'
+echo  -n '————请输入答案:'
 read   scanf
 
 answer1="${ln}"
@@ -238,7 +238,7 @@ if ([ "${scanf:-0}" = "$answer" ]) ;then
 echo  bingo
 fi
 
-echo -n "See the answer?y/n/v："
+echo -n "是否查看答案?y/n/v："
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
@@ -250,7 +250,7 @@ say  "$answer1,$answer2"
 fi 
 
 
-echo @$(($ii-$i)) questions left
+echo @还剩下$(($ii-$i))题
 
 fi
 done
@@ -293,7 +293,7 @@ printf   "$question"
 eval lr=\${lr$m2}
 pureanswer=$lr
 
-echo -n '————Please enter the answer:'
+echo -n '————请输入答案:'
 read  scanf
 
 answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
@@ -302,7 +302,7 @@ answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
 if ([ "${scanf:-0}" = "$answer1" ]) ;then
 echo  bingo
 fi
-echo -n "See the answer?y/n/v："
+echo -n "是否查看答案?y/n/v："
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
@@ -314,7 +314,7 @@ say  "$answer1,$answer2"
 fi 
 
 
-echo @$(($ii-$i)) questions left
+echo @还剩下$(($ii-$i))题
 
 fi
 done
@@ -358,7 +358,7 @@ printf   "$question"
 
 eval lr=\${lr$m2}
 pureanswer=$lr
-echo -n '————Please enter the answer:'
+echo -n '————请输入答案:'
 read  scanf
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
@@ -368,7 +368,7 @@ answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 if ([ "${scanf:-0}" = "$answer2" ]);then
 echo  bingo
 fi
-echo -n "See the answer?y/n/v："
+echo -n "是否查看答案y/n/v："
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
@@ -380,7 +380,7 @@ say  "$answer1,$answer2"
 fi 
 
 
-echo @$(($ii-$i)) questions left
+echo @还剩下$(($ii-$i))题
 
 fi
 done
