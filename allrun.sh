@@ -3,7 +3,7 @@
 
 p=1;n1=0;l=0;n=1;output25=0;outputed=0
 
-if [[ ${#*} != 0 ||  "${txt:-}" !=  '' ]];then
+if [[ ${#*} -ne 0 ||  "${txt:-}" -ne  '' ]];then
 targets="${1:-} ${2:-} ${3:-} ${4:-} ${5:-} ${6:-} ${7:-} ${8:-} ${9:-}"
 
 
@@ -42,7 +42,7 @@ output=$((list100/$((nn-n1))))
 #output25=$((forstr/$((nn-n1))))
 output25=$((output/4))
 trial=$((output25-outputed))
-[[ $trial != 0 ]] && str=$str#
+[[ $trial -ne 0 ]] && str=$str#
 outputed=${output25:-0}
 echo -e "\033[k\r                          ]$output%\r $str\r[\c"
 elif [[ $cha -le 25 ]];then
@@ -50,7 +50,7 @@ list100=$(($((list*100))-$((n1*100))))
 output=$((list100/$((cha))))
 output5=$((output/20))
 trial=$((output5-outputed))                           
-[[ $trial != 0 ]] && str=$str#####                         
+[[ $trial -ne 0 ]] && str=$str#####
 outputed=${output5:-0}
 echo -e "\033[k\r                          ]$output%\r $str\r[\c"
 #echo -e "\033[k\r加载百分比:$output%\c"
@@ -91,7 +91,7 @@ read   -p  请拖入单个txt文件，按回车键结束： target
 key=$?
 targets=$target' '$targets
 #echo $targets
-if [[ $key != 0 ]];then
+if [[ $key -ne 0 ]];then
 break
 elif [[ $key = 0 ]];then
 txt="$txt"$(cat ${target} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )
@@ -158,7 +158,7 @@ eval lr$list="$ln'	'$rn"  #eval的空格需要''才能赋值，否则被视为�
  #   echo $ll1
 
 done
-[[ $((nn-n1)) != 0  ]] &&  l=$((l+1))
+[[ $((nn-n1)) -ne 0  ]] &&  l=$((l+1))
 echo
 echo 已加载"$l"张词表 #需要""，否则输出为??
 n1=$nn
@@ -301,7 +301,7 @@ fi
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 #echo @还有$(($ii-$i))题
 #elif [[ $nv = 1 ]];then
-[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat  $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
+[[ "$targets" -ne " " && "$targets" -ne "        " ]] && (cat  $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
 #fi
 fi
@@ -364,7 +364,7 @@ if [[ $voice = 0 ]] ;then
 say  "$answer1,$answer2"
 fi 
 #if [[ $nv != 1 ]];then
-[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
+[[ "$targets" -ne " " && "$targets" -ne "        " ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
 #elif [[ $nv = 1 ]];then
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
@@ -432,7 +432,7 @@ if [[ $voice = 0 ]] ;then
 say  "$answer1,$answer2"
 fi 
 #if [[ $nv != 1 ]];then
-[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
+[[ "$targets" -ne " " && "$targets" -ne "        " ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 echo @还有$(($ii-$i))题
 #elif [[ $nv = 1 ]];then
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
