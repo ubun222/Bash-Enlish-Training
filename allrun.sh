@@ -67,7 +67,7 @@ eval lr$list="$ln'	'$rn"
         alldata="$alldata$ln	$rn@"
 
 done
-echo $alldata
+
 echo
 fi
 
