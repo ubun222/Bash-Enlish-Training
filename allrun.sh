@@ -19,7 +19,7 @@ done
 n=$(echo ${txt%%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 # echo $n
 echo  ----------------------------------------------------
-echo 检测到$(($n/2))组单词
+echo "$(($n/2)) group words detected"
 #echo $n
 #nv=$n
 
@@ -84,7 +84,7 @@ if ([  $n = 1 ]) ;then
 unset alldata
 for i in $(seq 100)
 do
-read   -p  请拖入单个txt文件，按回车键结束： target
+read   -p  "Please drag in a single txt file and press enter to continue：" target
 (dirname $target ) >&/dev/null
 key=$?
 targets=$target' '$targets
@@ -99,9 +99,9 @@ n=$(echo ${txt%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 #最长的list的行数
 # echo $n
 
-echo 重新检测到共$(($(($n-$((n%2))))/2))组单词
+echo "A total of $(($(($n-$((n%2))))/2)) words are detected again"
 fi
-echo 载入词表中...
+echo "Loading the vocabulary..."
 nn=$((n/2))
 n11=$((n1+1))
 
@@ -158,16 +158,16 @@ eval lr$list="$ln'	'$rn"  #eval的空格需要''才能赋值，否则被视为�
 done
 ([ $((nn-n1)) -ne 0  ]) &&  l=$((l+1))
 echo
-echo 已加载"$l"张词表 #需要""，否则输出为??
+echo "$l" vocabulary has been loaded #需要""，否则输出为??
 n1=$nn
 echo ----------------------------------------------------
 done
 fi
 #m=$[$[$n-$[n%2])/2]*2]
 # for
-read  -p 输入Y或者y验证词表 verify
+read  -p "Enter Y or y to verify the vocabulary:" verify
 #echo
-if ([ $verify = y ]) || ([ $verify = Y  ]);then
+if ([ "$verify" = y ]) || ([ "$verify" = Y  ]);then
 
 
 (echo | shasum ) >&/dev/null
@@ -177,16 +177,16 @@ unset sha3  sha4
 (echo | sha1sum) >&/dev/null
 ([ $? = 0 ]) && sha3=$(echo $txt | sha1sum) && sha4=$(echo $alldata | sha1sum) &&
 unset sha1  sha2
-([ "$sha1" ]) && echo 源变量shasum:${sha1}  #$txt
-([ "$sha2" ]) && echo 合成变量shasum:${sha2}  #$alldata
-([ "$sha3" ]) && echo 源变量sha1sum:${sha3}  #$txt
-([ "$sha4" ]) && echo 合成变量sha1sum:${sha4}
+([ "$sha1" ]) && echo Source variable‘s shasum:${sha1}  #$txt
+([ "$sha2" ]) && echo Synthetic variable‘s shasum:${sha2}  #$alldata
+([ "$sha3" ]) && echo Source variable‘s sha1sum:${sha3}  #$txt
+([ "$sha4" ]) && echo Synthetic variable‘s sha1sum:${sha4}
 if  ([ "$sha1" = "$sha2" ]) && ([ "$sha3" = "$sha4"  ]);then
 
-echo 验证通过！
+echo Verified！
 #elif ([ $sha1 != $sha2 ]);then
 else
-read -p 验证不通过!
+read -p Verification failed!
 
 exit
 fi
@@ -197,8 +197,8 @@ fi
 voice=1
 
 if ([ $(uname) = "Darwin" ]);then
-read  -p 检测到macOS，是否开启播报（y/n） vbool
-if ([  $vbool = y ]) || ([  $vbool = Y ]);then
+read  -p "Detect macOS, whether to turn on voice（y/n）:" vbool
+if ([  "$vbool" = y ]) || ([  "$vbool" = Y ]);then
 voice=0
 fi
 fi
@@ -210,17 +210,17 @@ clear
 echo "----------------------------------------------------"
 echo "------------welcome to English Training-------------"
 echo "----------------------------------------------------"
-read  -p "请选择练习模式:1，英译中    2，中译英    3，混合模式 " mode
+read  -p "Please select practice mode: 1, En to Ch 2, Ch to En 3, mixed mode " mode
 #echo #-n1没找到替换方法
-read  -p "请选择练习模式:1，顺序     2，倒序    3，乱序 " random
+read  -p "Please select practice mode: 1, order 2, reverse order 3, disorder " random
 #echo
-read -p "请输入练习次数:" ii
+read -p 'Please enter the number of exercises:' ii
 
 number0=0;
 #raw=$[raw-1];
 #rdm1=raw;rdm2=raw;
 rdm1=${raw:-number0};rdm2=${raw:-n}
-if ([ $mode = 3 ]) ;then
+if ([ "$mode" = 3 ]) ;then
 
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
@@ -228,21 +228,21 @@ do
 #m=$[n-1]
 #m=$(($RANDOM%$m+1))
 
-if ([  $random = 1 ]);then
+if ([  "$random" = 1 ]);then
 rdm1=$((rdm1+1))
 m=$rdm1
-if ([ $rdm1 = $n ]);then
+if ([ "$rdm1" = $n ]);then
 rdm1=0
 fi
 
-elif ([  $random = 2 ]);then
+elif ([  "$random" = 2 ]);then
   #因为最长的行数n始终比算出来的+1，减一后刚好
 m=$rdm2
-if ([ $rdm2 = 1 ]);then
+if ([ "$rdm2" = 1 ]);then
 rdm2=$n
 fi
 
-elif ([  $random = 3 ]);then
+elif ([  "$random" = 3 ]);then
 m=$(($RANDOM%$n+1))
 fi
 
@@ -262,7 +262,7 @@ eval ln=\${l$No}  # alias
 eval rn=\${r$No}  # alias
 #echo $ln
 #echo $rn
-read -p '————请输入答案:'  scanf
+read -p '————Please enter the answer:'  scanf
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 answer1="${ln}"
@@ -282,15 +282,15 @@ fi
 #echo $answer2 
 #if ([ $scanf = $answer1 ]) || ([ $scanf = $answer2 ]);then
 if ([ "${scanf:-0}" = "$answer" ]) ;then
-echo 正确
+echo bingo
 fi
 
 
-read -p  "是否查看答案y/n/v：" bool
+read -p  "See the answer?y/n/v：" bool
 bool=${bool:-0}
-if ([ $bool = 'y' ]) || ([ $bool = 'Y' ])  ; then
+if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"  #加换行，否则界面不对称
-elif ([ $bool = 'v' ]) || ([ $bool = 'V' ])  ; then
+elif ([ "$bool" = 'v' ]) || ([ "$bool" = 'V' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
 if ([ $voice = 0 ]) ;then
 say  "$answer1,$answer2"
@@ -300,7 +300,7 @@ fi
 #echo @还有$(($ii-$i))题
 #elif ([ $nv = 1 ]);then
 ([ "$targets" != " " ]) && ([ "$targets" != "        " ]) && (cat  $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
-echo @还有$(($ii-$i))题
+echo @$(($ii-$i)) questions left
 #fi
 fi
 done
@@ -308,28 +308,28 @@ fi
 
 
 
-if ([ $mode = 2 ]) ;then
+if ([ "$mode" = 2 ]) ;then
 m=$(($(($n-$((n%2))))/2))
 rdm2=$((m+1))  #为了抵消下面的-1
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
 do
 
-if ([  $random = 1 ]);then
+if ([  "$random" = 1 ]);then
 rdm1=$((rdm1+1))
 m2=$rdm1
-if ([ $rdm1 = $m ]);then
+if ([ "$rdm1" = "$m" ]);then
 rdm1=0
 fi
 
-elif ([  $random = 2 ]);then
+elif ([  "$random" = 2 ]);then
 rdm2=$((rdm2-1))
 m2=$rdm2
-if ([ $rdm2 = 1 ]);then
+if ([ "$rdm2" = 1 ]);then
 rdm2=$((m+1))
 fi
 
-elif ([  $random = 3 ]);then
+elif ([  "$random" = 3 ]);then
 
 m2=$(($RANDOM%$m+1))
 fi
@@ -343,27 +343,27 @@ printf   "$question"
 #pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 eval lr=\${lr$m2}
 pureanswer=$lr
-read -p '————请输入答案:'  scanf
+read -p '————Please enter the answer:'  scanf
 
 answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
 if ([ "${scanf:-0}" = "$answer1" ]) ;then
-echo 正确
+echo bingo
 fi 
-read -p  "是否查看答案y/n/v：" bool
+read -p  "See the answer?y/n/v：" bool
 bool=${bool:-0}
-if ([ $bool = 'y' ]) || ([ $bool = 'Y' ])  ; then
+if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
-elif ([ $bool = 'v' ]) || ([ $bool = 'V' ])  ; then
+elif ([ "$bool" = 'v' ]) || ([ "$bool" = 'V' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
-if ([ $voice = 0 ]) ;then
+if ([ "$voice" = 0 ]) ;then
 say  "$answer1,$answer2"
 fi 
 #if ([ $nv != 1 ]);then
 ([ "$targets" != " " ]) && ([ "$targets" != "        " ]) && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
-echo @还有$(($ii-$i))题
+echo @$(($ii-$i)) questions left
 #elif ([ $nv = 1 ]);then
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 #echo @还有$(($ii-$i))题
@@ -374,7 +374,7 @@ fi
 
 
 
-if ([ $mode = 1 ]) ;then
+if ([ "$mode" = 1 ]) ;then
 m=$(($(($n-$((n%2))))/2))
 rdm2=$((m+1))   #为了抵消下面的-1
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
@@ -382,21 +382,21 @@ for i in $(seq 1 $ii)
 do
 
 
-if ([  $random = 1 ]);then
+if ([  "$random" = 1 ]);then
 rdm1=$((rdm1+1))
 m2=$rdm1
-if ([ $rdm1 = $m ]);then
+if ([ "$rdm1" = "$m" ]);then
 rdm1=0
 fi
 
-elif ([  $random = 2 ]);then
+elif ([  "$random" = 2 ]);then
 rdm2=$((rdm2-1))
 m2=$rdm2
-if ([ $rdm2 = 1 ]);then
+if ([ "$rdm2" = 1 ]);then
 rdm2=$((m+1))
 fi
 
-elif ([  $random = 3 ]);then
+elif ([  "$random" = 3 ]);then
 
 m2=$(($RANDOM%$m+1))
 fi
@@ -411,27 +411,27 @@ printf   "$question"
 eval lr=\${lr$m2}
 pureanswer=$lr
 #pureanswer=$(echo  $txt| tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-read -p '————请输入答案:'  scanf
+read -p '————Please enter the answer:'  scanf
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
 if ([ "${scanf:-0}" = "$answer2" ]);then
-echo 正确
+echo bingo
 fi 
-read -p  "是否查看答案y/n/v：" bool
+read -p  "See the answer?y/n/v：" bool
 bool=${bool:-0}
-if ([ $bool = 'y' ]) || ([ $bool = 'Y' ])  ; then
+if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
-elif ([ $bool = 'v' ]) || ([ $bool = 'V' ])  ; then
+elif ([ "$bool" = 'v' ]) || ([ "$bool" = 'V' ])  ; then
 printf "$(echo $pureanswer | tr '/' ' ')"
-if ([ $voice = 0 ]) ;then
+if ([ "$"voice" = 0 ]) ;then
 say  "$answer1,$answer2"
 fi 
 #if ([ $nv != 1 ]);then
 ([ "$targets" != " " ]) && ([ "$targets" != "        " ]) && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
-echo @还有$(($ii-$i))题
+echo @$(($ii-$i)) questions left
 #elif ([ $nv = 1 ]);then
 #(cat $(echo  $targets | tr ' ' '\n' ) | grep -A 5 "${answer1} |" | sort -k2n | uniq > /dev/tty) >&/dev/null
 #echo @还有$(($ii-$i))题
