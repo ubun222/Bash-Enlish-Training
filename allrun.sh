@@ -235,7 +235,7 @@ answer="$answer1"
 fi
 
 if ([ "${scanf:-0}" = "$answer" ]) ;then
-echo -n bingo
+echo  bingo
 fi
 
 echo -n "See the answer?y/n/v："
@@ -300,7 +300,7 @@ answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
 
 if ([ "${scanf:-0}" = "$answer1" ]) ;then
-echo -n bingo
+echo  bingo
 fi
 echo -n "See the answer?y/n/v："
 read  bool
@@ -366,7 +366,7 @@ answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
 if ([ "${scanf:-0}" = "$answer2" ]);then
-echo -n bingo
+echo  bingo
 fi
 echo -n "See the answer?y/n/v："
 read  bool
