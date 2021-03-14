@@ -14,7 +14,7 @@ eval rp=\${$p:-/dev/null}
 
 
 done
-txt=$(echo $txt | tr '	' '\n' | grep '[^ ]'| tr '\n' '	' )
+
 
 n=$(echo "${txt%%@}"  | awk 'BEGIN{RS="	"}{print $1}' |  tr '@' '\n'  |  grep -c '[^ ]')
 
