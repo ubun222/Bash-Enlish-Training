@@ -1,4 +1,3 @@
-#!/bin/bash
 
 p=1;n1=0;l=0;n=1;output25=0;outputed=0
 
