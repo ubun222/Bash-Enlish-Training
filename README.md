@@ -3,15 +3,15 @@
 
 ## Have a easy try:
 ```
-export txt=$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allinone.txt  |  tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )  && bash -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/1.3.5.sh)"  
+export txt=$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allinone.txt  |  tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )  && bash -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/1.3.6.sh)"  
 ```
 ## Small Guide
 ```
 clone
 chmod +x Bash-English-Training/1.*.sh
 cd Bash-English-Training
-./1.3.5.sh ./allinone.txt       #or ...
-./1.3.5.sh                      #然后一个一个将.txt文件拖入终端，或者输入文件路径
+./1.3.6.sh ./allinone.txt       #or ...
+./1.3.6.sh                      #然后一个一个将.txt文件拖入终端，或者输入文件路径
 ```
 
 
