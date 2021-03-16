@@ -1,10 +1,11 @@
 #read -r -d '\' -p "请拖入文件"  txt1 < $1
 #alltxt=
 yes=
+n=0
 for i in $(seq 100)
 do
 
-read -p "请拖入!一个!文件回车,完成后请按空格结束："  txt1
+read -p "请拖入!一个!文件回车,完成后请按回车结束："  txt1
 
 if [[ "$txt1" = "" ]];then
 
@@ -17,6 +18,7 @@ alltxt="$alltxt$(echo $(cat "$txt1" | grep -B 100 '\\'  | tr '	' '=' |tr '\n' '@
 
 if [[ "$?" = "0" ]] ;then
 targets="$txt1#$targets"
+n=$((n+1))
 fi
 
 done
@@ -43,7 +45,7 @@ fi
 
 echo "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" | cat >> ./allinone.txt
 
-for ii in $(seq 100);do
+for ii in $(seq $n);do
 
 path=$(echo $targets | tr  '#'  '\n' | head -n$ii | tail -n1 )
 
@@ -54,13 +56,13 @@ if [[ "$path" != "" ]] ;then
 delete=$(cat $path | grep  '\\' )
 
 cat $path | grep -A 2580 '\\' | tr -d "$delete" >>./allinone.txt
-
+(cat $path) &>/dev/null
 if [[ "$?" != "0" ]] ;then
 break 
+else
+echo success +1
 fi
 
-echo success +1
 fi
 done
 fi
-
