@@ -75,7 +75,7 @@ if ([  $n = 1 ]) ;then
 unset alldata
 for i in $(seq 100)
 do
-echo 'Please drag in a single txt file and press enter to continue：'
+echo 'Please drag in a single txt file and press enter to continue：\c'
 read   target
 (dirname $target ) >&/dev/null
 key=$?
@@ -157,7 +157,8 @@ fi
 voice=1
 
 if ([ "$(uname)" = "Darwin" ]);then
-read  -p "检测到Macos，是否开启语音(y/n):" vbool
+echo "检测到Macos，是否开启语音(y/n):\c"
+read  vbool
 if ([  "$vbool" = y ]) || ([  "$vbool" = Y ]);then
 voice=0
 fi
@@ -168,11 +169,11 @@ clear
 echo "----------------------------------------------------"
 echo "------------welcome to English Training-------------"
 echo "----------------------------------------------------"
-echo "请选择练习模式: 1, 英译中 2, 中译英 3, 中英互译 "
+echo "请选择练习模式: 1, 英译中 2, 中译英 3, 中英互译 \c"
 read   mode
-echo "请选择练习模式: 1, 顺序 2, 倒序 3, 乱序 "
+echo "请选择练习模式: 1, 顺序 2, 倒序 3, 乱序 \c"
 read  random
-echo '请输入需要练习的次数:'
+echo '请输入需要练习的次数:\c'
 read  ii
 
 number0=0;
@@ -219,7 +220,7 @@ eval rn=\${r$No}  # alias
 #echo $ln
 #echo $rn
 
-echo  -n '————请输入答案:'
+echo  '————请输入答案:\c'
 read   scanf
 
 answer1="${ln}"
@@ -238,7 +239,7 @@ if ([ "${scanf:-0}" = "$answer" ]) ;then
 echo  bingo
 fi
 
-echo -n "是否查看答案?y/n/v："
+echo "是否查看答案?y/n/v：\c"
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
@@ -293,7 +294,7 @@ printf   "$question"
 eval lr=\${lr$m2}
 pureanswer=$lr
 
-echo -n '————请输入答案:'
+echo '————请输入答案:\c'
 read  scanf
 
 answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
@@ -302,7 +303,7 @@ answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
 if ([ "${scanf:-0}" = "$answer1" ]) ;then
 echo  bingo
 fi
-echo -n "是否查看答案?y/n/v："
+echo  "是否查看答案?y/n/v：\c"
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
@@ -358,7 +359,7 @@ printf   "$question"
 
 eval lr=\${lr$m2}
 pureanswer=$lr
-echo -n '————请输入答案:'
+echo  '————请输入答案:\c'
 read  scanf
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
@@ -368,7 +369,7 @@ answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 if ([ "${scanf:-0}" = "$answer2" ]);then
 echo  bingo
 fi
-echo -n "是否查看答案y/n/v："
+echo "是否查看答案y/n/v：\c"
 read  bool
 bool=${bool:-0}
 if ([ "$bool" = 'y' ]) || ([ "$bool" = 'Y' ])  ; then
