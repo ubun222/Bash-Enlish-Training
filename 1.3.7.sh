@@ -221,7 +221,7 @@ read -p "请输入练习次数:" ii
 number0=0;
 #raw=$[raw-1];
 #rdm1=raw;rdm2=raw;
-rdm1=${raw:-number0};rdm2=${raw:-n}
+rdm1=${raw:-$number0};rdm2=${raw:-$((n+1))}
 if [[ $mode = 3 ]] ;then
 
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
@@ -239,9 +239,11 @@ fi
 
 elif [[  $random = 2 ]];then
   #因为最长的行数n始终比算出来的+1，减一后刚好
+
+rdm2=$((rdm2-1))
 m=$rdm2
 if [[ $rdm2 = 1 ]];then
-rdm2=$n
+rdm2=$((n+1))
 fi
 
 elif [[  $random = 3 ]];then
