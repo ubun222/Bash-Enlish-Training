@@ -1,3 +1,4 @@
+a world of		大量的
 abstinent		节制的
 addict				对...入迷的人
 admittedly			诚然
@@ -9,9 +10,12 @@ alcohol		酒
 alcoholic		含酒精的
 algorithm			算法
 alienate		使某人感到被孤立
+annually			每年
 anxiety				焦虑
 appearing			呈现
 around		存在着的
+associate		把...联系起来
+at play			某种因素在大格局里起作用
 at the expense	以...为代价
 beverage		饮料
 bond			建立友谊
@@ -19,20 +23,29 @@ broad			广的
 brutal				残忍的
 catalyst		促进因素
 caution			小心
+census			调查，统计
+chain				链条，一系列
+character		性格，特性，字
 chip				芯片，薯条
+cirsis				危机
 clinical			临床的
 cobweb		蜘蛛网
+code			密码，编码
 coerce		强迫
 coffin		棺材
+compatible		可共存的，兼容的
 condition			疾病
 conduct			组织
 conflict			冲突
 consolidation			巩固，加强
 conventional			传统的
+cross over			转投
 debuted		首次亮相，出道
 demand			强求
 depression			忧郁
 desire				渴望
+diverse			多种多样的
+diversity		多样性
 dopamine			多巴胺
 downward	向下的，朝下的
 dub				把...称为
@@ -45,10 +58,16 @@ episode		事件
 essentially	本质上
 executive		经理
 exposure			接触
+factor			因素
 famously			著名的
 flee		逃跑
+for the sake of		为了...起见
 frustrate	使...沮丧
+fuel				燃料，用作...的燃料
 greener pastures	更好的事物或地方
+happen to		发生
+have to do with		与...有关
+heritage		遗产
 hit		轰动一时的人物
 hook				勾住
 hypothesis			假设，学说
@@ -59,18 +78,24 @@ indeed				确实
 indicate			表明
 individual			个人，个体
 inherent			与身俱来的
+initially			起初
 innovate	改革
 instant		即刻的
 intense				强烈的
 investment	投资
+keep up with			跟上
 landscape	形势
 line of defense	防线
 longevity			寿命
 lubricant		润滑剂
 made great strides		取得巨大进展
 mainstay	支柱，主要部分
+majority		大多数
+make appointment	预约
 mental				精神上的
+mighty				强大的
 military			军事的
+minority		少数
 miraculously	奇迹般的
 monopoly	垄断
 mortality		死亡
@@ -79,10 +104,15 @@ nerve				神经
 neurological			神经的
 neurotransmitter		神经递质
 organ				器官
+pandemic			疾病大范围流行的
 pass muster			被认为合格
 pave		铺地面
+perfect storm			祸不单行
+persist				持续存在，坚持不懈
+perspective		透视法，观点
 physically			肉体的
 praise				赞美
+predicament		尴尬的处境
 premise				前提
 presentation			报告，演讲
 prompt			促使
@@ -91,6 +121,8 @@ provoke		激怒
 psychologist			心理学家
 publication			出版
 quotidian			平常的
+racially		在种族上
+reach a crisis point		迫在眉睫
 reflect				反应
 reflection		映像
 repression			压抑
@@ -98,22 +130,31 @@ resemblance			相似之处
 retreat				改变主意
 reward				报偿
 ritual		礼节
+roar			咆哮，大喊
 sacrifice			牺牲
 scrutiny			仔细的审查
+semiconductor			半导体
+shortage			缺乏
+significantly			显著的
 slapped			拍，掌㧽
 sophisticate	复杂的
 spinal cord injuries		脊髓损伤
 start-up			初创公司
 statement			说明，表态
+steadily			逐步的，平静的
 steady		持续的
 stimulate			促进
 stimulate			刺激
+stroke			一击，一笔
 substance			物质
 substitute			代替品
+supply				供应，供给
+surge				使强烈感受到，急剧上涨
 surpass		超过
 surrender	投降
 sync		同步
 synonymous	同义的
+temporary			短期的，临时的
 threshold	门槛，关口
 to a certain extent		从某种程度来说
 trajectory	轨道
@@ -123,13 +164,309 @@ trial				试验
 tyrannical			残暴的
 unaffiliated			非附属的
 unveil			展示，介绍
+up and running			正常运营
 urge				欲望
+vast			巨大的
 veteran				老兵
 violent				暴力的
 virtual		几乎
 vital			必不可少的
 wear off				感觉逐渐消失
+worsen				使变得更糟
 \\\\\\\\\\
+
+crisis | BrE ˈkrʌɪsɪs, AmE ˈkraɪsɪs | 名词:危机
+发展到危急关头:to reach a crisis
+个人/感情危机:a personal/an emotional crisis
+
+
+
+
+
+shortage | BrE ˈʃɔːtɪdʒ, AmE ˈʃɔrdɪdʒ | 名词:缺乏
+住房短缺: a housing shortage
+申请人/机会很多:there is no shortage of applicants/opportunity
+在匮乏时期:at a time of shortage
+
+
+
+
+
+steadily | BrE ˈstɛdɪli, AmE ˈstɛdəli | 副词:rise, fall逐步地，louder越来越；breath均匀地，pump有规律地；work持续地；say平静地，drive平稳地
+凝视某人:to look steadily at sb
+
+
+
+
+
+worsen | BrE ˈwəːs(ə)n, AmE ˈwərs(ə)n | 不及物动词:变得更糟/及物动词:使变得更糟
+例句:The shortage has been steadily worsening since last year.
+
+
+
+
+
+
+initially | BrE ɪˈnɪʃ(ə)li, AmE ɪˈnɪʃ(ə)li | 副词:起初
+例句:Initially the problem was only a temporary delay in supplies as factories shutdown when the coronavirus pandemic first hit.
+
+
+
+
+
+temporary | BrE ˈtɛmp(ə)rəri, AmE ˈtɛmpəˌrɛri | 形容词:contract, visa, arrangement短期的，job, accommodation, solution临时的
+例句:Initially the problem was only a temporary delay in supplies as factories shutdown when the coronavirus pandemic first hit.
+
+
+
+
+
+
+supply | BrE səˈplʌɪ, AmE səˈplaɪ | 名词:供应量；供应；供给；代课教师/复数形式:补给品，用品/及物动词:供应，为...供应，满足
+储存的食物快吃完了:supplies of food are almost exhausted
+供应不足/充足:in short/plentiful supply
+向工厂供应原材料:the supply of raw materials to the factory
+他们被指控向叛乱者提供武器:they were accused of supplying arms to the rebels
+这条船配有卫星导航系统:the boat is supplied with satellite navigation
+
+
+
+
+pandemic | BrE panˈdɛmɪk, AmE pænˈdɛmɪk | 形容词:大范围流行的/名词:大流行病
+
+
+
+
+
+
+
+
+surge | BrE səːdʒ, AmE sərdʒ | 不及物动词:使强烈感受到，急剧上涨，激增；涌动；冲刺；浪涌/名词:突发；激增；涌动；冲刺；浪涌
+在某人内心/某物内部迸发:to surge within sb/sth
+她顿感如释重负:relief surged through her
+激增到创纪录的高度:to surge to a record high
+向前涌动/涌出去:to surge forward/out
+
+
+
+
+fuel | BrE fjuː(ə)l, AmE ˈfju(ə)l | 名词:燃料；营养物；刺激因素/及物动词：用作...的燃料；给...加燃料；使...加剧/不及物动词:加燃料
+用尽/没有燃料:to run/be out of fuel;
+加燃料: to take on fuel;
+使某人更是怒火中烧:to add fuel to one's anger
+以石油/天然气为燃料: to be fuelled by oil/gas
+
+
+
+
+mighty | BrE ˈmʌɪti, AmE ˈmaɪdi | 形容词:强大的；巨大的，浩瀚的；强有力的；极大的/复数:强有力的人the mighty/副词:非常US informal
+盛气凌人的:high and mighty
+笔比剑更锋利:the pen is mightier than the sword
+参天大树，生于毫末:from little acorns mighty oak trees grow
+对种族主义的一次重创:a mighty blow against racism
+
+
+
+semiconductor | BrE ˌsɛmɪkənˈdʌktə, AmE ˈsɛmikənˌdəktər,ˈsɛmˌaɪkənˌdəktər | 名词:半导体
+
+
+
+
+
+
+
+
+annually | BrE ˈanjʊəli,ˈanjʊli, AmE ˈænjuəli | 副词:每年
+
+
+
+
+
+
+
+keep up with |  跟上...的速度；同步完成；与...同步进度；与...同步增长；和...同步学习；理解；保持了解；与...保持联系；按时支付
+很难跟上其他人:to have difficulty keeping up with the others
+按期为订单供货:to keep up with orders
+养老金的增加跟不上生活费用的增长速度:pensions are barely keeping up with the cost of living
+你们明白我的意思吗:are you keeping up with me?
+
+
+
+persist | BrE pəˈsɪst, AmE pərˈsɪst | 不及物动词:持续存在；坚持不懈
+如果症状不消除，就去看医生:if symptoms persist, consult your doctor
+你若固执，就得不到他人的帮助:if you (will) persist, you'll get no help from anyone
+坚持 ‹policy, idea›:to persist with sth;
+坚持某事/做某事:to persist in sth/in doing sth;
+
+
+
+significantly | BrE sɪɡˈnɪfɪk(ə)ntli, AmE səɡˈnɪfəkəntli | 副词:显著地；带有含义地‹name, label›；耐人寻味地‹glare, look, smile›
+明显更高/更低的:significantly higher/lower
+大不相同的:significantly different
+并不大的/没快多少的:not significantly bigger/faster
+
+
+
+chain | BrE tʃeɪn, AmE tʃeɪn | 名词:链条；束缚；一系列，一连串；岛链；链；/及物动词:用链条拴住
+一截链条:a length of chain
+给某人戴上镣铐:to put or keep sb in chains
+冲马桶:to pull the (lavatory) chain
+贫穷的枷锁:the chains of poverty
+他们排成了一条长龙:they formed a human chain
+
+
+
+
+
+
+
+vast | BrE vɑːst, AmE væst | 形容词:大量的，巨大的，渊博的；宽敞的，辽阔的
+一大笔:a vast amount of
+绝大多数:the vast majority
+宽敞的:a vast stretch of desert
+
+
+
+
+majority | BrE məˈdʒɒrɪti, AmE məˈdʒɔrədi,məˈdʒɑrədi | 名词:大多数；多数票；法定成年年龄
+大多数:the majority of the voters/population
+名词前:a majority verdict   多数裁决
+多数票:Labour had a large majority over the Conservatives in this constituency
+在该选区工党得票数远远超过保守党
+达到法定成年年龄:to reach one's majority
+
+
+
+perspective | BrE pəˈspɛktɪv, AmE pərˈspɛktɪv | 名词:透视法(艺术)；观点；权衡轻重的能力
+用透视法画某物:to draw sth in perspective
+观点:to see things from a religious perspective.   从宗教的角度看待事物
+明察事理:to have a sense of perspective
+处理事情要分轻重缓急:you have to keep things in perspective;
+正确处理某事:to get or put sth in or into perspective;
+
+
+census | BrE ˈsɛnsəs, AmE ˈsɛnsəs | 名词:人口普查，统计调查
+to take/conduct a census
+进行人口调查
+
+
+
+
+racially | BrE ˈreɪʃ(ə)li, AmE ˈreɪʃəli | 副词:在种族上
+一个多种族社区:a racially diverse community
+该对话冒犯种族:the dialogue is racially offensive
+例句：the attack was racially motivated
+翻译：袭击事件是由种族原因引起的
+
+
+
+diverse | BrE dʌɪˈvəːs,ˈdʌɪvəːs, AmE dəˈvərs,daɪˈvərs | 形容词:多种多样的；不同的
+一个多种族社区:a racially diverse community
+
+
+
+
+
+minority | BrE mʌɪˈnɒrɪti,mɪˈnɒrɪti, AmE məˈnɔrədi | 名词:少数；少数名族；未成年/名词前:少数人的
+少数人/企业/国家:a minority of people/businesses/countries;
+宗教上的少数派: a religious minority
+是唯一持不同意见者:to be in a minority of one
+
+
+
+diversity | BrE dʌɪˈvəːsɪti,dɪˈvəːsɪti, AmE dəˈvərsədi,daɪˈvərsədi | 名词:多样性；差异性
+教育的多元化:the diversity in education
+众说纷纭:a great diversity of opinions
+
+
+
+
+stroke | BrE strəʊk, AmE stroʊk | 名词:一击；击球；杆数；划水/浆动作；抚摸；举动；一次；主意；一笔；斜线/；报时的钟声；中风；冲程/及物动词:抚摸；踢；轻拂；奉承
+他一剑劈断了绳子:he cut the rope with a stroke of his sword
+正手/反手击球:a forehand/backhand stroke
+大胆的举措: a bold stroke
+背运/好运:a stroke of bad/good luck
+他捋着胡须，想着接下来该做什么:he stroked his beard, wondering what to do next
+
+
+
+
+
+character | BrE ˈkarəktə, AmE ˈkɛrəktər | 名词:性格；名誉；骨气；特性，个性；特征；有个性的人；怪人；人物；字
+口碑好/不好的人:a person of good/bad character
+刚毅:strength of character
+扮演某角色:to play the character of sb
+具有某种特征:to take on the character of sth
+
+
+
+factor | BrE ˈfaktə, AmE ˈfæktər | 名词:因素；因子；代理商/把...作为考虑因素:factor in
+是未知因素:to be an unknown factor;
+是某事的因素:to be a factor in sth;
+共同的因素:common factor
+最大）公因子: (highest) common factor
+
+
+
+roar | BrE rɔː, AmE rɔr | 名词:咆哮:叫喊；大笑声；鼓掌声；轰鸣声；呼啸声；呼呼声/不及物动词:吼叫；大喊；喧哗；放生大笑；轰鸣；呼啸而行
+他怒吼了一声:he gave a roar of rage
+观众报以雷鸣般的掌声:the audience gave a roar of applause(鼓掌)
+瀑布的轰鸣声让他们什么也听不见:the roar of the waterfall deafened(使变聋) them
+怒吼:to roar with fury
+
+
+
+
+code | BrE kəʊd, AmE koʊd | 名词:密码；法规；规范；区号；编码/及物动词:将...编码
+说晦涩难懂的行话:to speak in code
+破译密码:to break or crack the code
+道德规范:a code of ethics
+汇编码/机器码:assembly/machine code
+
+
+
+predicament | BrE prɪˈdɪkəm(ə)nt, AmE prəˈdɪkəmənt | 名词:尴尬的处境，困境
+帮助某人摆脱困境:to help sb out of his/her predicament
+
+
+
+
+
+
+compatible | BrE kəmˈpatɪb(ə)l, AmE kəmˈpædəb(ə)l | 形容词:和睦相处的；一致的；相符的；兼容的
+与某人和睦相处:to be compatible with sb;
+与某物兼容:to be compatible with sth;
+例句:you must learn to work at a speed compatible with efficiency
+翻译:你必须学会工作中兼顾速度与效率
+
+
+
+heritage | BrE ˈhɛrɪtɪdʒ, AmE ˈhɛrədɪdʒ | 名词:遗产；文化遗产
+可怕的战争后遗症:the dreadful heritage of war
+革命的产物:the heritage of revolution
+
+
+
+
+
+associate | BrE əˈsəʊʃɪeɪt,əˈsəʊsɪeɪt, AmE əˈsoʊsiˌeɪt,əˈsoʊʃiˌeɪt | 及物动词:把...联系起来；与...有关系；/不及物动词:交往/名词:伙伴；准会员/形容词:副的，非正式的，陪审的
+这些是年老的症状:these symptoms are associated with old age
+表示赞成某事:to associate oneself with sth;
+与某人交往:to associate with sb;
+同案犯:an associate in crime
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 chip | BrE tʃɪp, AmE tʃɪp |  原型：chip  名词/动词
 例句：Musk‘s Neuralink puts computer *chips in animal brains.
