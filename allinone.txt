@@ -27,7 +27,6 @@ census			调查，统计
 chain				链条，一系列
 character		性格，特性，字
 chip				芯片，薯条
-cirsis				危机
 clinical			临床的
 cobweb		蜘蛛网
 code			密码，编码
@@ -39,6 +38,7 @@ conduct			组织
 conflict			冲突
 consolidation			巩固，加强
 conventional			传统的
+crisis				危机
 cross over			转投
 debuted		首次亮相，出道
 demand			强求
