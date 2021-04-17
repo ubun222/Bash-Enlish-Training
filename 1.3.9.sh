@@ -463,7 +463,7 @@ echo 检测到$(($n/2))组单词
 #nv=$n
 #nnn=$(($n/2))
 [[ $(($n/2)) -gt 150 ]] && read -p "词表过大，是否关闭预加载？(Y/y)"  choice
-if [[ $choice = 'y' ]] || [[ $choice = 'Y' ]]  ; then
+if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y' ]]  ; then
 FUN
 exit
 fi
@@ -550,7 +550,7 @@ echo 重新检测到共$(($(($n-$((n%2))))/2))组单词
 fi
 
 [[ $(($n/2)) -gt 150 ]] && read -p "词表过大，是否关闭预加载？(Y/y)"  choice
-if [[ $choice = 'y' ]] || [[ $choice = 'Y' ]]  ; then
+if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y' ]]  ; then
 FUN
 exit
 fi
