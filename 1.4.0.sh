@@ -17,9 +17,9 @@ fi
 echo "--------------------------------------------------"
 echo "-----------welcome to English Training------------"
 echo "--------------------------------------------------"
-read -p "请选择练习模式:1，英译中    2，中译英    3，混合模式 " mode
-read -p "请选择练习模式:1，顺序     2，倒序    3，乱序 " random
-read -p "请输入练习次数:" ii
+read  -n1 -p  "请选择练习模式:1，英译中    2，中译英    3，混合模式 " mode
+read  -n1 -p  "请选择练习模式:1，顺序     2，倒序    3，乱序 " random
+read -p  "请输入练习次数:" ii
 
 number0=0;
 #raw=$[raw-1];
@@ -471,7 +471,7 @@ echo 检测到$(($n/2))组单词
 #echo $n
 #nv=$n
 #nnn=$(($n/2))
-[[ $(($n/2)) -gt 150 ]] && read -p "词表过大，是否关闭预加载？(Y/y)"  choice
+[[ $(($n/2)) -gt 150 ]] && read -n1 -p "词表过大，是否关闭预加载？(Y/y)"  choice
 if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y' ]]  ; then
 FUN
 exit
@@ -558,7 +558,7 @@ n=$(echo ${txt%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 echo 重新检测到共$(($(($n-$((n%2))))/2))组单词
 fi
 
-[[ $(($n/2)) -gt 150 ]] && read -p "词表过大，是否关闭预加载？(Y/y)"  choice
+[[ $(($n/2)) -gt 150 ]] && read -n1 -p "词表过大，是否关闭预加载？(Y/y)"  choice
 if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y' ]]  ; then
 FUN
 exit
