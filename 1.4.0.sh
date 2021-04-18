@@ -4,6 +4,15 @@
 p=1;n1=0;l=0;n=1;output25=0;outputed=0
 FUN()
 {
+
+   voice=1
+
+if [[ $(uname) = "Darwin" ]];then
+read -n1 -p 检测到macOS，是否开启播报（y/n） vbool
+if [[  $vbool = y ]] || [[  $vbool = Y ]];then 
+voice=0
+fi
+fi
    clear
 echo "--------------------------------------------------"
 echo "-----------welcome to English Training------------"
