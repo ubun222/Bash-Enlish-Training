@@ -18,7 +18,9 @@ echo "--------------------------------------------------"
 echo "-----------welcome to English Training------------"
 echo "--------------------------------------------------"
 read  -n1 -p  "请选择练习模式:1，英译中    2，中译英    3，混合模式 " mode
+echo
 read  -n1 -p  "请选择练习模式:1，顺序     2，倒序    3，乱序 " random
+echo
 read -p  "请输入练习次数:" ii
 
 number0=0;
@@ -472,6 +474,7 @@ echo 检测到$(($n/2))组单词
 #nv=$n
 #nnn=$(($n/2))
 [[ $(($n/2)) -gt 150 ]] && read -n1 -p "词表过大，是否关闭预加载？(Y/y)"  choice
+echo
 if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y' ]]  ; then
 FUN
 exit
@@ -559,6 +562,7 @@ echo 重新检测到共$(($(($n-$((n%2))))/2))组单词
 fi
 
 [[ $(($n/2)) -gt 150 ]] && read -n1 -p "词表过大，是否关闭预加载？(Y/y)"  choice
+echo
 if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y' ]]  ; then
 FUN
 exit
