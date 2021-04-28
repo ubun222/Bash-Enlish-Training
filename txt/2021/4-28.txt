@@ -13,13 +13,27 @@ preliminary			初步的
 injunction			禁制令，警告，命令
 opponent			对手，反对者
 argue				争论，主张
-bias				偏见；倾向
+bias				偏见，倾向
 correlate			相关联
 income				收入
-
-
-
-
+race				竞速，种族	
+gender				性别，性
+annual				每年的
+expect				预计
+score				得分
+section				部分，阶层	
+experience			经验，经历
+policy				政策，原则
+downplay			对...轻描淡写
+counsellor			顾问
+aspect				部分，方面
+curriculum			课程
+activity			活跃，活动
+disadvantaged			贫穷的
+the disadvantaged		下层社会
+lottery				碰运气的事
+minimum				最低限度
+qualification			资格，素质
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 figure out | BrE ˈfɪɡə, AmE ˈfɪɡjər | 名词:数字；算数；人物；人影；身材；插图；图案；人像；
 例句:努力找出你的愤怒之下潜藏的情感。
@@ -148,6 +162,128 @@ income | BrE ˈɪnkʌm, AmE ˈɪnˌkəm | 名词:收入
 
 
 
+
+race | BrE reɪs, AmE reɪs | 名词:速度竞赛；匆忙；竞争；急流/复数:赛马会/及物动词:同...竞速；使...参加竞速/不及物:参加速度竞赛；/名词:种族；民族
+5公里/200米速度竞赛:a five-kilometre/200-metre race
+总统/市长竞选:the presidential/mayoral race
+征服太空/登月的竞争:the race to conquer space/reach the moon
+白种人/蒙古人种:the Caucasian/Mongolian race
+
+
+gender | BrE ˈdʒɛndə, AmE ˈdʒɛndər | 名词:性别；性
+男性和女性:male and female genders
+阴性:feminine gender
+
+
+
+
+
+annual | BrE ˈanjʊəl, AmE ˈænj(u)əl | 形容词:一年一次的；年度的；持续一年的/名词:年刊；一年生植物
+年租金:annual rent
+年收入:annual income
+年度预算:annual budget
+
+
+
+expect | BrE ɪkˈspɛkt,ɛkˈspɛkt, AmE ɪkˈspɛkt | 及物动词:预计；指望；等待；要求；猜想；怀着/不及物动词:预计；要求；猜想；怀孕
+预料某人会做某事:to expect sb to do sth;
+相当正常:to be expected;
+指望得到某人的同情/帮助:to expect sympathy/help from sb;
+这要求太过分:it's too much to expect
+
+
+
+score | BrE skɔː, AmE skɔr | 名词:得分；分数；约二十个；总谱，配乐；根据；夙愿；实情；欠账；刻痕/及物动词:赢得，取得；给...打分；在...上刻痕，划开；改编；把...弄到手/不及物动词:得分；记分；成功，胜出
+最终比分是二比一: the final score was two-one
+记分:to keep the score
+高分/低分: a good/poor score
+击中得一分/留下好印象/大获成功:to score a hit
+
+
+section | BrE ˈsɛkʃ(ə)n, AmE ˈsɛkʃ(ə)n | 名词:部分，节；阶层，部门，乐器组；小分队；路段；截图；切面；地段；平方英里US/及物动词:把...分成部分；切开
+第1节第3段:section 1, paragraph 3
+火车的前部/后部:the front/rear section of the train
+公司的财务部:the finance section of the company
+商业区/住宅区:the business/residential section
+
+
+experience | BrE ɪkˈspɪərɪəns,ɛkˈspɪərɪəns, AmE ˌɪkˈspɪriəns | 名词:经验；经历/及物动词:经历；体验，体会
+有某事物/做某事的经验:to have experience of sth/doing sth;
+了解某人/某事物:to have experience with sb/sth;
+获得经验:to acquire or gain experience
+亲身经历某事:to experience sth at first hand or personally
+
+
+
+
+policy | BrE ˈpɒlɪsi, AmE ˈpɑləsi | 名词:政策；原则
+外交/经济/社会政策:foreign/economic/social policy
+执行政策:to carry out or implement a policy
+我们公司规定不准吸烟:our company has a no-smoking policy
+这是原则问题:it's a matter of policy
+
+
+aspect | BrE ˈaspɛkt, AmE ˈæspɛkt | 名词:部分；方面；朝向；景色；外表；
+从这一角度看:seen from this aspect
+研究某事物的各个方面:to examine every aspect of sth
+面朝西的房子:a house with a westerly aspect
+宜人的景色:a pleasant aspect
+
+
+
+application | BrE aplɪˈkeɪʃ(ə)n, AmE ˌæpləˈkeɪʃ(ə)n | 名词:申请；实施，应用，用途；敷用；勤奋；应用程序
+提出求职申请:to make a job application
+股票的申购:application for shares
+填写求职/护照申请表:to fill out a job/passport application
+或许凭常识就能解决这个问题:the application of common sense might resolve the problem
+
+
+curriculum | BrE kəˈrɪkjʊləm, AmE kəˈrɪkjələm | 名词:课程
+列入课程:to be on the curriculum;
+课外的:extra-curricular
+
+
+
+
+
+
+activity | BrE akˈtɪvɪti, AmE ækˈtɪvədi | 名词:活跃；活动
+忙忙碌碌:to hum with activity
+镇中心非常热闹:the town centre was a scene of great activity
+重新开始/中断活动:to resume/break off one's activities
+
+
+
+
+disadvantaged | BrE dɪsədˈvɑːntɪdʒd, AmE ˌdɪsədˈvæn(t)ɪdʒd | 形容词:贫穷的
+下层社会:the disadvantaged
+居住在市中心贫民区的孩子在教育方面可能处于不利的地位。
+Children living in inner-city areas may be educationally disadvantaged.
+
+
+
+
+
+lottery | BrE ˈlɒt(ə)ri, AmE ˈlɑdəri | 名词:抽彩，碰运气的事
+彩票抽奖为数百万人提供正当娱乐。
+The lottery provides harmless fun for millions.
+
+
+
+
+
+minimum | BrE ˈmɪnɪməm, AmE ˈmɪnəməm | 名词:最低限度；最少量/形容词:最低的；最少的
+把某物保持在最低限度:to keep sth to a or the minimum
+最低值: the bare or absolute minimum
+以最小值:at the minimum
+
+
+
+
+
+qualification | BrE ˌkwɒlɪfɪˈkeɪʃ(ə)n, AmE ˌkwɑləfəˈkeɪʃ(ə)n | 名词:资格；素质，能力；限定；先决条件
+取得/拥有某方面的资格:to gain/have a qualification in sth
+毫无保留地接受某事物:to accept sth without qualification
 
 
 
