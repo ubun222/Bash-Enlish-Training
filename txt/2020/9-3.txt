@@ -6,7 +6,7 @@ steady		持续的
 downward	向下的，朝下的
 trajectory	轨道
 threshold	门槛，关口
-debuted		首次亮相，出道
+debut		首次亮相，出道
 instant		即刻的
 hit		轰动一时的人物
 virtual		几乎
@@ -89,7 +89,7 @@ threshold | BrE ˈθrɛʃəʊld,ˈθrɛʃˌhəʊld, AmE ˈθrɛʃˌ(h)oʊld | �
 
 
 
-debuted | BrE ˈdeɪbjuː,ˈdɛbjuː, AmE deɪˈbju | 名词:首次亮相
+debut | BrE ˈdeɪbjuː,ˈdɛbjuː, AmE deɪˈbju | 名词:首次亮相
 首次亮相:a debut performance. 首次登台演出。
 
 

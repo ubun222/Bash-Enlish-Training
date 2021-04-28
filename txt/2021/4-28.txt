@@ -16,12 +16,12 @@ argue				争论，主张
 bias				偏见，倾向
 correlate			相关联
 income				收入
-race				竞速，种族	
+race				竞速，种族
 gender				性别，性
 annual				每年的
 expect				预计
 score				得分
-section				部分，阶层	
+section				部分，阶层
 experience			经验，经历
 policy				政策，原则
 downplay			对...轻描淡写
@@ -34,6 +34,14 @@ the disadvantaged		下层社会
 lottery				碰运气的事
 minimum				最低限度
 qualification			资格，素质
+tinker				修补
+advocate			支持，拥护者
+equitable			公正的
+overhaul			全面修订
+inequitable			不公平的
+national			国家的
+association			协会，联合
+counsel				劝告，建议
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 figure out | BrE ˈfɪɡə, AmE ˈfɪɡjər | 名词:数字；算数；人物；人影；身材；插图；图案；人像；
 例句:努力找出你的愤怒之下潜藏的情感。
@@ -223,6 +231,18 @@ policy | BrE ˈpɒlɪsi, AmE ˈpɑləsi | 名词:政策；原则
 这是原则问题:it's a matter of policy
 
 
+
+counsellor | British, counselor US | BrE ˈkaʊns(ə)lə, AmE ˈkaʊns(ə)lər | 名词:咨询顾问，心理咨询师；辅导员；律师
+每个辅导员在上岗前都要接受密集培训。
+Each counsellor undergoes an intensive training programme before beginning work.
+
+
+
+
+
+
+
+
 aspect | BrE ˈaspɛkt, AmE ˈæspɛkt | 名词:部分；方面；朝向；景色；外表；
 从这一角度看:seen from this aspect
 研究某事物的各个方面:to examine every aspect of sth
@@ -284,6 +304,59 @@ minimum | BrE ˈmɪnɪməm, AmE ˈmɪnəməm | 名词:最低限度；最少量/�
 qualification | BrE ˌkwɒlɪfɪˈkeɪʃ(ə)n, AmE ˌkwɑləfəˈkeɪʃ(ə)n | 名词:资格；素质，能力；限定；先决条件
 取得/拥有某方面的资格:to gain/have a qualification in sth
 毫无保留地接受某事物:to accept sth without qualification
+
+
+
+
+tinker | BrE ˈtɪŋkə, AmE ˈtɪŋkər | 名词:白铁匠；尝试修理/不及物动词:对...修修补补，对...修修改改；摆弄；捣鼓
+我根本不在乎: I don't give a tinker's cuss or damn
+这毫无价值:it's not worth a tinker's cuss or damn
+试图修理某物:to have a tinker with sth
+我一直在琢磨参加海军的事:I've been tinkering with the idea of joining the navy
+
+
+
+advocate |BrE ˈadvəkeɪt, AmE ˈædvəˌkeɪt | 及物动词:支持/名词:拥护者；辩护人
+主张废除法律:to advocate abolishing the law
+
+
+
+
+
+equitable | BrE ˈɛkwɪtəb(ə)l, AmE ˈɛkwədəb(ə)l | 形容词:公正的
+他已经催促他们达成合理的妥协，给予休斯他所应得的报酬。
+He has urged them to come to an equitable compromise that gives Hughes his proper due
+
+
+
+
+
+
+national | BrE ˈnaʃ(ə)n(ə)l, AmE ˈnæʃ(ə)n(ə)l | 形容词:国家的；全国性的；国有的/名词:国民
+国旗:national flag
+国家大事: national affairs
+全国罢工: a national strike
+外国人:foreign nationals
+
+
+
+
+association | BrE əsəʊʃɪˈeɪʃ(ə)n,əsəʊsɪˈeɪʃ(ə)n, AmE əˌsoʊsiˈeɪʃ(ə)n,əˌsoʊʃiˈeɪʃ(ə)n | 名词:协会；联合；友谊，恋爱关系；关联；联想
+成立/加入一个协会:to form/join an association
+…之间的密切合作:a close association between …
+他同那位女士的交往:his association with the lady
+和某事有关联:to have associations with sth
+
+
+
+
+
+counsel | BrE ˈkaʊns(ə)l, AmE ˈkaʊnsəl | 名词:劝告；律师/及物动词:向...提供专业咨询；建议，劝告
+听从某人的劝告:to follow sb's counsel
+共同磋商:to take counsel together
+辩护/公诉律师: counsel for the defence/prosecution
+就某事物向某人提供咨询:to counsel sb about or on sth
+
 
 
 

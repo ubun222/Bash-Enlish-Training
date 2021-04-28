@@ -1,10 +1,13 @@
 Goliath				巨人
 a world of		大量的
 abstinent		节制的
+activity			活跃，活动
 addict				对...入迷的人
+admission			准许进入，承认
 admittedly			诚然
 adolescence			青春期
 adulthood			成年
+advocate			支持，拥护者
 affect				影响，打动，侵袭
 aggression			侵犯
 agonizing			使人极度痛苦的
@@ -12,14 +15,20 @@ alcohol		酒
 alcoholic		含酒精的
 algorithm			算法
 alienate		使某人感到被孤立
+annual				每年的
 annually			每年
 anxiety				焦虑
 appearing			呈现
+apply				申请，应用
+argue				争论，主张
 around		存在着的
+aspect				部分，方面
 associate		把...联系起来
+association			协会，联合
 at play			某种因素在大格局里起作用
 at the expense	以...为代价
 beverage		饮料
+bias				偏见，倾向
 bond			建立友谊
 broad			广的
 brutal				残忍的
@@ -45,17 +54,23 @@ conduct			组织
 conflict			冲突
 consolidation			巩固，加强
 conventional			传统的
+correlate			相关联
+counsel				劝告，建议
+counsellor			顾问
 crisis				危机
 cross over			转投
-debuted		首次亮相，出道
+curriculum			课程
+debut		首次亮相，出道
 demand			强求
 dent				凹痕，消减
 depression			忧郁
 desire				渴望
+disadvantaged			贫穷的
 diverse			多种多样的
 diversity		多样性
 domestic				国内的，家里的
 dopamine			多巴胺
+downplay			对...轻描淡写
 downward	向下的，朝下的
 dub				把...称为
 electrode			电极
@@ -64,38 +79,49 @@ emphasis			重视
 entrepreneur			企业家，创业者
 epiphenomenon			附带现象
 episode		事件
+equitable			公正的
 essentially	本质上
 exceed				超过，超出
 executive		经理
+expect				预计
+experience			经验，经历
 exposure			接触
 factor			因素
 famously			著名的
+figure out			想出，算出，弄明白
 fine				罚款，极好的
 flee		逃跑
 for the sake of		为了...起见
 fortune				运气，大笔财产
 frustrate	使...沮丧
 fuel				燃料，用作...的燃料
+gender				性别，性
 generally			一般的，普遍的
 giant				巨人，大公司
+govern				统治，支配，决定
+governing body			学校行政机构
 greener pastures	更好的事物或地方
 happen to		发生
 harm				损害
 have to do with		与...有关
+havoc				大破坏，大混乱
 heritage		遗产
 hinder				妨碍，阻挡
 hit		轰动一时的人物
 hook				勾住
 hypothesis			假设，学说
 imbibe		喝
-implant				移植物,植入
+implant				移植物，植入
 implicate			被涉及，牵连
 impose				强制执行，将...强加于人
+income				收入
 indeed				确实
 indicate			表明
 individual			个人，个体
+inequitable			不公平的
 inherent			与身俱来的
 initially			起初
+injunction			禁制令，警告，命令
 innovate	改革
 instant		即刻的
 intense				强烈的
@@ -105,8 +131,10 @@ investment	投资
 keep up with			跟上
 landmark				地标，里程碑
 landscape	形势
+lawsuit				诉讼
 line of defense	防线
 longevity			寿命
+lottery				碰运气的事
 lubricant		润滑剂
 made great strides		取得巨大进展
 mainstay	支柱，主要部分
@@ -116,6 +144,7 @@ mental				精神上的
 merchant				商人，商人的
 mighty				强大的
 military			军事的
+minimum				最低限度
 minority		少数
 miraculously	奇迹般的
 mitigate				缓和，减轻
@@ -123,10 +152,13 @@ monopolistic			垄断的
 monopoly	垄断
 mortality		死亡
 nail		钉子
+national			国家的
 nerve				神经
 neurological			神经的
 neurotransmitter		神经递质
+opponent			对手，反对者
 organ				器官
+overhaul			全面修订
 pandemic			疾病大范围流行的
 pass muster			被认为合格
 pave		铺地面
@@ -134,10 +166,14 @@ penalty				处罚
 perfect storm			祸不单行
 persist				持续存在，坚持不懈
 perspective		透视法，观点
+phase				阶段
+phase out			逐步废除
 physically			肉体的
+policy				政策，原则
 potential			潜在的，可能的
 praise				赞美
 predicament		尴尬的处境
+preliminary			初步的
 premise				前提
 presentation			报告，演讲
 prevent				阻止
@@ -147,7 +183,9 @@ property			特性
 provoke		激怒
 psychologist			心理学家
 publication			出版
+qualification			资格，素质
 quotidian			平常的
+race				竞速，种族
 racially		在种族上
 reach a crisis point		迫在眉睫
 reflect				反应
@@ -163,13 +201,16 @@ reward				报偿
 ritual		礼节
 roar			咆哮，大喊
 sacrifice			牺牲
+score				得分
 scrutiny			仔细的审查
+section				部分，阶层
 semiconductor			半导体
 shortage			缺乏
 significantly			显著的
 skepticism			怀疑态度
 slapped			拍，掌㧽
 sophisticate	复杂的
+speed up			增速
 spinal cord injuries		脊髓损伤
 start-up			初创公司
 statement			说明，表态
@@ -178,6 +219,7 @@ steady		持续的
 stimulate			促进
 stimulate			刺激
 stroke			一击，一笔
+submission			提交，屈服
 substance			物质
 substantial			可观的，显著的
 substitute			代替品
@@ -188,7 +230,9 @@ surrender	投降
 sync		同步
 synonymous	同义的
 temporary			短期的，临时的
+the disadvantaged		下层社会
 threshold	门槛，关口
+tinker				修补
 titan				巨人，巨头
 to a certain extent		从某种程度来说
 tough				刚强的，强硬的
@@ -349,6 +393,329 @@ chain | BrE tʃeɪn, AmE tʃeɪn | 名词:链条；束缚；一系列，一连�
 冲马桶:to pull the (lavatory) chain
 贫穷的枷锁:the chains of poverty
 他们排成了一条长龙:they formed a human chain
+
+
+
+
+
+
+
+figure out | BrE ˈfɪɡə, AmE ˈfɪɡjər | 名词:数字；算数；人物；人影；身材；插图；图案；人像；
+例句:努力找出你的愤怒之下潜藏的情感。
+Try to figure out what feeling underlies your anger.
+
+
+
+
+havoc | BrE ˈhavək, AmE ˈhævək | 名词:大破坏；大混乱
+对…造成严重破坏 ‹building, landscape›：to wreak havoc on sth
+垃圾食品使我消化不良：junk food plays havoc with my digestion
+
+
+
+
+admission | BrE ədˈmɪʃ(ə)n, AmE ədˈmɪʃən | 名词:准许进入；入场费；承认；复数形式:录取/住院/观众人数
+入境/加入组织:admission to a country/an organization
+获准入内:to gain admission (to)
+免费入场:admission free
+认罪/认错等:an admission of guilt/error etc.
+
+
+apply | BrE əˈplʌɪ, AmE əˈplaɪ | 不及物动词:申请；适用/及物动词:应用；涂/反身:致力于某事物 
+向学院/大学申请:to apply to college/university;
+那个理论不适用于这种情况:that theory cannot apply in this case
+踩刹车:to apply the brake
+将理论付诸实践:to apply the theory to the practice
+
+
+
+submission | BrE səbˈmɪʃ(ə)n, AmE səbˈmɪʃən | 名词:屈服，恭顺，投降；制服；提交；意见；看法
+把某人打得/吓唬得/饿得屈服:to beat/frighten/starve sb into submission
+提交提案的最后日期是什么时候？:when is the final date for the submission of proposals?
+我们的报告最迟明天必须提交:our submissions have to be in by tomorrow
+提出…的意见:to make a submission that …
+依我之见:in my submission
+
+
+
+govern | BrE ˈɡʌv(ə)n, AmE ˈɡəvərn | 及物动词:治理，统治；支配；决定；抑制；支配；调节/不及物动词:执政
+被某人/某组织统治:to be governed by sb/sth;
+指导食品生产的法律:laws that govern the manufacture of foodstuffs
+他的所作所为皆取决于一己私利:self-interest governs all his actions
+克制情绪:to govern one's feelings
+
+
+
+phase | BrE feɪz, AmE feɪz | 名词: 阶段；相/及物动词:分阶段进行
+经历困难时期:to go through a difficult phase
+叛逆期:the rebellious phase
+协调/不协调 :(harmony) to be in phase/out of phase;
+他们逐步取得了该公司的股份:they phased their acquisition of the company's shares
+
+
+
+lawsuit | BrE ˈlɔːsuːt, AmE ˈlɔˌsut | 名词:诉讼
+对某人提起诉讼: to bring a lawsuit against sb;
+
+
+
+
+
+
+speed-up | AmE ˈspid ˌəp | 名词:增速
+生产的加速/工作效率的提高:a speed-up in production/the work rate
+
+
+
+
+
+
+preliminary | BrE prɪˈlɪmɪn(ə)ri, AmE prəˈlɪməˌnɛri | 形容词:初步的；预赛的/名词:初步活动/复数:预赛；客套
+先于…的:preliminary to …
+开场白:preliminary remarks
+预赛:preliminary contests
+
+
+
+
+injunction | BrE ɪnˈdʒʌŋ(k)ʃ(ə)n, AmE ɪnˈdʒəŋ(k)ʃ(ə)n | 名词:禁制令；警告，命令
+请求强制令:to seek an injunction
+做某事的命令:an injunction to do sth
+
+
+
+
+
+opponent | BrE əˈpəʊnənt, AmE əˈpoʊnənt | 名词:对手，反对者
+那位摔跤手给对手来了个头部擒拿。
+The wrestler put his opponent into a head hold.
+
+
+
+
+
+
+argue | BrE ˈɑːɡjuː, AmE ˈɑrɡju | 不及物动词:争论；辩论；提供证明/及物动词:主张；表明；说服；辩论
+为某事争辩:to argue over or about sth;
+据理反对/力争某事: to argue against/for sth;
+说服某人做/不做某事:to argue sb into/out of doing sth;
+它说明了我们的事业是正义的:it argued the rightness of our cause
+
+
+
+bias | BrE ˈbʌɪəs, AmE ˈbaɪəs | 复数:倾向；偏见；歧视；斜纹；偏差/及物动词:使有偏见
+左翼倾向:a left-wing bias
+政治/媒体偏见:political/media bias
+种族/性别歧视:racial/sexual bias
+使某人对…产生偏见/使某人偏向…:to bias sb against/in favour of …
+
+
+
+correlate | BrE ˈkɒrələt, AmE ˈkɔrəˌleɪt | 不及物动词:相关联/及物动词:显示...的关联
+与某事物相关:to correlate with sth;
+显示某物与某事物相关:to correlate sth with sth;
+显示某物和某事物的相关性:to correlate sth and sth;
+
+
+
+
+income | BrE ˈɪnkʌm, AmE ˈɪnˌkəm | 名词:收入
+（赚钱的）收入来源:a (profitable) source of income
+量入为出:to live within one's income
+入不敷出:to live beyond one's income
+年薪2万英镑:to be on an income of £20,000 per year
+
+
+
+
+race | BrE reɪs, AmE reɪs | 名词:速度竞赛；匆忙；竞争；急流/复数:赛马会/及物动词:同...竞速；使...参加竞速/不及物:参加速度竞赛；/名词:种族；民族
+5公里/200米速度竞赛:a five-kilometre/200-metre race
+总统/市长竞选:the presidential/mayoral race
+征服太空/登月的竞争:the race to conquer space/reach the moon
+白种人/蒙古人种:the Caucasian/Mongolian race
+
+
+gender | BrE ˈdʒɛndə, AmE ˈdʒɛndər | 名词:性别；性
+男性和女性:male and female genders
+阴性:feminine gender
+
+
+
+
+
+annual | BrE ˈanjʊəl, AmE ˈænj(u)əl | 形容词:一年一次的；年度的；持续一年的/名词:年刊；一年生植物
+年租金:annual rent
+年收入:annual income
+年度预算:annual budget
+
+
+
+expect | BrE ɪkˈspɛkt,ɛkˈspɛkt, AmE ɪkˈspɛkt | 及物动词:预计；指望；等待；要求；猜想；怀着/不及物动词:预计；要求；猜想；怀孕
+预料某人会做某事:to expect sb to do sth;
+相当正常:to be expected;
+指望得到某人的同情/帮助:to expect sympathy/help from sb;
+这要求太过分:it's too much to expect
+
+
+
+score | BrE skɔː, AmE skɔr | 名词:得分；分数；约二十个；总谱，配乐；根据；夙愿；实情；欠账；刻痕/及物动词:赢得，取得；给...打分；在...上刻痕，划开；改编；把...弄到手/不及物动词:得分；记分；成功，胜出
+最终比分是二比一: the final score was two-one
+记分:to keep the score
+高分/低分: a good/poor score
+击中得一分/留下好印象/大获成功:to score a hit
+
+
+section | BrE ˈsɛkʃ(ə)n, AmE ˈsɛkʃ(ə)n | 名词:部分，节；阶层，部门，乐器组；小分队；路段；截图；切面；地段；平方英里US/及物动词:把...分成部分；切开
+第1节第3段:section 1, paragraph 3
+火车的前部/后部:the front/rear section of the train
+公司的财务部:the finance section of the company
+商业区/住宅区:the business/residential section
+
+
+experience | BrE ɪkˈspɪərɪəns,ɛkˈspɪərɪəns, AmE ˌɪkˈspɪriəns | 名词:经验；经历/及物动词:经历；体验，体会
+有某事物/做某事的经验:to have experience of sth/doing sth;
+了解某人/某事物:to have experience with sb/sth;
+获得经验:to acquire or gain experience
+亲身经历某事:to experience sth at first hand or personally
+
+
+
+
+policy | BrE ˈpɒlɪsi, AmE ˈpɑləsi | 名词:政策；原则
+外交/经济/社会政策:foreign/economic/social policy
+执行政策:to carry out or implement a policy
+我们公司规定不准吸烟:our company has a no-smoking policy
+这是原则问题:it's a matter of policy
+
+
+
+counsellor | British, counselor US | BrE ˈkaʊns(ə)lə, AmE ˈkaʊns(ə)lər | 名词:咨询顾问，心理咨询师；辅导员；律师
+每个辅导员在上岗前都要接受密集培训。
+Each counsellor undergoes an intensive training programme before beginning work.
+
+
+
+
+
+
+
+
+aspect | BrE ˈaspɛkt, AmE ˈæspɛkt | 名词:部分；方面；朝向；景色；外表；
+从这一角度看:seen from this aspect
+研究某事物的各个方面:to examine every aspect of sth
+面朝西的房子:a house with a westerly aspect
+宜人的景色:a pleasant aspect
+
+
+
+application | BrE aplɪˈkeɪʃ(ə)n, AmE ˌæpləˈkeɪʃ(ə)n | 名词:申请；实施，应用，用途；敷用；勤奋；应用程序
+提出求职申请:to make a job application
+股票的申购:application for shares
+填写求职/护照申请表:to fill out a job/passport application
+或许凭常识就能解决这个问题:the application of common sense might resolve the problem
+
+
+curriculum | BrE kəˈrɪkjʊləm, AmE kəˈrɪkjələm | 名词:课程
+列入课程:to be on the curriculum;
+课外的:extra-curricular
+
+
+
+
+
+
+activity | BrE akˈtɪvɪti, AmE ækˈtɪvədi | 名词:活跃；活动
+忙忙碌碌:to hum with activity
+镇中心非常热闹:the town centre was a scene of great activity
+重新开始/中断活动:to resume/break off one's activities
+
+
+
+
+disadvantaged | BrE dɪsədˈvɑːntɪdʒd, AmE ˌdɪsədˈvæn(t)ɪdʒd | 形容词:贫穷的
+下层社会:the disadvantaged
+居住在市中心贫民区的孩子在教育方面可能处于不利的地位。
+Children living in inner-city areas may be educationally disadvantaged.
+
+
+
+
+
+lottery | BrE ˈlɒt(ə)ri, AmE ˈlɑdəri | 名词:抽彩，碰运气的事
+彩票抽奖为数百万人提供正当娱乐。
+The lottery provides harmless fun for millions.
+
+
+
+
+
+minimum | BrE ˈmɪnɪməm, AmE ˈmɪnəməm | 名词:最低限度；最少量/形容词:最低的；最少的
+把某物保持在最低限度:to keep sth to a or the minimum
+最低值: the bare or absolute minimum
+以最小值:at the minimum
+
+
+
+
+
+qualification | BrE ˌkwɒlɪfɪˈkeɪʃ(ə)n, AmE ˌkwɑləfəˈkeɪʃ(ə)n | 名词:资格；素质，能力；限定；先决条件
+取得/拥有某方面的资格:to gain/have a qualification in sth
+毫无保留地接受某事物:to accept sth without qualification
+
+
+
+
+tinker | BrE ˈtɪŋkə, AmE ˈtɪŋkər | 名词:白铁匠；尝试修理/不及物动词:对...修修补补，对...修修改改；摆弄；捣鼓
+我根本不在乎: I don't give a tinker's cuss or damn
+这毫无价值:it's not worth a tinker's cuss or damn
+试图修理某物:to have a tinker with sth
+我一直在琢磨参加海军的事:I've been tinkering with the idea of joining the navy
+
+
+
+advocate |BrE ˈadvəkeɪt, AmE ˈædvəˌkeɪt | 及物动词:支持/名词:拥护者；辩护人
+主张废除法律:to advocate abolishing the law
+
+
+
+
+
+equitable | BrE ˈɛkwɪtəb(ə)l, AmE ˈɛkwədəb(ə)l | 形容词:公正的
+他已经催促他们达成合理的妥协，给予休斯他所应得的报酬。
+He has urged them to come to an equitable compromise that gives Hughes his proper due
+
+
+
+
+
+
+national | BrE ˈnaʃ(ə)n(ə)l, AmE ˈnæʃ(ə)n(ə)l | 形容词:国家的；全国性的；国有的/名词:国民
+国旗:national flag
+国家大事: national affairs
+全国罢工: a national strike
+外国人:foreign nationals
+
+
+
+
+association | BrE əsəʊʃɪˈeɪʃ(ə)n,əsəʊsɪˈeɪʃ(ə)n, AmE əˌsoʊsiˈeɪʃ(ə)n,əˌsoʊʃiˈeɪʃ(ə)n | 名词:协会；联合；友谊，恋爱关系；关联；联想
+成立/加入一个协会:to form/join an association
+…之间的密切合作:a close association between …
+他同那位女士的交往:his association with the lady
+和某事有关联:to have associations with sth
+
+
+
+
+
+counsel | BrE ˈkaʊns(ə)l, AmE ˈkaʊnsəl | 名词:劝告；律师/及物动词:向...提供专业咨询；建议，劝告
+听从某人的劝告:to follow sb's counsel
+共同磋商:to take counsel together
+辩护/公诉律师: counsel for the defence/prosecution
+就某事物向某人提供咨询:to counsel sb about or on sth
+
+
+
 
 
 
@@ -1280,7 +1647,7 @@ threshold | BrE ˈθrɛʃəʊld,ˈθrɛʃˌhəʊld, AmE ˈθrɛʃˌ(h)oʊld | �
 
 
 
-debuted | BrE ˈdeɪbjuː,ˈdɛbjuː, AmE deɪˈbju | 名词:首次亮相
+debut | BrE ˈdeɪbjuː,ˈdɛbjuː, AmE deɪˈbju | 名词:首次亮相
 首次亮相:a debut performance. 首次登台演出。
 
 

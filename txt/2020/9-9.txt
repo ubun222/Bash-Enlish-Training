@@ -2,7 +2,7 @@ chip				芯片，薯条
 entrepreneur			企业家，创业者
 start-up			初创公司
 unveil			展示，介绍
-implant				移植物,植入
+implant				移植物，植入
 electrode			电极
 organ				器官
 neurological			神经的
