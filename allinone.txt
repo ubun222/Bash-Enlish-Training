@@ -1,5 +1,6 @@
 Goliath				巨人
 a world of		大量的
+abandon			放弃
 abstinent		节制的
 activity			活跃，活动
 addict				对...入迷的人
@@ -7,10 +8,12 @@ admission			准许进入，承认
 admittedly			诚然
 adolescence			青春期
 adulthood			成年
+adverse			不利的
 advocate			支持，拥护者
 affect				影响，打动，侵袭
 aggression			侵犯
 agonizing			使人极度痛苦的
+agreement			同意，协议
 alcohol		酒
 alcoholic		含酒精的
 algorithm			算法
@@ -27,9 +30,16 @@ associate		把...联系起来
 association			协会，联合
 at play			某种因素在大格局里起作用
 at the expense	以...为代价
+ban				明令禁止，禁令
+belt				腰带，地带
+benefit			益处
 beverage		饮料
 bias				偏见，倾向
+bilateral			双边的
+bind				捆，束缚
+blast				爆炸，痛斥
 bond			建立友谊
+bound				一定的
 broad			广的
 brutal				残忍的
 campaign				战役，运动
@@ -46,6 +56,7 @@ cobweb		蜘蛛网
 code			密码，编码
 coerce		强迫
 coffin		棺材
+commission			委员会，委托，使用中
 compatible		可共存的，兼容的
 concern				担心
 conclude				结束，推断，决定
@@ -60,10 +71,12 @@ counsellor			顾问
 crisis				危机
 cross over			转投
 curriculum			课程
+deal with			处理
 debut		首次亮相，出道
 demand			强求
 dent				凹痕，消减
 depression			忧郁
+describe			描述，形容
 desire				渴望
 disadvantaged			贫穷的
 diverse			多种多样的
@@ -75,7 +88,9 @@ downward	向下的，朝下的
 dub				把...称为
 electrode			电极
 elite				精英
+embassy			大使馆
 emphasis			重视
+end up				最终
 entrepreneur			企业家，创业者
 epiphenomenon			附带现象
 episode		事件
@@ -88,11 +103,14 @@ experience			经验，经历
 exposure			接触
 factor			因素
 famously			著名的
+federal			联邦制的
 figure out			想出，算出，弄明白
 fine				罚款，极好的
 flee		逃跑
 for the sake of		为了...起见
 fortune				运气，大笔财产
+founder			创建者
+framework			构架
 frustrate	使...沮丧
 fuel				燃料，用作...的燃料
 gender				性别，性
@@ -115,12 +133,15 @@ implant				移植物，植入
 implicate			被涉及，牵连
 impose				强制执行，将...强加于人
 income				收入
+inconsistent			反常的，不一致的
 indeed				确实
 indicate			表明
 individual			个人，个体
 inequitable			不公平的
+infrastructure		基础设施
 inherent			与身俱来的
 initially			起初
+initiative			主动性
 injunction			禁制令，警告，命令
 innovate	改革
 instant		即刻的
@@ -140,11 +161,13 @@ made great strides		取得巨大进展
 mainstay	支柱，主要部分
 majority		大多数
 make appointment	预约
+memorandum			备忘录
 mental				精神上的
 merchant				商人，商人的
 mighty				强大的
 military			军事的
 minimum				最低限度
+minister			部长
 minority		少数
 miraculously	奇迹般的
 mitigate				缓和，减轻
@@ -159,7 +182,10 @@ neurotransmitter		神经递质
 opponent			对手，反对者
 organ				器官
 overhaul			全面修订
+overseas			外国的
 pandemic			疾病大范围流行的
+parliament			议会
+participation			参加
 pass muster			被认为合格
 pave		铺地面
 penalty				处罚
@@ -177,9 +203,12 @@ preliminary			初步的
 premise				前提
 presentation			报告，演讲
 prevent				阻止
+previously			以前
 profit				利润
+project			项目
 prompt			促使
 property			特性
+provocative			挑衅的
 provoke		激怒
 psychologist			心理学家
 publication			出版
@@ -190,6 +219,7 @@ racially		在种族上
 reach a crisis point		迫在眉睫
 reflect				反应
 reflection		映像
+reform				改良，改革
 regulate				控制，调节
 regulator			监管者
 repeatedly			不停的，一再
@@ -202,11 +232,14 @@ ritual		礼节
 roar			咆哮，大喊
 sacrifice			牺牲
 score				得分
+scrap				碎片，打架；取消
 scrutiny			仔细的审查
 section				部分，阶层
 semiconductor			半导体
 shortage			缺乏
+sign				符号，签订
 significantly			显著的
+sincerity			真诚
 skepticism			怀疑态度
 slapped			拍，掌㧽
 sophisticate	复杂的
@@ -230,6 +263,7 @@ surrender	投降
 sync		同步
 synonymous	同义的
 temporary			短期的，临时的
+territory			领土，地盘
 the disadvantaged		下层社会
 threshold	门槛，关口
 tinker				修补
@@ -242,7 +276,9 @@ treatise			专著
 trial				试验
 tyrannical			残暴的
 unaffiliated			非附属的
+unreasonable			不讲道理的，过分的
 unveil			展示，介绍
+unwise				愚蠢的
 up and running			正常运营
 urge				欲望
 vast			巨大的
@@ -393,6 +429,283 @@ chain | BrE tʃeɪn, AmE tʃeɪn | 名词:链条；束缚；一系列，一连�
 冲马桶:to pull the (lavatory) chain
 贫穷的枷锁:the chains of poverty
 他们排成了一条长龙:they formed a human chain
+
+
+
+
+
+
+
+blast | BrE blɑːst, AmE blæst | 名词:爆炸；一阵；冲击波；突然的响声；功率；严厉的批评；狂欢/及物动词:炸；炸出；向...猛吹；痛斥；猛踢/不及物动词:突然鸣响；疾驰/感叹:该死
+爆炸后果:blast effect
+阵阵热浪:blasts of hot air
+他短促地按了按喇叭:he gave a quick blast on the horn
+机器在全速运转:the machine is operating at full blast
+
+
+
+belt | BrE bɛlt, AmE bɛlt | 名词:腰带，安全带，弹药袋；地带，气候带，星带；传送带；段级标识带；重击/及物动词:用带子系紧；用皮带抽；猛击/不及物动词:飞奔，疾驰
+省吃俭用:to tighten one's belt
+不公正:below the belt
+股票经纪人聚居区:the stockbroker belt
+猛击某人:to give sb a belt
+
+
+
+federal | BrE ˈfɛd(ə)r(ə)l, AmE ˈfɛd(ə)rəl | 形容词:联邦制的；联邦政府的
+联邦制国家:a country with a federal system
+US 联邦政府: the federal government or administration
+联邦法院:federal court
+US 过分夸大某事:to make a federal case out of sth
+
+
+
+scrap | BrE skrap, AmE skræp | 名词:碎片，片段，点滴；下脚料，面包屑；少量；废金属；打架争吵/及物动词:报废；取消，废除/不及物:打架，争吵-scrapping-scrapped
+碎布料:scraps of material
+零星消息/信息:scraps of news/information
+他一点儿活儿都不干！:he never does a scrap of work!
+两国政府停止了和谈:the two governments scrapped the peace talks
+
+
+
+memorandum | BrE mɛməˈrandəm, AmE ˌmɛməˈrændəm |
+noun plural memoranda | ˌmeməˈrændə | or memorandums
+拟订一份备忘录:to prepare or draw up a memorandum;
+一份给某人/某人给某人的备忘便条: a memorandum to/from sb to sb;
+
+
+
+framework | BrE ˈfreɪmwəːk, AmE ˈfreɪmˌwərk | 名词:构架；体系，结构
+在宪法的框架内:within the framework of the constitution
+
+
+
+
+
+
+sign | BrE sʌɪn, AmE saɪn | 名词:符号；公告，路标，提示牌，招牌；手势；迹象；征兆；星座/及物动词:签，在...上签名，签订；和...签约；用手语表演；以路牌指示；示意/不及物动词:签名；签约；打手语
+按照路标的指引去市中心:follow the signs for the city centre
+她点头示意我们坐下:she nodded as a sign for us to sit down
+人们经常通过送花表达爱意:flowers are often given as a sign of affection
+签合同:to sign a contract
+
+
+
+reform | BrE rɪˈfɔːm, AmE rəˈfɔrm | 及物动词:改良，改造，改革/不及物:改过自新/名词:改革，变革
+刑事司法/刑罚制度的改革:the reform of criminal justice/the penal system
+意义深远/根本性/大刀阔斧的变革:far-reaching/radical/sweeping reforms
+
+
+
+
+
+commission | BrE kəˈmɪʃ(ə)n, AmE kəˈmɪʃən | 名词:委员会；佣金；手续费；委托；委任状；犯罪；在使用中/及物动词:委托创作；授予...委任状；将...投入使用
+人权委员会:a commission on human rights
+受委托做某事:to have a commission to do sth
+新潜艇将在6月投入服役:the new submarine will be in commission in June
+约作者写小说:to commission an author to write a novel
+
+
+
+
+minister | BrE ˈmɪnɪstə, AmE ˈmɪnəstər | 名词:部长；外交使节；牧师/不及物动词:照料某人/照顾某人的需要
+卫生部长受到来自各方的责难。
+The health minister has come under fire from all sides.
+
+
+
+
+describe | BrE dɪˈskrʌɪb, AmE dəˈskraɪb | 及物动词:描述；形容
+称某人为白痴:to describe sb as an idiot
+这可以说是漂亮:it could be described as pretty
+
+
+
+
+
+inconsistent | BrE ɪnkənˈsɪst(ə)nt, AmE ˌɪnkənˈsɪst(ə)nt | 形容词:反常的，不一致的；前后矛盾的；反复无常的
+与某事物相悖:to be inconsistent with sth;
+
+
+
+
+adverse | BrE ˈadvəːs, AmE ædˈvərs,ˈædˌvərs | 形容词:不利的
+恶劣的天气:adverse weather conditions
+逆境/逆风:adverse circumstances/winds
+
+
+
+
+unreasonable | BrE ʌnˈriːz(ə)nəb(ə)l, AmE ˌənˈriz(ə)nəb(ə)l | 形容词:不讲道理的；过分的
+在晚得离谱的时候:at an unreasonable hour
+
+
+
+
+provocative | BrE prəˈvɒkətɪv, AmE prəˈvɑkədɪv | 形容词:撩人的；引起争议的，挑衅的
+他是在蓄意挑衅:he is being deliberately provocative
+
+
+
+
+
+embassy | BrE ˈɛmbəsi, AmE ˈɛmbəsi | 名词:大使馆
+又有300人在美国大使馆避难。
+A further 300 people have taken refuge in the US embassy.
+
+
+
+
+
+sincerity | BrE sɪnˈsɛrəti, AmE sɪnˈsɛrədi | 名词:真诚
+十分坦诚地:in all sincerity
+和我谈过话的人中没有一个怀疑他作为一个政治家的诚意。
+Nobody that I spoke to doubted his sincerity as a politician.
+
+
+
+
+
+bind | BrE bʌɪnd, AmE baɪnd | 及物动词:捆，束，包扎；使结合；束缚；冻结，粘合；给...镶边；装订/不及物动词:冻结，粘合；锁死/名词:麻烦事；困境
+把某物扎成一捆一捆的:to bind sth into bundles
+被捆住手脚塞住嘴:bound and gagged
+加一个鸡蛋让混合料黏合在一起:bind the mixture with an egg
+使某人保证不泄密:to bind sb to secrecy
+
+
+
+bound | BrE baʊnd, AmE baʊnd | 形容词:一定的；有义务的；有封皮的
+一定会做某事:to be bound to do sth;
+按照风俗/传统必须参加典礼:to be bound by custom/tradition to take part in the ceremony
+你不必再受自己许诺的约束:you no longer need to feel bound by the promise you made
+British 我敢肯定:I'll be bound
+
+
+
+bilateral | BrE bʌɪˈlat(ə)r(ə)l, AmE ˌbaɪˈlædərəl | 形容词:双边的；在两侧的
+古代两国的瓷器贸易不但开创和提升了双边的经济联系，而且为西方世界更多地了解中国打开了一扇窗口。
+The trade for porcelain not only promoted the bilateral economic contact, but also opened a window for the western world to know more about china.
+
+
+
+
+ban | BrE ban, AmE bæn | 及物动词:明令禁止/名词:禁令
+禁止某人做某事:to ban sb from doing sth
+市中心禁止车辆通行: traffic is banned from the city centre
+禁烟令:a smoking ban
+颁布/解除对某事物的禁令:to impose/lift a ban on sth
+
+
+
+
+
+parliament | BrE ˈpɑːləm(ə)nt, AmE ˈpɑrləmənt | 名词:议会/专有名词:英国议会
+我们现已进入了本届议会的后半任期
+We are now into the second half of the parliament.
+
+
+
+
+previously | BrE ˈpriːvɪəsli, AmE ˈpriviəsli | 副词:以前；之前
+两年/两天前:two years/days previously
+在预定地点:at a previously arranged location
+
+
+
+
+
+agreement | BrE əˈɡriːm(ə)nt, AmE əˈɡrimənt | 名词:意见一致；同意；协议
+对于解决问题的方法，意见分歧不小:there is little agreement as to what should be done about the problem
+她答应付汽油钱，真是帮了大忙:her agreement to pay for the petrol helped a great deal
+起草/签订协议:to draw up/sign an agreement
+裁军协议:an agreement on disarmament
+
+
+
+
+overseas | AmE ˌoʊvərˈsiz | 副词:在国外/形容词：外国的，在国外的
+来自海外:from overseas
+得到一个去海外工作的职务:to get an overseas posting
+
+
+
+
+
+
+territory | BrE ˈtɛrɪt(ə)ri, AmE ˈtɛrəˌtɔri | 名词:领土，地盘；准州，地方，区；地区；领域
+是难免的事:to go with the territory
+这块新领土将会使加拿大陆地面积扩展1/5以上。
+The new territory would extend over one-fifth of Canada's land mass.
+
+
+
+
+
+participation | BrE pɑːˌtɪsɪˈpeɪʃn, AmE pɑrˌtɪsəˈpeɪʃ(ə)n | 名词:参加
+他们的参与受一些重要条款的限制。
+Their participation is subject to a number of important provisos.
+对某事的参与:participation in sth;
+
+
+
+
+infrastructure | BrE ˈɪnfrəstrʌktʃə, AmE ˈɪnfrəˌstrək(t)ʃər | 名词:基础设施
+经年内战已破坏了国家的基础设施，摧毁了其社会结构。
+Years of civil war have wrecked the country's infrastructure and destroyed its social fabric.
+
+
+
+
+project | BrE ˈprɒdʒɛkt, AmE ˈprɑˌdʒɛkt | 名词:项目，方案，任务；研究课题；住宅区/及物动词:投掷，发射，传送；放映，投射；展现；预测；/不及物动词:伸出；突出
+项目经理/赞助者:a project manager/sponsor
+我的下一个工作是做一只书橱:my next project is to make a bookcase
+一项第三世界发展规划:a third world development project
+
+
+
+
+founder | BrE ˈfaʊndə, AmE ˈfaʊndər | 名词:创建者/不及物动词:沉没；失败，破灭
+渔船触礁沉没:the fishing vessel foundered on the rocks
+在某事上失败:to founder on sth;
+会谈在改革这一问题上失败了:the talks foundered on the issue of reform
+
+
+
+
+unwise | BrE ʌnˈwʌɪz, AmE ˌənˈwaɪz | 形容词:愚蠢的，轻率的
+（某人）做某事是不明智的:it is unwise (of sb) to do sth;
+
+
+
+
+
+
+initiative | BrE ɪˈnɪʃətɪv, AmE ɪˈnɪʃ(i)ədɪv | 名词:主动性；主动行为；主动权；
+自己想办法吧！:use your initiative!
+主动地:on one's own initiative
+采取主动:to take the initiative
+和平倡议:peace initiative(s)
+
+
+
+
+benefit | BrE ˈbɛnɪfɪt, AmE ˈbɛnəfɪt | 名词:益处，好处；募捐活动；救济金；额外待遇；/及物动词:有益于/不及物:获益
+社会效益:social benefits
+为了造福人类:for the benefit of humankind
+借助后见之明/经验:with the benefit of hindsight/experience
+利大于弊:the benefits outweigh the disadvantages
+
+
+
+
+
+abandon | BrE əˈband(ə)n, AmE əˈbændən | 及物动词:抛弃，离弃；放弃，中止，戒除/反身:/名词:放纵
+抛弃某人让其听天由命:to abandon sb to his/her fate
+擅离职守:to abandon one's post
+恣意享乐:to abandon oneself to a life of pleasure
+陷入绝望:to abandon oneself to despair
+
+
 
 
 
