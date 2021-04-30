@@ -2,6 +2,7 @@ Goliath				巨人
 a world of		大量的
 abandon			放弃
 abstinent		节制的
+accordingly			因此，相应的
 activity			活跃，活动
 addict				对...入迷的人
 admission			准许进入，承认
@@ -14,6 +15,7 @@ affect				影响，打动，侵袭
 aggression			侵犯
 agonizing			使人极度痛苦的
 agreement			同意，协议
+airfare				飞机票价
 alcohol		酒
 alcoholic		含酒精的
 algorithm			算法
@@ -25,6 +27,7 @@ appearing			呈现
 apply				申请，应用
 argue				争论，主张
 around		存在着的
+as of				在...时
 aspect				部分，方面
 associate		把...联系起来
 association			协会，联合
@@ -33,6 +36,7 @@ at the expense	以...为代价
 ban				明令禁止，禁令
 belt				腰带，地带
 benefit			益处
+bet				赌
 beverage		饮料
 bias				偏见，倾向
 bilateral			双边的
@@ -42,12 +46,14 @@ bond			建立友谊
 bound				一定的
 broad			广的
 brutal				残忍的
+burn				烧毁
 campaign				战役，运动
 catalyst		促进因素
 caution			小心
 census			调查，统计
 chain				链条，一系列
 character		性格，特性，字
+chief				领袖，首要的
 chip				芯片，薯条
 clinical			临床的
 closely				紧紧的，接近的
@@ -64,6 +70,7 @@ condition			疾病
 conduct			组织
 conflict			冲突
 consolidation			巩固，加强
+constraint			限制，强迫
 conventional			传统的
 correlate			相关联
 counsel				劝告，建议
@@ -78,6 +85,7 @@ dent				凹痕，消减
 depression			忧郁
 describe			描述，形容
 desire				渴望
+directe				直接的，指示
 disadvantaged			贫穷的
 diverse			多种多样的
 diversity		多样性
@@ -85,8 +93,11 @@ domestic				国内的，家里的
 dopamine			多巴胺
 downplay			对...轻描淡写
 downward	向下的，朝下的
+drive up			提高
 dub				把...称为
+economist			经济学家
 electrode			电极
+eligible			有资格的，合意的
 elite				精英
 embassy			大使馆
 emphasis			重视
@@ -99,6 +110,7 @@ essentially	本质上
 exceed				超过，超出
 executive		经理
 expect				预计
+expectation			预料，希望
 experience			经验，经历
 exposure			接触
 factor			因素
@@ -124,6 +136,7 @@ harm				损害
 have to do with		与...有关
 havoc				大破坏，大混乱
 heritage		遗产
+hesitant			犹豫的
 hinder				妨碍，阻挡
 hit		轰动一时的人物
 hook				勾住
@@ -132,10 +145,12 @@ imbibe		喝
 implant				移植物，植入
 implicate			被涉及，牵连
 impose				强制执行，将...强加于人
+inch				少许，缓慢移动
 income				收入
 inconsistent			反常的，不一致的
 indeed				确实
 indicate			表明
+indication			迹象
 individual			个人，个体
 inequitable			不公平的
 infrastructure		基础设施
@@ -153,6 +168,7 @@ keep up with			跟上
 landmark				地标，里程碑
 landscape	形势
 lawsuit				诉讼
+leisure				空闲
 line of defense	防线
 longevity			寿命
 lottery				碰运气的事
@@ -161,6 +177,8 @@ made great strides		取得巨大进展
 mainstay	支柱，主要部分
 majority		大多数
 make appointment	预约
+make up				组成，补偿
+massive				大的，严重的
 memorandum			备忘录
 mental				精神上的
 merchant				商人，商人的
@@ -176,9 +194,11 @@ monopoly	垄断
 mortality		死亡
 nail		钉子
 national			国家的
+nationally			全国性的
 nerve				神经
 neurological			神经的
 neurotransmitter		神经递质
+normality			正常状态
 opponent			对手，反对者
 organ				器官
 overhaul			全面修订
@@ -186,6 +206,7 @@ overseas			外国的
 pandemic			疾病大范围流行的
 parliament			议会
 participation			参加
+particularly			专门，特别
 pass muster			被认为合格
 pave		铺地面
 penalty				处罚
@@ -201,9 +222,11 @@ praise				赞美
 predicament		尴尬的处境
 preliminary			初步的
 premise				前提
+premium				附加费，优质的
 presentation			报告，演讲
 prevent				阻止
 previously			以前
+prime time			黄金时间
 profit				利润
 project			项目
 prompt			促使
@@ -230,22 +253,29 @@ retreat				改变主意
 reward				报偿
 ritual		礼节
 roar			咆哮，大喊
+roll-out			首次发布
+route				路途
 sacrifice			牺牲
 score				得分
-scrap				碎片，打架；取消
+scrap				碎片，打架，取消
 scrutiny			仔细的审查
 section				部分，阶层
 semiconductor			半导体
 shortage			缺乏
+shot up				喷出
 sign				符号，签订
+significant			重要的
 significantly			显著的
 sincerity			真诚
 skepticism			怀疑态度
-slapped			拍，掌㧽
+slap			拍，掌㧽
 sophisticate	复杂的
+sort				种类，某种，分类
 speed up			增速
+spike				尖，尖峰
 spinal cord injuries		脊髓损伤
 start-up			初创公司
+state				状况，说明
 statement			说明，表态
 steadily			逐步的，平静的
 steady		持续的
@@ -266,6 +296,7 @@ temporary			短期的，临时的
 territory			领土，地盘
 the disadvantaged		下层社会
 threshold	门槛，关口
+timetable			时间表
 tinker				修补
 titan				巨人，巨头
 to a certain extent		从某种程度来说
@@ -274,13 +305,17 @@ trajectory	轨道
 treadmill			跑步机
 treatise			专著
 trial				试验
+turn out			结果是，出现
 tyrannical			残暴的
 unaffiliated			非附属的
 unreasonable			不讲道理的，过分的
 unveil			展示，介绍
 unwise				愚蠢的
 up and running			正常运营
+uptick				小幅增加
 urge				欲望
+vaccination			接种
+vaccine				疫苗
 vast			巨大的
 veteran				老兵
 violation			违反，侵犯
@@ -429,6 +464,226 @@ chain | BrE tʃeɪn, AmE tʃeɪn | 名词:链条；束缚；一系列，一连�
 冲马桶:to pull the (lavatory) chain
 贫穷的枷锁:the chains of poverty
 他们排成了一条长龙:they formed a human chain
+
+
+
+
+
+
+
+bet | BrE bɛt, AmE bɛt | 及物动词:赌，用...打赌，用...下注；敢说/不及物动词:赌博；确信；/名词:打赌；赌注；选择；推测
+有绝对把握…:you can bet your life or your bottom dollar or your boots that
+你敢肯定吗？:you want to bet on it?
+当然！:you bet!
+赌赢/赌输:to win/lose a bet
+
+
+
+
+timetable | BrE ˈtʌɪmteɪb(ə)l, AmE ˈtaɪmˌteɪbəl | 名词:时间表，日程表；课程表；时刻表/及物动词:把...排入时间表/时刻表/课程表
+制订会议/谈判的日程表:to set up a timetable of meetings/negotiations
+按严格的时间表运作:to work to a strict timetable
+汽车/火车时刻表:a bus/train timetable
+公共汽车定于上午11:30发车:the bus is timetabled to leave at 11.30 a.m.
+
+
+
+normality | BrE nɔːˈmalɪti, AmE nɔrˈmælədi | 名词:正常状态
+恢复常态:to return to normality
+
+
+
+
+
+
+direct | BrE dɪˈrɛkt,dʌɪˈrɛkt, AmE dəˈrɛkt,daɪˈrɛkt | 形容词:直的，直系的；直达的，直接的；直率的。直截了当的；截然的/副词:直达地；直接地/及物动词:给...指路；指挥；使...转向，把...对准，使...集中；使...针对，把...转到；管理；指示；导演/不及物:担任导演
+（没）有直接危险的:in (no) direct danger
+与某物截然相反的一面:the direct opposite of sth
+请问到车站怎么走？:can you direct me to the station?
+命令某人做某事:to direct sb to do sth;
+
+
+
+
+eligible | BrE ˈɛlɪdʒɪb(ə)l, AmE ˈɛlədʒəb(ə)l | 形容词:有资格的；合意的
+有资格做某事:to be eligible for sth/to do sth;
+他有投票资格:he is eligible to vote
+
+
+
+
+
+vaccination | BrE vaksɪˈneɪʃ(ə)n, AmE ˌvæksəˈneɪʃ(ə)n | 名词:接种
+某疫苗的接种:a vaccination against or for sth;
+接种疫苗:to have a vaccination
+接种计划:a vaccination programme
+
+
+
+
+state | BrE steɪt, AmE steɪt | 名词:状况；焦虑不安；脏乱；态；国家；州；政府；国家礼仪；/专有名词:美国/形容词:国家的；州的/国事礼仪的/及物动词:陈述；说明；规定；陈述
+他思维混乱: he is in a confused state of mind
+国中之国:a State within a State
+政府救济金:state benefits
+表示打算参加竞选:to state one's intention to run for election
+
+
+
+
+accordingly | BrE əˈkɔːdɪŋli, AmE əˈkɔrdɪŋli | 副词:因此；相应地
+他们终止了援助，所以我也就取消了这个项目:
+they withdrew support and accordingly I cancelled the project
+不管我作出什么决定，我希望你都能采取相应的行动:
+whatever I decide, I expect you to act accordingly
+
+
+
+
+inch | BrE ɪn(t)ʃ, AmE ɪn(t)ʃ | 名词:英尺；少许/不及物动词:缓慢移动/及物动词:使缓慢移动
+8英寸的降雨量/降雪量:8 inches of rain/snow;
+一点一点地:inch by inch
+险些丧命:to be within an inch of death or one's life
+向某物缓慢移动:to inch towards sth
+
+
+
+
+indication | BrE ɪndɪˈkeɪʃ(ə)n, AmE ˌɪndəˈkeɪʃ(ə)n | 名词:迹象
+是某事的端倪:to be an indication of sth
+他没有表示…:he gave no indication that …
+所有迹象表明…:there is every indication that …
+剩余工作量的标志:an indication of how much remains to be done
+
+
+
+expectation | BrE ɛkspɛkˈteɪʃ(ə)n, AmE ˌɛkspɛkˈteɪʃ(ə)n | 名词:预料；希望。要求
+出乎意料地:contrary to or against all expectation(s);
+我预计…:it is my expectation that …
+出乎意料:beyond all expectation(s)
+对某人/某事物抱有很高的期望: to have great expectations of sb/sth
+
+
+
+spike | BrE spʌɪk, AmE spaɪk | 名词:尖状物；道钉；鞋钉；尖峰；穗状花序 /复数形式: 钉鞋/及物动词:用尖物刺穿；将烈酒掺入；弃用；挫败
+被钉在某物上:to be spiked on sth
+
+
+
+
+significant | BrE sɪɡˈnɪfɪk(ə)nt, AmE sɪɡˈnɪfɪkənt | 形容词:重要的，值得关注的；有意义的；意味深长的
+…很能说明问题:it is significant that …
+还有一个非常重要的问题。:There remained one significant problem.
+
+
+
+
+vaccine | BrE ˈvaksiːn,ˈvaksɪn, AmE vækˈsin | 名词:疫苗/防毒软件
+狂犬病/破伤风疫苗:rabies/tetanus vaccine
+预防肺结核的疫苗:a vaccine against or for TB
+
+
+
+
+
+hesitant | BrE ˈhɛzɪt(ə)nt, AmE ˈhɛzədənt | 形容词:犹豫的
+对是否做某事犹豫不决: to be hesitant about doing sth
+他读得结结巴巴:his reading was hesitant
+
+
+
+uptick | BrE ˈʌptɪk, AmE ˈəptɪk | 名词:小幅增加
+如果你对下个季度的预测时没有将一个业务上升纳入其中？:
+If next quarter's forecast doesn't include an uptick in business?
+
+
+
+
+
+nationally | BrE ˈnaʃ(ə)n(ə)li, AmE ˈnæʃ(ə)nəli | 副词:全国性的；在全国范围内
+举国皆知/庆祝:to be nationally known/celebrated
+举行的会议有地方性的，有全国性的。:
+Meetings were held locally and nationally.
+
+
+
+
+
+route | BrE ruːt, AmE rut,raʊt | 名词:路途；常规路线，自行车道，航线；公路；规定路线；途径；递送路线；/及物动词:按路线发送
+安排路线:to plan a route
+走不同路线的: by a different route
+交通路线: a traffic route
+传染途径:a route of infection
+
+
+
+
+sort | BrE sɔːt, AmE sɔrt | 名词:种类；某种；某一类人；人/及物动词:把…分类，分拣，整理；挑出，分开；修理
+那种人:people of that sort
+它是什么品种的狗/他是什么样的人？:what sort of dog/man is he?
+我们勉强取得了一点进步:we made progress of sorts
+sort of:有点理解/同情:to sort of understand/sympathize
+sort of:6点左右来吧:come at sort of 6 o'clock
+
+
+
+constraint | BrE kənˈstreɪnt, AmE kənˈstreɪnt | 名词:限制；强迫
+对某人加以限制:to impose/put a constraint on sb
+无拘无束地: without constraint
+被迫做某事:to do sth under constraint
+
+
+
+
+particularly | BrE pəˈtɪkjʊləli, AmE pə(r)ˈtɪkjələrli | 副词:专门；特别；具体的
+专门为了某事选出来:to be particularly selected for sth
+交通状况很差，尤其是在市中心。:Traffic is bad, particularly in the city centre.
+
+
+
+
+
+premium | BrE ˈpriːmɪəm, AmE ˈprimiəm | 名词:附加费，津贴；溢价；保险费；/形容词:优质高价的
+支付额外费用购买/高价出售:to buy/sell at a premium
+以高于面值的价格卖股票:to sell shares or stock at a premium
+时间很紧张:time is at a premium
+优质伏特加酒:premium vodka
+
+
+
+
+chief | BrE tʃiːf, AmE tʃif | 名词:部落首领；领袖；老板/形容词:首要的，主要的；最高级别的
+将多兵少:too many chiefs and not enough Indians
+党魁:a party chief
+国防部高官:defence chiefs
+首席顾问:the chief adviser
+
+
+
+
+
+economist | BrE ɪˈkɒnəmɪst, AmE əˈkɑnəməst | 名词:经济学家
+《经济学家》杂志上的一篇文章讲到这种药可能有副作用。：
+According to an article in The Economist the drug could have side effects.
+
+
+
+
+
+
+massive | BrE ˈmasɪv, AmE ˈmæsɪv | 形容词:厚实的，粗大的；巨大的，大量的，大规模的，大额的；非常严重的；极为成功的
+大出血/严重中风:a massive haemorrhage/stroke
+该乐队会大获成功:the band are going to be massive
+这可能意味着大量的政府工作人员要暂时下岗。:
+This could mean a massive furlough of government workers.
+
+
+
+
+leisure | BrE ˈlɛʒə, AmE ˈliʒər,ˈlɛʒər | 名词:空闲/名词前:空闲的，业余的，休闲的
+做某事的空闲时间: the leisure for or to do sth
+不慌不忙地做某事:to do sth at leisure
+趁闲暇时做某事:to do sth at one's leisure
+休闲、体育和旅游活动指南:the guide to leisure, sport and tourism
 
 
 

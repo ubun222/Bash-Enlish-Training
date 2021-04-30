@@ -1,4 +1,4 @@
-slapped			拍，掌㧽
+slap			拍，掌㧽
 demand			强求
 alcoholic		含酒精的
 beverage		饮料
