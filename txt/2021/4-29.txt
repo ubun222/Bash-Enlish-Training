@@ -1,7 +1,7 @@
 blast				爆炸，痛斥
 belt				腰带，地带
 federal			联邦制的
-scrap				碎片，打架；取消
+scrap				碎片，打架，取消
 memorandum			备忘录
 framework			构架
 sign				符号，签订
