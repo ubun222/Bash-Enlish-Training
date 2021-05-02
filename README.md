@@ -10,8 +10,8 @@ export txt=$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-T
 clone
 chmod +x Bash-English-Training/1.*.sh
 cd Bash-English-Training
-./1.3.7.sh ./allinone.txt       #or ...
-./1.3.7.sh                      #然后一个一个将.txt文件拖入终端，或者输入文件路径
+./1.4.0.sh ./allinone.txt       #or ...
+./1.4.0.sh                      #然后一个一个将.txt文件拖入终端，或者输入文件路径
 ```
 
 
