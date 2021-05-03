@@ -551,7 +551,7 @@ targets=$target' '$targets
 if [[ $key -ne 0 ]];then
 break
 elif [[ $key -eq 0 ]];then
-txt="$txt"$(cat ${target} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )
+txt="$txt"$(cat ${target} | tr '\n' '@' | tr ' ' '/' |  awk -F\\\\ '{ print $1 }' )
 #echo $txt
 
 n=$(echo ${txt%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
