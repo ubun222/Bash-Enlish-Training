@@ -3,7 +3,7 @@
 
 ## Have a easy try:
 ```
-export txt=$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allinone.txt  |  tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )  && ${0#-} -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allrun.sh)"  
+export txt=$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allinone.txt  |  tr '\n' '@' | tr ' ' '/' |  awk -F\\\\ '{ print $1 }' )  && ${0#-} -c "$(curl -fsSL https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/allrun.sh)"  
 ```
 ## Small Guide
 ```
@@ -24,10 +24,7 @@ the structure of .txt file is...
 ----
 
 * 1.1.6以及更新版本支持IOS的模拟终端[ISH](https://github.com/ish-app/ish)
-* 1.3.5以及更新版本支持安卓的模拟终端[JuiceSSH](https://juicessh.com)
-* 支持传参形式加载单词部分含有空格的词表
-* 主体Shell（1.*.sh）仅使用了终端命令和变量储存，不会生成任何文件。
-* allinone.sh等文件作用于./txt/*.txt，会拼接所有词表部分然后写进allinone.txt，可直接点击allinone.command一键生成allinone.txt。
-* 另一个分支do在被push后，会执行GitHub Action，在云服务器中运行allinone.sh，并上传。
+* 不怎么支持安卓的模拟终端[JuiceSSH](https://juicessh.com)
+
 * 如遇到curl报错的问题，请参考[这里](https://cb9919.github.io/2021/01/19/修改hosts连接githubraw/)
 

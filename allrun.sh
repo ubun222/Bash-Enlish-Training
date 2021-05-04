@@ -7,7 +7,7 @@ targets="${1:-} ${2:-} ${3:-} ${4:-} ${5:-} ${6:-} ${7:-} ${8:-} ${9:-}"
 
 for t in $(seq ${#*});do
 eval rp=\${$p:-/dev/null}    
- txt=$(cat ${rp} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )"$txt"
+ txt=$(cat ${rp} | tr '\n' '@' | tr ' ' '/' |  awk -F\\\\ '{ print $1 }' )"$txt"
         txt=${txt%% }
 
 	p=$((p+1))
@@ -84,7 +84,7 @@ targets=$target' '$targets
 if ([ $key -ne 0 ]);then
 break
 elif ([ $key = 0 ]);then
-txt="$txt"$(cat ${target} | tr '\n' '@' | tr ' ' '/' |awk  '{ printf $0 }' |  awk -F\\\\ '{ print $1 }' )
+txt="$txt"$(cat ${target} | tr '\n' '@' | tr ' ' '/'  |  awk -F\\\\ '{ print $1 }' )
 
 
 n=$(echo ${txt%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
