@@ -2,7 +2,7 @@ bet				赌
 timetable			时间表
 normality			正常状态
 prime time			黄金时间
-directe				直接的，指示
+direct				直接的，指示
 state				状况，说明
 eligible			有资格的，合意的
 vaccination			接种

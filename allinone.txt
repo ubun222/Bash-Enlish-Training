@@ -114,7 +114,7 @@ deracinate				迫使离开
 describe			描述，形容
 desire				渴望
 desperately				绝望的，及其
-directe				直接的，指示
+direct				直接的，指示
 disadvantaged			贫穷的
 disorientate				使迷失方向
 dispel				驱散，消除
