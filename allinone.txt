@@ -187,7 +187,7 @@ from time to time		不时的
 frustrate	使...沮丧
 fuel				燃料，用作...的燃料
 fundamental			基本的，全然的，根本的
-furor				轰动，公愤
+furore				轰动，公愤
 gender				性别，性
 generally			一般的，普遍的
 geography			地理学，地形

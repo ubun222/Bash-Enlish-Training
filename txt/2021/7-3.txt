@@ -1,6 +1,6 @@
 rank				地位，等级，排
 set off				动身，触发
-furor				轰动，公愤
+furore				轰动，公愤
 critic				评论家，批评者
 film				电影，拍摄
 campus				校园
